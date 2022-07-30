@@ -1,0 +1,586 @@
+,Name,POS,Age,HT,WT,College,Salary,Team
+Malcolm Brogdon,Malcolm Brogdon,PG,29,"6' 5""",229 lbs,Virginia,"$21,700,000",boston-celtics
+Jaylen Brown,Jaylen Brown,SG,25,"6' 6""",223 lbs,California,"$26,758,928",boston-celtics
+JD Davison,JD Davison,G,19,"6' 3""",195 lbs,Alabama,--,boston-celtics
+Danilo Gallinari,Danilo Gallinari,F,33,"6' 10""",236 lbs,--,"$20,475,000",boston-celtics
+Sam Hauser,Sam Hauser,SF,24,"6' 8""",215 lbs,Virginia,"$313,737",boston-celtics
+Al Horford,Al Horford,C,36,"6' 9""",240 lbs,Florida,"$27,000,000",boston-celtics
+Mfiondu Kabengele,Mfiondu Kabengele,C,24,"6' 10""",250 lbs,Florida State,"$1,701,593",boston-celtics
+Luke Kornet,Luke Kornet,F,27,"7' 2""",250 lbs,Vanderbilt,"$565,986",boston-celtics
+Payton Pritchard,Payton Pritchard,PG,24,"6' 1""",195 lbs,Oregon,"$2,137,440",boston-celtics
+Matt Ryan,Matt Ryan,F,25,"6' 7""",215 lbs,Chattanooga,--,boston-celtics
+Marcus Smart,Marcus Smart,PG,28,"6' 4""",220 lbs,Oklahoma State,"$14,339,285",boston-celtics
+Jayson Tatum,Jayson Tatum,SF,24,"6' 8""",210 lbs,Duke,"$28,103,500",boston-celtics
+Brodric Thomas,Brodric Thomas,G,25,"6' 5""",185 lbs,Truman State,--,boston-celtics
+Derrick White,Derrick White,PG,28,"6' 4""",190 lbs,Colorado,"$15,178,571",boston-celtics
+Grant Williams,Grant Williams,PF,23,"6' 6""",236 lbs,Tennessee,"$2,617,800",boston-celtics
+Robert Williams III,Robert Williams III,C,24,"6' 9""",237 lbs,Texas A&amp;M,"$3,661,976",boston-celtics
+LaMarcus Aldridge,LaMarcus Aldridge,C,37,"6' 11""",250 lbs,Texas,"$1,669,178",brooklyn-nets
+Nic Claxton,Nic Claxton,PF,23,"6' 11""",215 lbs,Georgia,"$1,782,621",brooklyn-nets
+Seth Curry,Seth Curry,SG,31,"6' 2""",185 lbs,Duke,"$8,207,518",brooklyn-nets
+Goran Dragic,Goran Dragic,PG,36,"6' 3""",190 lbs,--,"$460,463",brooklyn-nets
+David Duke Jr.,David Duke Jr.,SF,22,"6' 4""",204 lbs,Providence,--,brooklyn-nets
+Kevin Durant,Kevin Durant,PF,33,"6' 10""",240 lbs,Texas,"$42,018,900",brooklyn-nets
+Blake Griffin,Blake Griffin,PF,33,"6' 9""",250 lbs,Oklahoma,"$1,669,178",brooklyn-nets
+Joe Harris,Joe Harris,SF,30,"6' 6""",220 lbs,Virginia,"$17,357,143",brooklyn-nets
+Kyrie Irving,Kyrie Irving,PG,30,"6' 2""",195 lbs,Duke,"$35,328,700",brooklyn-nets
+Patty Mills,Patty Mills,PG,33,"6' 0""",180 lbs,Saint Mary's,"$5,890,000",brooklyn-nets
+Royce O'Neale,Royce O'Neale,PF,29,"6' 5""",226 lbs,Baylor,"$8,800,000",brooklyn-nets
+Day'Ron Sharpe,Day'Ron Sharpe,C,20,"6' 9""",265 lbs,North Carolina,"$2,009,040",brooklyn-nets
+Ben Simmons,Ben Simmons,PG,26,"6' 11""",240 lbs,LSU,"$33,003,936",brooklyn-nets
+Edmond Sumner,Edmond Sumner,PG,26,"6' 4""",196 lbs,Xavier,"$2,320,000",brooklyn-nets
+Cam Thomas,Cam Thomas,SG,20,"6' 3""",210 lbs,LSU,"$2,036,280",brooklyn-nets
+T.J. Warren,T.J. Warren,SF,28,"6' 8""",220 lbs,NC State,"$12,690,000",brooklyn-nets
+Alondes Williams,Alondes Williams,G,23,"6' 5""",210 lbs,Wake Forest,--,brooklyn-nets
+Ryan Arcidiacono,Ryan Arcidiacono,G,28,"6' 3""",195 lbs,Villanova,"$546,800",new-york-knicks
+RJ Barrett,RJ Barrett,SG,22,"6' 6""",214 lbs,Duke,"$8,623,920",new-york-knicks
+Jalen Brunson,Jalen Brunson,PG,25,"6' 1""",190 lbs,Villanova,"$1,802,057",new-york-knicks
+Evan Fournier,Evan Fournier,SG,29,"6' 6""",205 lbs,--,"$17,000,000",new-york-knicks
+Quentin Grimes,Quentin Grimes,SG,22,"6' 4""",210 lbs,Houston,"$2,168,760",new-york-knicks
+Isaiah Hartenstein,Isaiah Hartenstein,C,24,"7' 0""",250 lbs,--,"$1,669,178",new-york-knicks
+Feron Hunt,Feron Hunt,F,23,"6' 8""",195 lbs,SMU,--,new-york-knicks
+Trevor Keels,Trevor Keels,F,18,"6' 4""",221 lbs,Duke,--,new-york-knicks
+Miles McBride,Miles McBride,PG,21,"6' 1""",195 lbs,West Virginia,"$925,258",new-york-knicks
+Immanuel Quickley,Immanuel Quickley,SG,23,"6' 3""",190 lbs,Kentucky,"$2,210,640",new-york-knicks
+Julius Randle,Julius Randle,PF,27,"6' 8""",250 lbs,Kentucky,"$21,780,000",new-york-knicks
+Cam Reddish,Cam Reddish,SF,22,"6' 8""",217 lbs,Duke,"$4,670,160",new-york-knicks
+Mitchell Robinson,Mitchell Robinson,C,24,"7' 0""",240 lbs,--,"$1,802,057",new-york-knicks
+Derrick Rose,Derrick Rose,PG,33,"6' 2""",200 lbs,Memphis,"$13,445,120",new-york-knicks
+Jericho Sims,Jericho Sims,PF,23,"6' 9""",250 lbs,Texas,--,new-york-knicks
+Obi Toppin,Obi Toppin,PF,24,"6' 9""",220 lbs,Dayton,"$5,105,160",new-york-knicks
+Charles Bassey,Charles Bassey,C,21,"6' 9""",230 lbs,Western Kentucky,"$925,258",philadelphia-76ers
+Charlie Brown Jr.,Charlie Brown Jr.,G,25,"6' 6""",199 lbs,Saint Joseph's,"$1,701,593",philadelphia-76ers
+Julian Champagnie,Julian Champagnie,G,--,"6' 8""",215 lbs,St. John's,--,philadelphia-76ers
+Joel Embiid,Joel Embiid,C,28,"7' 0""",280 lbs,Kansas,"$31,579,390",philadelphia-76ers
+Michael Foster Jr.,Michael Foster Jr.,F,--,"6' 9""",220 lbs,--,--,philadelphia-76ers
+James Harden,James Harden,SG,32,"6' 5""",220 lbs,Arizona State,"$44,310,840",philadelphia-76ers
+Tobias Harris,Tobias Harris,PF,30,"6' 7""",226 lbs,Tennessee,"$35,995,950",philadelphia-76ers
+Danuel House Jr.,Danuel House Jr.,SF,29,"6' 6""",220 lbs,Texas A&amp;M,"$565,986",philadelphia-76ers
+Isaiah Joe,Isaiah Joe,SG,23,"6' 4""",165 lbs,Arkansas,"$1,517,981",philadelphia-76ers
+Furkan Korkmaz,Furkan Korkmaz,SG,25,"6' 7""",202 lbs,--,"$4,629,630",philadelphia-76ers
+Tyrese Maxey,Tyrese Maxey,PG,21,"6' 2""",200 lbs,Kentucky,"$2,602,920",philadelphia-76ers
+De'Anthony Melton,De'Anthony Melton,SG,24,"6' 2""",200 lbs,USC,"$8,805,976",philadelphia-76ers
+Paul Millsap,Paul Millsap,PF,37,"6' 7""",257 lbs,Louisiana Tech,"$1,669,178",philadelphia-76ers
+Shake Milton,Shake Milton,SG,25,"6' 5""",205 lbs,SMU,"$1,846,738",philadelphia-76ers
+Georges Niang,Georges Niang,SF,29,"6' 7""",230 lbs,Iowa State,"$3,300,000",philadelphia-76ers
+Myles Powell,Myles Powell,G,25,"6' 2""",195 lbs,Seton Hall,--,philadelphia-76ers
+Paul Reed,Paul Reed,SF,23,"6' 9""",210 lbs,DePaul,"$1,517,981",philadelphia-76ers
+Jaden Springer,Jaden Springer,G,19,"6' 4""",202 lbs,Tennessee,"$2,023,800",philadelphia-76ers
+Matisse Thybulle,Matisse Thybulle,SG,25,"6' 5""",201 lbs,Washington,"$2,840,160",philadelphia-76ers
+P.J. Tucker,P.J. Tucker,PF,37,"6' 5""",245 lbs,Texas,"$7,000,000",philadelphia-76ers
+Precious Achiuwa,Precious Achiuwa,PF,22,"6' 8""",225 lbs,Memphis,"$2,711,280",toronto-raptors
+OG Anunoby,OG Anunoby,SF,25,"6' 7""",232 lbs,Indiana,"$16,071,429",toronto-raptors
+Dalano Banton,Dalano Banton,PG,22,"6' 7""",203 lbs,Nebraska,"$925,258",toronto-raptors
+Scottie Barnes,Scottie Barnes,SF,20,"6' 7""",225 lbs,Florida State,"$7,280,520",toronto-raptors
+Khem Birch,Khem Birch,C,29,"6' 9""",233 lbs,UNLV,"$6,350,000",toronto-raptors
+Isaac Bonga,Isaac Bonga,G,22,"6' 8""",180 lbs,--,"$1,669,178",toronto-raptors
+Chris Boucher,Chris Boucher,PF,29,"6' 9""",200 lbs,Oregon,"$7,020,000",toronto-raptors
+Armoni Brooks,Armoni Brooks,SG,24,"6' 3""",195 lbs,Houston,"$136,926",toronto-raptors
+Jeff Dowtin,Jeff Dowtin,G,25,"6' 3""",185 lbs,Rhode Island,--,toronto-raptors
+Malachi Flynn,Malachi Flynn,PG,24,"6' 1""",175 lbs,San Diego State,"$2,048,040",toronto-raptors
+Ron Harper Jr.,Ron Harper Jr.,G,22,"6' 6""",245 lbs,Rutgers,--,toronto-raptors
+Juancho Hernangomez,Juancho Hernangomez,F,26,"6' 9""",214 lbs,--,"$6,907,815",toronto-raptors
+David Johnson,David Johnson,PG,21,"6' 4""",209 lbs,Louisville,--,toronto-raptors
+Christian Koloko,Christian Koloko,F,22,"7' 1""",230 lbs,Arizona,--,toronto-raptors
+Svi Mykhailiuk,Svi Mykhailiuk,SG,25,"6' 7""",205 lbs,Kansas,"$1,729,217",toronto-raptors
+Otto Porter Jr.,Otto Porter Jr.,SF,29,"6' 8""",198 lbs,Georgetown,"$1,669,178",toronto-raptors
+Pascal Siakam,Pascal Siakam,PF,28,"6' 8""",230 lbs,New Mexico State,"$33,003,936",toronto-raptors
+Gary Trent Jr.,Gary Trent Jr.,SG,23,"6' 5""",209 lbs,Duke,"$16,000,000",toronto-raptors
+Fred VanVleet,Fred VanVleet,SG,28,"6' 1""",197 lbs,Wichita State,"$19,675,926",toronto-raptors
+Yuta Watanabe,Yuta Watanabe,SF,27,"6' 9""",215 lbs,George Washington,"$1,762,796",toronto-raptors
+Thaddeus Young,Thaddeus Young,PF,34,"6' 8""",235 lbs,Georgia Tech,"$14,190,000",toronto-raptors
+Lonzo Ball,Lonzo Ball,PG,24,"6' 6""",190 lbs,UCLA,"$18,604,651",chicago-bulls
+Tony Bradley,Tony Bradley,C,24,"6' 10""",248 lbs,North Carolina,"$1,669,178",chicago-bulls
+Alex Caruso,Alex Caruso,SG,28,"6' 5""",186 lbs,Texas A&amp;M,"$8,650,651",chicago-bulls
+Tyler Cook,Tyler Cook,F,24,"6' 8""",255 lbs,Iowa,"$1,701,593",chicago-bulls
+DeMar DeRozan,DeMar DeRozan,SF,32,"6' 6""",220 lbs,USC,"$26,000,000",chicago-bulls
+Ayo Dosunmu,Ayo Dosunmu,SG,22,"6' 4""",200 lbs,Illinois,"$925,258",chicago-bulls
+Andre Drummond,Andre Drummond,C,28,"6' 10""",279 lbs,Connecticut,"$1,669,178",chicago-bulls
+Javonte Green,Javonte Green,SF,29,"6' 5""",205 lbs,Radford,"$1,669,178",chicago-bulls
+Malcolm Hill,Malcolm Hill,F,26,"6' 6""",220 lbs,Illinois,--,chicago-bulls
+Derrick Jones Jr.,Derrick Jones Jr.,SF,25,"6' 6""",210 lbs,UNLV,"$9,720,900",chicago-bulls
+Zach LaVine,Zach LaVine,SG,27,"6' 5""",200 lbs,UCLA,"$19,500,000",chicago-bulls
+Marko Simonovic,Marko Simonovic,C,22,"6' 11""",220 lbs,--,"$925,258",chicago-bulls
+Dalen Terry,Dalen Terry,G,20,"6' 7""",195 lbs,Arizona,--,chicago-bulls
+Matt Thomas,Matt Thomas,SG,27,"6' 3""",190 lbs,Iowa State,"$1,669,178",chicago-bulls
+Tristan Thompson,Tristan Thompson,C,31,"6' 9""",254 lbs,Texas,"$1,000,000",chicago-bulls
+Nikola Vucevic,Nikola Vucevic,C,31,"6' 10""",260 lbs,USC,"$24,000,000",chicago-bulls
+Coby White,Coby White,PG,22,"6' 4""",195 lbs,North Carolina,"$5,837,760",chicago-bulls
+Patrick Williams,Patrick Williams,PF,20,"6' 7""",215 lbs,Florida State,"$7,422,000",chicago-bulls
+Ochai Agbaji,Ochai Agbaji,F,22,"6' 5""",215 lbs,Kansas,--,cleveland-cavaliers
+Jarrett Allen,Jarrett Allen,C,24,"6' 10""",243 lbs,Texas,"$20,000,000",cleveland-cavaliers
+Moses Brown,Moses Brown,C,22,"7' 2""",245 lbs,UCLA,"$19,186",cleveland-cavaliers
+Ed Davis,Ed Davis,C,33,"6' 9""",218 lbs,North Carolina,"$1,669,178",cleveland-cavaliers
+Khalifa Diop,Khalifa Diop,C,20,"6' 11""",231 lbs,--,--,cleveland-cavaliers
+Tim Frazier,Tim Frazier,PG,31,"6' 0""",170 lbs,Penn State,--,cleveland-cavaliers
+Darius Garland,Darius Garland,PG,22,"6' 1""",192 lbs,Vanderbilt,"$7,040,880",cleveland-cavaliers
+Brandon Goodwin,Brandon Goodwin,G,26,"6' 0""",180 lbs,Florida Gulf Coast,--,cleveland-cavaliers
+Caris LeVert,Caris LeVert,SG,27,"6' 6""",205 lbs,Michigan,"$17,500,000",cleveland-cavaliers
+Robin Lopez,Robin Lopez,C,34,"7' 0""",281 lbs,Stanford,"$5,000,000",cleveland-cavaliers
+Kevin Love,Kevin Love,PF,33,"6' 8""",251 lbs,UCLA,"$31,258,256",cleveland-cavaliers
+Lauri Markkanen,Lauri Markkanen,PF,25,"6' 11""",240 lbs,Arizona,"$15,690,909",cleveland-cavaliers
+Evan Mobley,Evan Mobley,C,21,"6' 11""",215 lbs,USC,"$8,075,160",cleveland-cavaliers
+Isaiah Mobley,Isaiah Mobley,F,22,"6' 10""",240 lbs,USC,--,cleveland-cavaliers
+RJ Nembhard Jr.,RJ Nembhard Jr.,SG,23,"6' 4""",200 lbs,TCU,--,cleveland-cavaliers
+Raul Neto,Raul Neto,PG,30,"6' 2""",180 lbs,--,"$1,669,178",cleveland-cavaliers
+Isaac Okoro,Isaac Okoro,SF,21,"6' 5""",225 lbs,Auburn,"$6,720,720",cleveland-cavaliers
+Cedi Osman,Cedi Osman,SF,27,"6' 7""",230 lbs,--,"$8,133,334",cleveland-cavaliers
+Rajon Rondo,Rajon Rondo,PG,36,"6' 1""",180 lbs,Kentucky,"$1,669,178",cleveland-cavaliers
+Ricky Rubio,Ricky Rubio,PG,31,"6' 2""",190 lbs,--,"$17,800,000",cleveland-cavaliers
+Collin Sexton,Collin Sexton,PG,23,"6' 1""",190 lbs,Alabama,"$6,439,671",cleveland-cavaliers
+Lamar Stevens,Lamar Stevens,F,25,"6' 6""",230 lbs,Penn State,"$1,517,981",cleveland-cavaliers
+Luke Travers,Luke Travers,G,20,"6' 7""",207 lbs,--,--,cleveland-cavaliers
+Dean Wade,Dean Wade,PF,25,"6' 9""",228 lbs,Kansas State,"$1,782,621",cleveland-cavaliers
+Dylan Windler,Dylan Windler,SG,25,"6' 6""",196 lbs,Belmont,"$2,239,200",cleveland-cavaliers
+Marvin Bagley III,Marvin Bagley III,PF,23,"6' 11""",235 lbs,Duke,"$11,312,114",detroit-pistons
+Saddiq Bey,Saddiq Bey,SF,23,"6' 8""",215 lbs,Villanova,"$2,824,320",detroit-pistons
+Buddy Boeheim,Buddy Boeheim,G,22,"6' 6""",195 lbs,Syracuse,--,detroit-pistons
+Alec Burks,Alec Burks,SG,31,"6' 6""",214 lbs,Colorado,"$9,536,000",detroit-pistons
+Cade Cunningham,Cade Cunningham,PG,20,"6' 6""",220 lbs,Oklahoma State,"$10,050,120",detroit-pistons
+Hamidou Diallo,Hamidou Diallo,SG,23,"6' 5""",202 lbs,Kentucky,"$5,200,000",detroit-pistons
+Jalen Duren,Jalen Duren,C,18,"6' 11""",250 lbs,Memphis,--,detroit-pistons
+Carsen Edwards,Carsen Edwards,PG,24,"5' 11""",200 lbs,Purdue,"$1,782,621",detroit-pistons
+Luka Garza,Luka Garza,C,23,"6' 10""",243 lbs,Iowa,"$925,258",detroit-pistons
+Killian Hayes,Killian Hayes,PG,21,"6' 5""",195 lbs,--,"$5,572,680",detroit-pistons
+Jaden Ivey,Jaden Ivey,G,20,"6' 4""",200 lbs,Purdue,--,detroit-pistons
+Frank Jackson,Frank Jackson,PG,24,"6' 3""",205 lbs,Duke,"$3,000,000",detroit-pistons
+Cory Joseph,Cory Joseph,PG,30,"6' 3""",200 lbs,Texas,"$4,910,000",detroit-pistons
+Braxton Key,Braxton Key,G,25,"6' 8""",230 lbs,Virginia,--,detroit-pistons
+Saben Lee,Saben Lee,PG,23,"6' 2""",183 lbs,Vanderbilt,"$1,489,065",detroit-pistons
+Isaiah Livers,Isaiah Livers,PF,24,"6' 7""",230 lbs,Michigan,"$1,057,260",detroit-pistons
+Rodney McGruder,Rodney McGruder,G,31,"6' 4""",205 lbs,Kansas State,"$1,669,178",detroit-pistons
+Nerlens Noel,Nerlens Noel,C,28,"6' 11""",220 lbs,Kentucky,"$8,000,000",detroit-pistons
+Kelly Olynyk,Kelly Olynyk,PF,31,"6' 11""",240 lbs,Gonzaga,"$12,195,122",detroit-pistons
+Jamorko Pickett,Jamorko Pickett,PF,24,"6' 9""",206 lbs,Georgetown,--,detroit-pistons
+Gabriele Procida,Gabriele Procida,G,--,"6' 7""",180 lbs,--,--,detroit-pistons
+Isaiah Stewart,Isaiah Stewart,C,21,"6' 8""",250 lbs,Washington,"$3,277,080",detroit-pistons
+Kemba Walker,Kemba Walker,PG,32,"6' 0""",184 lbs,Connecticut,"$8,729,020",detroit-pistons
+Justin Anderson,Justin Anderson,F,28,"6' 5""",231 lbs,Virginia,--,indiana-pacers
+Hugo Besson,Hugo Besson,G,21,"6' 3""",196 lbs,--,--,indiana-pacers
+Goga Bitadze,Goga Bitadze,C,23,"7' 0""",250 lbs,--,"$3,098,400",indiana-pacers
+Oshae Brissett,Oshae Brissett,SF,24,"6' 7""",210 lbs,Syracuse,"$1,701,593",indiana-pacers
+Kendall Brown,Kendall Brown,G,19,"6' 8""",205 lbs,Baylor,--,indiana-pacers
+Chris Duarte,Chris Duarte,SG,25,"6' 5""",190 lbs,Oregon,"$3,749,400",indiana-pacers
+Tyrese Haliburton,Tyrese Haliburton,PG,22,"6' 5""",185 lbs,Iowa State,"$4,023,600",indiana-pacers
+Buddy Hield,Buddy Hield,SG,29,"6' 4""",220 lbs,Oklahoma,"$22,768,890",indiana-pacers
+Nate Hinton,Nate Hinton,G,23,"6' 5""",210 lbs,Houston,--,indiana-pacers
+Isaiah Jackson,Isaiah Jackson,F,20,"6' 10""",205 lbs,Kentucky,"$2,451,240",indiana-pacers
+Bennedict Mathurin,Bennedict Mathurin,G,20,"6' 6""",210 lbs,Arizona,--,indiana-pacers
+T.J. McConnell,T.J. McConnell,PG,30,"6' 1""",190 lbs,Arizona,"$7,500,000",indiana-pacers
+Andrew Nembhard,Andrew Nembhard,G,22,"6' 5""",193 lbs,Florida,--,indiana-pacers
+Aaron Nesmith,Aaron Nesmith,SF,22,"6' 5""",215 lbs,Vanderbilt,"$3,631,200",indiana-pacers
+Jalen Smith,Jalen Smith,F,22,"6' 10""",215 lbs,Maryland,"$4,458,000",indiana-pacers
+Lance Stephenson,Lance Stephenson,G,31,"6' 5""",210 lbs,Cincinnati,"$642,729",indiana-pacers
+Terry Taylor,Terry Taylor,SG,22,"6' 5""",230 lbs,Austin Peay,"$600,000",indiana-pacers
+Daniel Theis,Daniel Theis,C,30,"6' 9""",245 lbs,--,"$8,280,351",indiana-pacers
+Myles Turner,Myles Turner,C,26,"6' 11""",250 lbs,Texas,"$18,000,000",indiana-pacers
+Gabe York,Gabe York,G,28,"6' 3""",185 lbs,Arizona,--,indiana-pacers
+Grayson Allen,Grayson Allen,SG,26,"6' 4""",198 lbs,Duke,"$4,054,695",milwaukee-bucks
+Giannis Antetokounmpo,Giannis Antetokounmpo,PF,27,"6' 11""",242 lbs,--,"$39,344,970",milwaukee-bucks
+Thanasis Antetokounmpo,Thanasis Antetokounmpo,SF,30,"6' 6""",219 lbs,--,"$1,669,178",milwaukee-bucks
+MarJon Beauchamp,MarJon Beauchamp,G,21,"6' 7""",197 lbs,--,--,milwaukee-bucks
+Jevon Carter,Jevon Carter,PG,26,"6' 1""",200 lbs,West Virginia,"$441,277",milwaukee-bucks
+Pat Connaughton,Pat Connaughton,SG,29,"6' 5""",209 lbs,Notre Dame,"$5,333,334",milwaukee-bucks
+AJ Green,AJ Green,G,22,"6' 4""",190 lbs,Northern Iowa,--,milwaukee-bucks
+George Hill,George Hill,PG,36,"6' 4""",188 lbs,IUPUI,"$4,000,000",milwaukee-bucks
+Jrue Holiday,Jrue Holiday,PG,32,"6' 3""",205 lbs,UCLA,"$32,413,333",milwaukee-bucks
+Serge Ibaka,Serge Ibaka,C,32,"6' 10""",235 lbs,--,"$9,720,900",milwaukee-bucks
+Brook Lopez,Brook Lopez,C,34,"7' 0""",282 lbs,Stanford,"$13,302,325",milwaukee-bucks
+Sandro Mamukelashvili,Sandro Mamukelashvili,PF,23,"6' 11""",240 lbs,Seton Hall,--,milwaukee-bucks
+Wesley Matthews,Wesley Matthews,SG,35,"6' 4""",220 lbs,Marquette,"$1,237,494",milwaukee-bucks
+Khris Middleton,Khris Middleton,SF,30,"6' 7""",222 lbs,Texas A&amp;M,"$35,500,000",milwaukee-bucks
+Jordan Nwora,Jordan Nwora,SF,23,"6' 8""",225 lbs,Louisville,"$1,517,981",milwaukee-bucks
+Bobby Portis,Bobby Portis,C,27,"6' 10""",250 lbs,Arkansas,"$4,347,600",milwaukee-bucks
+Lindell Wigginton,Lindell Wigginton,G,24,"6' 1""",189 lbs,Iowa State,--,milwaukee-bucks
+Christian Braun,Christian Braun,G,21,"6' 6""",218 lbs,Kansas,--,denver-nuggets
+Bruce Brown,Bruce Brown,SF,25,"6' 4""",202 lbs,"$4,736,102",,denver-nuggets
+Kentavious Caldwell-Pope,Kentavious Caldwell-Pope,SG,29,"6' 5""",204 lbs,Georgia,"$13,038,862",denver-nuggets
+Facundo Campazzo,Facundo Campazzo,PG,31,"5' 10""",195 lbs,--,"$3,200,000",denver-nuggets
+Vlatko Cancar,Vlatko Cancar,SF,25,"6' 8""",236 lbs,--,"$1,782,621",denver-nuggets
+DeMarcus Cousins,DeMarcus Cousins,C,31,"6' 10""",270 lbs,Kentucky,"$431,684",denver-nuggets
+Aaron Gordon,Aaron Gordon,PF,26,"6' 8""",235 lbs,Arizona,"$16,409,091",denver-nuggets
+Jeff Green,Jeff Green,PF,35,"6' 8""",235 lbs,Georgetown,"$4,500,000",denver-nuggets
+Markus Howard,Markus Howard,PG,23,"5' 10""",175 lbs,Marquette,--,denver-nuggets
+Bones Hyland,Bones Hyland,PG,21,"6' 2""",169 lbs,Virginia Commonwealth,"$2,096,880",denver-nuggets
+Nikola Jokic,Nikola Jokic,C,27,"6' 11""",284 lbs,--,"$31,579,390",denver-nuggets
+DeAndre Jordan,DeAndre Jordan,C,34,"6' 11""",265 lbs,Texas A&amp;M,"$374,126",denver-nuggets
+Jamal Murray,Jamal Murray,PG,25,"6' 3""",215 lbs,Kentucky,"$29,467,800",denver-nuggets
+Zeke Nnaji,Zeke Nnaji,PF,21,"6' 9""",240 lbs,Arizona,"$2,498,760",denver-nuggets
+Michael Porter Jr.,Michael Porter Jr.,SF,24,"6' 10""",218 lbs,Missouri,"$5,258,735",denver-nuggets
+Davon Reed,Davon Reed,SG,27,"6' 5""",206 lbs,--,,denver-nuggets
+Ish Smith,Ish Smith,PG,34,"6' 0""",175 lbs,Wake Forest,"$4,500,000",denver-nuggets
+Peyton Watson,Peyton Watson,F,19,"6' 8""",200 lbs,UCLA,--,denver-nuggets
+Jack White,Jack White,F,24,"6' 7""",222 lbs,Duke,--,denver-nuggets
+Kyle Anderson,Kyle Anderson,SF,28,"6' 9""",230 lbs,UCLA,"$9,937,150",minnesota-timberwolves
+Anthony Edwards,Anthony Edwards,SF,20,"6' 4""",225 lbs,Georgia,"$10,245,480",minnesota-timberwolves
+Bryn Forbes,Bryn Forbes,SG,29,"6' 2""",205 lbs,Michigan State,"$4,500,000",minnesota-timberwolves
+Rudy Gobert,Rudy Gobert,C,30,"7' 1""",258 lbs,--,"$35,344,828",minnesota-timberwolves
+Nathan Knight,Nathan Knight,F,24,"6' 10""",253 lbs,William &amp; Mary,--,minnesota-timberwolves
+A.J. Lawson,A.J. Lawson,G,22,"6' 6""",179 lbs,South Carolina,--,minnesota-timberwolves
+Jake Layman,Jake Layman,SF,28,"6' 8""",209 lbs,Maryland,"$3,940,185",minnesota-timberwolves
+Jaden McDaniels,Jaden McDaniels,PF,21,"6' 9""",185 lbs,Washington,"$2,063,280",minnesota-timberwolves
+Jordan McLaughlin,Jordan McLaughlin,PG,26,"5' 11""",185 lbs,USC,"$2,000,000",minnesota-timberwolves
+Josh Minott,Josh Minott,F,20,"6' 8""",205 lbs,Memphis,--,minnesota-timberwolves
+Greg Monroe,Greg Monroe,C,32,"6' 10""",250 lbs,Georgetown,--,minnesota-timberwolves
+Wendell Moore Jr.,Wendell Moore Jr.,F,20,"6' 5""",213 lbs,Duke,--,minnesota-timberwolves
+Jaylen Nowell,Jaylen Nowell,SG,23,"6' 4""",201 lbs,Washington,"$1,782,621",minnesota-timberwolves
+Taurean Prince,Taurean Prince,PF,28,"6' 6""",218 lbs,Baylor,"$13,000,000",minnesota-timberwolves
+Naz Reid,Naz Reid,C,22,"6' 9""",264 lbs,LSU,"$1,782,621",minnesota-timberwolves
+Austin Rivers,Austin Rivers,SG,29,"6' 4""",200 lbs,Duke,"$1,669,178",minnesota-timberwolves
+D'Angelo Russell,D'Angelo Russell,PG,26,"6' 4""",193 lbs,Ohio State,"$30,013,500",minnesota-timberwolves
+Matteo Spagnolo,Matteo Spagnolo,G,19,"6' 6""",194 lbs,--,--,minnesota-timberwolves
+Karl-Anthony Towns,Karl-Anthony Towns,C,26,"6' 11""",248 lbs,Kentucky,"$31,650,600",minnesota-timberwolves
+McKinley Wright IV,McKinley Wright IV,PG,23,"5' 11""",192 lbs,Colorado,--,minnesota-timberwolves
+Darius Bazley,Darius Bazley,PF,22,"6' 8""",208 lbs,--,"$2,513,040",oklahoma-city-thunder
+Ousmane Dieng,Ousmane Dieng,F,19,"6' 10""",216 lbs,--,--,oklahoma-city-thunder
+Luguentz Dort,Luguentz Dort,SF,23,"6' 3""",215 lbs,Arizona State,"$1,782,621",oklahoma-city-thunder
+Derrick Favors,Derrick Favors,C,31,"6' 9""",265 lbs,Georgia Tech,"$9,720,900",oklahoma-city-thunder
+Melvin Frazier Jr.,Melvin Frazier Jr.,G,25,"6' 5""",215 lbs,Tulane,--,oklahoma-city-thunder
+Josh Giddey,Josh Giddey,SG,19,"6' 8""",210 lbs,--,"$5,988,000",oklahoma-city-thunder
+Shai Gilgeous-Alexander,Shai Gilgeous-Alexander,PG,24,"6' 6""",180 lbs,Kentucky,"$5,495,532",oklahoma-city-thunder
+Jaylen Hoard,Jaylen Hoard,F,23,"6' 8""",216 lbs,Wake Forest,--,oklahoma-city-thunder
+Chet Holmgren,Chet Holmgren,F,20,"7' 1""",195 lbs,Gonzaga,--,oklahoma-city-thunder
+Ty Jerome,Ty Jerome,SG,25,"6' 5""",195 lbs,Virginia,"$2,412,840",oklahoma-city-thunder
+Georgios Kalaitzakis,Georgios Kalaitzakis,SF,23,"6' 7""",192 lbs,--,"$925,258",oklahoma-city-thunder
+Vit Krejci,Vit Krejci,G,22,"6' 8""",195 lbs,--,"$925,258",oklahoma-city-thunder
+Theo Maledon,Theo Maledon,PG,21,"6' 4""",175 lbs,--,"$2,000,000",oklahoma-city-thunder
+Tre Mann,Tre Mann,PG,21,"6' 5""",190 lbs,Florida,"$2,901,240",oklahoma-city-thunder
+Mike Muscala,Mike Muscala,C,31,"6' 10""",240 lbs,Bucknell,"$3,365,385",oklahoma-city-thunder
+Eugene Omoruyi,Eugene Omoruyi,F,25,"6' 6""",235 lbs,Oregon,--,oklahoma-city-thunder
+Aleksej Pokusevski,Aleksej Pokusevski,C,20,"7' 0""",190 lbs,--,"$3,113,160",oklahoma-city-thunder
+Jeremiah Robinson-Earl,Jeremiah Robinson-Earl,PF,21,"6' 9""",230 lbs,Villanova,"$2,000,000",oklahoma-city-thunder
+Lindy Waters III,Lindy Waters III,F,25,"6' 6""",215 lbs,Oklahoma State,--,oklahoma-city-thunder
+Aaron Wiggins,Aaron Wiggins,SG,23,"6' 6""",200 lbs,Maryland,--,oklahoma-city-thunder
+Jalen Williams,Jalen Williams,F,21,"6' 6""",195 lbs,Santa Clara,--,oklahoma-city-thunder
+Jaylin Williams,Jaylin Williams,F,20,"6' 10""",240 lbs,Arkansas,--,oklahoma-city-thunder
+Kenrich Williams,Kenrich Williams,SF,27,"6' 6""",210 lbs,TCU,"$2,000,000",oklahoma-city-thunder
+Keljin Blevins,Keljin Blevins,SF,26,"6' 4""",200 lbs,Montana State,--,portland-trail-blazers
+Greg Brown III,Greg Brown III,PF,20,"6' 7""",206 lbs,Texas,"$925,258",portland-trail-blazers
+Kris Dunn,Kris Dunn,PG,28,"6' 3""",205 lbs,Providence,"$5,005,350",portland-trail-blazers
+CJ Elleby,CJ Elleby,SG,22,"6' 6""",200 lbs,Washington State,"$1,517,981",portland-trail-blazers
+Drew Eubanks,Drew Eubanks,PF,25,"6' 9""",245 lbs,Oregon State,"$1,762,796",portland-trail-blazers
+Jerami Grant,Jerami Grant,SF,28,"6' 8""",210 lbs,Syracuse,"$20,002,500",portland-trail-blazers
+Josh Hart,Josh Hart,SG,27,"6' 5""",215 lbs,Villanova,"$12,000,000",portland-trail-blazers
+Elijah Hughes,Elijah Hughes,F,24,"6' 5""",215 lbs,Syracuse,"$1,517,981",portland-trail-blazers
+Joe Ingles,Joe Ingles,SG,34,"6' 8""",220 lbs,--,"$13,036,364",portland-trail-blazers
+Keon Johnson,Keon Johnson,SG,20,"6' 4""",185 lbs,Tennessee,"$2,553,120",portland-trail-blazers
+Ismael Kamagate,Ismael Kamagate,C,21,"6' 11""",227 lbs,--,--,portland-trail-blazers
+Damian Lillard,Damian Lillard,PG,32,"6' 2""",195 lbs,Weber State,"$39,344,900",portland-trail-blazers
+Nassir Little,Nassir Little,SF,22,"6' 5""",220 lbs,North Carolina,"$2,316,240",portland-trail-blazers
+Didi Louzada,Didi Louzada,SF,23,"6' 5""",188 lbs,--,"$1,786,878",portland-trail-blazers
+Ben McLemore,Ben McLemore,SG,29,"6' 3""",195 lbs,Kansas,"$1,669,178",portland-trail-blazers
+Jusuf Nurkic,Jusuf Nurkic,C,27,"6' 11""",290 lbs,--,"$12,000,000",portland-trail-blazers
+Gary Payton II,Gary Payton II,SG,29,"6' 3""",195 lbs,Oregon State,"$1,669,178",portland-trail-blazers
+Reggie Perry,Reggie Perry,F,22,"6' 8""",250 lbs,Mississippi State,--,portland-trail-blazers
+Shaedon Sharpe,Shaedon Sharpe,G,19,"6' 6""",200 lbs,Kentucky,--,portland-trail-blazers
+Anfernee Simons,Anfernee Simons,SG,23,"6' 3""",181 lbs,--,"$3,938,818",portland-trail-blazers
+Jabari Walker,Jabari Walker,F,20,"6' 9""",215 lbs,Colorado,--,portland-trail-blazers
+Trendon Watford,Trendon Watford,PF,21,"6' 8""",237 lbs,LSU,"$436,482",portland-trail-blazers
+Brandon Williams,Brandon Williams,PG,22,"6' 2""",190 lbs,Arizona,--,portland-trail-blazers
+Justise Winslow,Justise Winslow,PF,26,"6' 6""",222 lbs,Duke,"$3,902,439",portland-trail-blazers
+Cody Zeller,Cody Zeller,C,29,"6' 11""",240 lbs,Indiana,--,portland-trail-blazers
+Nickeil Alexander-Walker,Nickeil Alexander-Walker,SG,23,"6' 5""",205 lbs,Virginia Tech,"$3,261,480",utah-jazz
+Udoka Azubuike,Udoka Azubuike,C,22,"7' 0""",270 lbs,Kansas,"$2,075,880",utah-jazz
+Malik Beasley,Malik Beasley,SG,25,"6' 4""",187 lbs,Florida State,"$14,491,964",utah-jazz
+Patrick Beverley,Patrick Beverley,PG,34,"6' 1""",180 lbs,Arkansas,"$14,320,988",utah-jazz
+Bojan Bogdanovic,Bojan Bogdanovic,SF,33,"6' 7""",226 lbs,--,"$18,700,000",utah-jazz
+Leandro Bolmaro,Leandro Bolmaro,SG,21,"6' 6""",200 lbs,--,"$2,353,320",utah-jazz
+Jared Butler,Jared Butler,SG,21,"6' 3""",193 lbs,Baylor,"$925,258",utah-jazz
+Jordan Clarkson,Jordan Clarkson,PG,30,"6' 4""",194 lbs,Missouri,"$12,420,000",utah-jazz
+Mike Conley,Mike Conley,PG,34,"6' 1""",175 lbs,Ohio State,"$21,000,000",utah-jazz
+Simone Fontecchio,Simone Fontecchio,F,26,"6' 7""",200 lbs,--,--,utah-jazz
+Trent Forrest,Trent Forrest,SG,24,"6' 4""",210 lbs,Florida State,--,utah-jazz
+Rudy Gay,Rudy Gay,SF,35,"6' 8""",250 lbs,Connecticut,"$5,890,000",utah-jazz
+Johnny Juzang,Johnny Juzang,G,21,"6' 7""",215 lbs,UCLA,--,utah-jazz
+Walker Kessler,Walker Kessler,C,--,"7' 1""",245 lbs,Auburn,--,utah-jazz
+Donovan Mitchell,Donovan Mitchell,SG,25,"6' 1""",215 lbs,Louisville,"$28,103,500",utah-jazz
+Eric Paschall,Eric Paschall,PF,25,"6' 6""",255 lbs,Villanova,"$1,782,621",utah-jazz
+Xavier Sneed,Xavier Sneed,F,24,"6' 5""",215 lbs,Bradley,"$8,558",utah-jazz
+Jarred Vanderbilt,Jarred Vanderbilt,PF,23,"6' 9""",214 lbs,Kentucky,"$4,050,000",utah-jazz
+Hassan Whiteside,Hassan Whiteside,C,33,"7' 0""",265 lbs,Marshall,"$1,669,178",utah-jazz
+Patrick Baldwin Jr.,Patrick Baldwin Jr.,F,19,"6' 9""",220 lbs,Milwaukee,--,golden-state-warriors
+Nemanja Bjelica,Nemanja Bjelica,PF,34,"6' 9""",234 lbs,--,"$1,669,178",golden-state-warriors
+Chris Chiozza,Chris Chiozza,G,26,"5' 11""",175 lbs,Florida,--,golden-state-warriors
+Stephen Curry,Stephen Curry,PG,34,"6' 2""",185 lbs,Davidson,"$45,780,966",golden-state-warriors
+Donte DiVincenzo,Donte DiVincenzo,SG,25,"6' 4""",203 lbs,Villanova,"$4,675,830",golden-state-warriors
+Draymond Green,Draymond Green,PF,32,"6' 6""",230 lbs,Michigan State,"$24,026,712",golden-state-warriors
+Andre Iguodala,Andre Iguodala,F,38,"6' 6""",215 lbs,Arizona,"$1,669,178",golden-state-warriors
+Jonathan Kuminga,Jonathan Kuminga,PF,19,"6' 8""",210 lbs,--,"$5,466,360",golden-state-warriors
+Kevon Looney,Kevon Looney,C,26,"6' 9""",222 lbs,UCLA,"$5,178,572",golden-state-warriors
+Mac McClung,Mac McClung,SG,23,"6' 2""",185 lbs,Texas Tech,--,golden-state-warriors
+Moses Moody,Moses Moody,SG,20,"6' 6""",205 lbs,Arkansas,"$3,562,200",golden-state-warriors
+Jordan Poole,Jordan Poole,SG,23,"6' 4""",194 lbs,Michigan,"$2,161,440",golden-state-warriors
+Ryan Rollins,Ryan Rollins,G,20,"6' 4""",180 lbs,Toledo,--,golden-state-warriors
+Gui Santos,Gui Santos,F,20,"6' 8""",209 lbs,--,--,golden-state-warriors
+Klay Thompson,Klay Thompson,SG,32,"6' 6""",220 lbs,Washington State,"$37,980,720",golden-state-warriors
+Quinndary Weatherspoon,Quinndary Weatherspoon,SG,25,"6' 3""",207 lbs,Mississippi State,--,golden-state-warriors
+Andrew Wiggins,Andrew Wiggins,SF,27,"6' 7""",197 lbs,Kansas,"$31,579,390",golden-state-warriors
+James Wiseman,James Wiseman,C,21,"7' 0""",258 lbs,Memphis,"$9,166,800",golden-state-warriors
+Nicolas Batum,Nicolas Batum,PF,33,"6' 8""",230 lbs,--,"$3,170,029",la-clippers
+Brandon Boston Jr.,Brandon Boston Jr.,SG,20,"6' 6""",188 lbs,Kentucky,"$925,258",la-clippers
+Amir Coffey,Amir Coffey,SG,25,"6' 7""",210 lbs,Minnesota,"$153,488",la-clippers
+Robert Covington,Robert Covington,PF,31,"6' 7""",209 lbs,Tennessee State,"$12,975,471",la-clippers
+Moussa Diabate,Moussa Diabate,F,20,"6' 11""",210 lbs,Michigan,--,la-clippers
+Paul George,Paul George,SG,32,"6' 8""",220 lbs,Fresno State,"$39,344,900",la-clippers
+Rodney Hood,Rodney Hood,SG,29,"6' 8""",208 lbs,Duke,"$1,669,178",la-clippers
+Reggie Jackson,Reggie Jackson,PG,32,"6' 2""",208 lbs,Boston College,"$10,384,500",la-clippers
+Luke Kennard,Luke Kennard,SG,26,"6' 5""",206 lbs,Duke,"$13,347,727",la-clippers
+Kawhi Leonard,Kawhi Leonard,SF,31,"6' 7""",225 lbs,San Diego State,"$39,344,900",la-clippers
+Terance Mann,Terance Mann,SG,25,"6' 5""",215 lbs,Florida State,"$1,782,621",la-clippers
+Xavier Moon,Xavier Moon,PG,27,"6' 2""",165 lbs,Morehead State,--,la-clippers
+Marcus Morris Sr.,Marcus Morris Sr.,SF,32,"6' 8""",218 lbs,Kansas,"$15,627,907",la-clippers
+Norman Powell,Norman Powell,SF,29,"6' 3""",215 lbs,UCLA,"$15,517,241",la-clippers
+Jason Preston,Jason Preston,PG,22,"6' 3""",181 lbs,Ohio,"$1,062,303",la-clippers
+John Wall,John Wall,PG,31,"6' 3""",210 lbs,Kentucky,"$44,310,840",la-clippers
+Ivica Zubac,Ivica Zubac,C,25,"7' 0""",240 lbs,--,"$7,518,518",la-clippers
+Carmelo Anthony,Carmelo Anthony,PF,38,"6' 7""",238 lbs,Syracuse,"$1,669,178",los-angeles-lakers
+D.J. Augustin,D.J. Augustin,G,34,"5' 11""",183 lbs,Texas,"$393,312",los-angeles-lakers
+Kent Bazemore,Kent Bazemore,SF,33,"6' 4""",195 lbs,Old Dominion,"$1,669,178",los-angeles-lakers
+Avery Bradley,Avery Bradley,PG,31,"6' 3""",180 lbs,Texas,"$1,669,178",los-angeles-lakers
+Troy Brown Jr.,Troy Brown Jr.,SF,23,"6' 6""",215 lbs,Oregon,"$5,170,564",los-angeles-lakers
+Thomas Bryant,Thomas Bryant,C,24,"6' 10""",248 lbs,Indiana,"$8,666,667",los-angeles-lakers
+Max Christie,Max Christie,G,19,"6' 6""",190 lbs,Michigan State,--,los-angeles-lakers
+Anthony Davis,Anthony Davis,PF,29,"6' 10""",253 lbs,Kentucky,"$35,361,360",los-angeles-lakers
+Wayne Ellington,Wayne Ellington,SG,34,"6' 4""",207 lbs,North Carolina,"$1,669,178",los-angeles-lakers
+Wenyen Gabriel,Wenyen Gabriel,F,25,"6' 9""",205 lbs,Kentucky,--,los-angeles-lakers
+Talen Horton-Tucker,Talen Horton-Tucker,SG,21,"6' 4""",234 lbs,Iowa State,"$9,500,000",los-angeles-lakers
+Dwight Howard,Dwight Howard,C,36,"6' 10""",265 lbs,--,"$1,669,178",los-angeles-lakers
+Jay Huff,Jay Huff,C,23,"7' 1""",240 lbs,Virginia,--,los-angeles-lakers
+LeBron James,LeBron James,SF,37,"6' 9""",250 lbs,--,"$41,180,544",los-angeles-lakers
+Stanley Johnson,Stanley Johnson,PF,26,"6' 6""",242 lbs,Arizona,"$888,616",los-angeles-lakers
+Damian Jones,Damian Jones,C,27,"6' 11""",245 lbs,Vanderbilt,"$1,977,011",los-angeles-lakers
+Mason Jones,Mason Jones,G,24,"6' 4""",200 lbs,Arkansas,--,los-angeles-lakers
+Kendrick Nunn,Kendrick Nunn,G,26,"6' 2""",190 lbs,Oakland,"$5,000,000",los-angeles-lakers
+Scotty Pippen Jr.,Scotty Pippen Jr.,G,21,"6' 3""",185 lbs,Vanderbilt,--,los-angeles-lakers
+Austin Reaves,Austin Reaves,SG,24,"6' 5""",197 lbs,Oklahoma,"$925,258",los-angeles-lakers
+Cole Swider,Cole Swider,F,23,"6' 9""",220 lbs,Syracuse,--,los-angeles-lakers
+Juan Toscano-Anderson,Juan Toscano-Anderson,SF,29,"6' 6""",209 lbs,Marquette,"$1,701,593",los-angeles-lakers
+Lonnie Walker IV,Lonnie Walker IV,G,23,"6' 4""",204 lbs,"$4,447,896",,los-angeles-lakers
+Russell Westbrook,Russell Westbrook,PG,33,"6' 3""",200 lbs,UCLA,"$44,211,146",los-angeles-lakers
+Deandre Ayton,Deandre Ayton,C,24,"6' 11""",250 lbs,Arizona,"$12,632,950",phoenix-suns
+Bismack Biyombo,Bismack Biyombo,C,29,"6' 8""",255 lbs,--,"$863,368",phoenix-suns
+Devin Booker,Devin Booker,SG,25,"6' 5""",206 lbs,Kentucky,"$31,650,600",phoenix-suns
+Mikal Bridges,Mikal Bridges,SF,25,"6' 6""",209 lbs,Villanova,"$5,557,725",phoenix-suns
+Torrey Craig,Torrey Craig,SF,31,"6' 7""",221 lbs,USC Upstate,"$4,878,049",phoenix-suns
+Jae Crowder,Jae Crowder,PF,32,"6' 6""",235 lbs,Marquette,"$9,720,900",phoenix-suns
+Cameron Johnson,Cameron Johnson,SF,26,"6' 8""",210 lbs,North Carolina,"$4,437,000",phoenix-suns
+Jock Landale,Jock Landale,C,26,"6' 11""",255 lbs,Saint Mary's,"$925,258",phoenix-suns
+Damion Lee,Damion Lee,SG,29,"6' 5""",210 lbs,Louisville,"$1,910,860",phoenix-suns
+Gabriel Lundberg,Gabriel Lundberg,F,27,"6' 4""",203 lbs,--,--,phoenix-suns
+Josh Okogie,Josh Okogie,SF,23,"6' 4""",213 lbs,Georgia Tech,"$4,087,904",phoenix-suns
+Chris Paul,Chris Paul,PG,37,"6' 0""",175 lbs,Wake Forest,"$30,000,000",phoenix-suns
+Cameron Payne,Cameron Payne,PG,27,"6' 1""",183 lbs,Murray State,"$6,500,000",phoenix-suns
+Elfrid Payton,Elfrid Payton,PG,28,"6' 3""",195 lbs,Louisiana-Lafayette,"$1,669,178",phoenix-suns
+Dario Saric,Dario Saric,PF,28,"6' 10""",225 lbs,--,"$8,510,000",phoenix-suns
+Landry Shamet,Landry Shamet,SG,25,"6' 4""",190 lbs,Wichita State,"$3,768,342",phoenix-suns
+Ish Wainright,Ish Wainright,F,27,"6' 5""",235 lbs,Baylor,"$5,318",phoenix-suns
+Harrison Barnes,Harrison Barnes,SF,30,"6' 8""",225 lbs,North Carolina,"$20,284,091",sacramento-kings
+Terence Davis,Terence Davis,SG,25,"6' 4""",201 lbs,Ole Miss,"$4,000,000",sacramento-kings
+De'Aaron Fox,De'Aaron Fox,PG,24,"6' 3""",185 lbs,Kentucky,"$28,103,550",sacramento-kings
+Richaun Holmes,Richaun Holmes,C,28,"6' 10""",235 lbs,Bowling Green,"$10,384,500",sacramento-kings
+Kevin Huerter,Kevin Huerter,SG,23,"6' 7""",198 lbs,Maryland,"$4,253,357",sacramento-kings
+Josh Jackson,Josh Jackson,SG,25,"6' 8""",207 lbs,Kansas,"$5,005,350",sacramento-kings
+Jeremy Lamb,Jeremy Lamb,SG,30,"6' 5""",180 lbs,Connecticut,"$10,500,000",sacramento-kings
+Alex Len,Alex Len,C,29,"7' 0""",250 lbs,Maryland,"$3,732,000",sacramento-kings
+Trey Lyles,Trey Lyles,PF,26,"6' 9""",234 lbs,Kentucky,"$2,500,000",sacramento-kings
+Chimezie Metu,Chimezie Metu,PF,25,"6' 9""",225 lbs,USC,"$1,762,796",sacramento-kings
+Davion Mitchell,Davion Mitchell,PG,23,"6' 0""",202 lbs,Baylor,"$4,603,320",sacramento-kings
+Chima Moneke,Chima Moneke,F,--,"6' 6""",223 lbs,UC Davis,--,sacramento-kings
+Malik Monk,Malik Monk,SG,24,"6' 3""",200 lbs,Kentucky,"$1,669,178",sacramento-kings
+Keegan Murray,Keegan Murray,F,21,"6' 8""",215 lbs,Iowa,--,sacramento-kings
+KZ Okpala,KZ Okpala,F,23,"6' 8""",215 lbs,Stanford,"$1,782,621",sacramento-kings
+Neemias Queta,Neemias Queta,C,23,"7' 0""",245 lbs,Utah State,--,sacramento-kings
+Domantas Sabonis,Domantas Sabonis,PF,26,"6' 11""",240 lbs,Gonzaga,"$19,800,000",sacramento-kings
+Bogdan Bogdanovic,Bogdan Bogdanovic,SG,29,"6' 6""",225 lbs,--,"$18,000,000",atlanta-hawks
+Chaundee Brown Jr.,Chaundee Brown Jr.,G,23,"6' 5""",215 lbs,Michigan,--,atlanta-hawks
+Clint Capela,Clint Capela,C,28,"6' 10""",256 lbs,--,"$18,603,448",atlanta-hawks
+John Collins,John Collins,PF,24,"6' 9""",226 lbs,Wake Forest,"$23,000,000",atlanta-hawks
+Sharife Cooper,Sharife Cooper,PG,21,"6' 1""",176 lbs,Auburn,--,atlanta-hawks
+Gorgui Dieng,Gorgui Dieng,C,32,"6' 10""",248 lbs,Louisville,"$4,000,000",atlanta-hawks
+AJ Griffin,AJ Griffin,F,18,"6' 6""",222 lbs,Duke,--,atlanta-hawks
+Maurice Harkless,Maurice Harkless,SF,29,"6' 7""",220 lbs,St. John's,"$4,347,600",atlanta-hawks
+Aaron Holiday,Aaron Holiday,G,25,"6' 0""",185 lbs,UCLA,"$3,980,551",atlanta-hawks
+Justin Holiday,Justin Holiday,SF,33,"6' 6""",180 lbs,Washington,"$6,006,420",atlanta-hawks
+De'Andre Hunter,De'Andre Hunter,SF,24,"6' 8""",221 lbs,Virginia,"$7,775,400",atlanta-hawks
+Jalen Johnson,Jalen Johnson,SF,20,"6' 8""",219 lbs,Duke,"$2,659,580",atlanta-hawks
+Frank Kaminsky,Frank Kaminsky,PG,29,"7' 0""",240 lbs,Wisconsin,"$1,669,178",atlanta-hawks
+Kevin Knox II,Kevin Knox II,F,22,"6' 7""",215 lbs,Kentucky,"$5,845,979",atlanta-hawks
+Timothe Luwawu-Cabarrot,Timothe Luwawu-Cabarrot,SG,27,"6' 7""",215 lbs,--,"$1,669,178",atlanta-hawks
+Tyrese Martin,Tyrese Martin,F,23,"6' 6""",215 lbs,Connecticut,--,atlanta-hawks
+Skylar Mays,Skylar Mays,SG,24,"6' 4""",205 lbs,LSU,--,atlanta-hawks
+Dejounte Murray,Dejounte Murray,SG,25,"6' 4""",180 lbs,Washington,"$15,428,880",atlanta-hawks
+Onyeka Okongwu,Onyeka Okongwu,PF,21,"6' 8""",240 lbs,USC,"$6,104,280",atlanta-hawks
+Lou Williams,Lou Williams,SG,35,"6' 2""",175 lbs,--,"$5,000,000",atlanta-hawks
+Trae Young,Trae Young,PG,23,"6' 1""",164 lbs,Oklahoma,"$8,326,471",atlanta-hawks
+LaMelo Ball,LaMelo Ball,PG,20,"6' 7""",180 lbs,--,"$8,231,760",charlotte-hornets
+James Bouknight,James Bouknight,SG,21,"6' 4""",190 lbs,Connecticut,"$4,154,400",charlotte-hornets
+Miles Bridges,Miles Bridges,SF,24,"6' 7""",225 lbs,Michigan State,"$5,421,493",charlotte-hornets
+Montrezl Harrell,Montrezl Harrell,C,28,"6' 7""",240 lbs,Louisville,"$9,720,900",charlotte-hornets
+Gordon Hayward,Gordon Hayward,SF,32,"6' 7""",225 lbs,Butler,"$29,925,000",charlotte-hornets
+Kai Jones,Kai Jones,PF,21,"6' 10""",221 lbs,Texas,"$2,770,560",charlotte-hornets
+Arnoldas Kulboka,Arnoldas Kulboka,PF,24,"6' 10""",209 lbs,--,--,charlotte-hornets
+Scottie Lewis,Scottie Lewis,SG,22,"6' 5""",185 lbs,Florida,--,charlotte-hornets
+Cody Martin,Cody Martin,SF,26,"6' 6""",205 lbs,Nevada,"$1,782,621",charlotte-hornets
+Jalen McDaniels,Jalen McDaniels,PF,24,"6' 9""",205 lbs,San Diego State,"$1,782,621",charlotte-hornets
+Bryce McGowens,Bryce McGowens,G,19,"6' 7""",179 lbs,Nebraska,--,charlotte-hornets
+Kelly Oubre Jr.,Kelly Oubre Jr.,SG,26,"6' 6""",203 lbs,Kansas,"$12,000,000",charlotte-hornets
+Mason Plumlee,Mason Plumlee,C,32,"6' 11""",254 lbs,Duke,"$9,248,333",charlotte-hornets
+Nick Richards,Nick Richards,C,24,"7' 0""",245 lbs,Kentucky,"$1,517,981",charlotte-hornets
+Terry Rozier,Terry Rozier,SG,28,"6' 1""",190 lbs,Louisville,"$17,905,263",charlotte-hornets
+Isaiah Thomas,Isaiah Thomas,G,33,"5' 9""",185 lbs,Washington,"$191,860",charlotte-hornets
+JT Thor,JT Thor,PF,19,"6' 9""",203 lbs,Auburn,"$1,250,000",charlotte-hornets
+P.J. Washington,P.J. Washington,PF,23,"6' 7""",230 lbs,Kentucky,"$4,215,120",charlotte-hornets
+Mark Williams,Mark Williams,C,20,"7' 0""",242 lbs,Duke,--,charlotte-hornets
+Bam Adebayo,Bam Adebayo,C,25,"6' 9""",255 lbs,Kentucky,"$28,103,500",miami-heat
+Jamaree Bouyea,Jamaree Bouyea,G,23,"6' 2""",170 lbs,San Francisco,--,miami-heat
+Jimmy Butler,Jimmy Butler,SF,32,"6' 7""",230 lbs,Marquette,"$36,016,200",miami-heat
+Jamal Cain,Jamal Cain,F,23,"6' 7""",191 lbs,Oakland,--,miami-heat
+Darius Days,Darius Days,F,22,"6' 7""",240 lbs,LSU,--,miami-heat
+Dewayne Dedmon,Dewayne Dedmon,C,32,"7' 0""",245 lbs,USC,"$1,669,178",miami-heat
+Marcus Garrett,Marcus Garrett,SG,23,"6' 5""",205 lbs,Kansas,--,miami-heat
+Udonis Haslem,Udonis Haslem,PF,42,"6' 8""",235 lbs,Florida,"$1,669,178",miami-heat
+Tyler Herro,Tyler Herro,PG,22,"6' 5""",195 lbs,Kentucky,"$4,004,280",miami-heat
+Haywood Highsmith,Haywood Highsmith,F,25,"6' 7""",220 lbs,Wheeling Jesuit,"$290,967",miami-heat
+Nikola Jovic,Nikola Jovic,F,19,"6' 11""",223 lbs,--,--,miami-heat
+Kyle Lowry,Kyle Lowry,PG,36,"6' 0""",196 lbs,Villanova,"$26,894,128",miami-heat
+Caleb Martin,Caleb Martin,SF,26,"6' 5""",205 lbs,Nevada,"$1,782,621",miami-heat
+Markieff Morris,Markieff Morris,PF,32,"6' 9""",245 lbs,Kansas,"$1,669,178",miami-heat
+Victor Oladipo,Victor Oladipo,SG,30,"6' 4""",213 lbs,Indiana,"$1,669,178",miami-heat
+Duncan Robinson,Duncan Robinson,SG,28,"6' 7""",215 lbs,Michigan,"$15,650,000",miami-heat
+Max Strus,Max Strus,SG,26,"6' 5""",215 lbs,DePaul,"$1,669,178",miami-heat
+Gabe Vincent,Gabe Vincent,PG,26,"6' 3""",200 lbs,UC Santa Barbara,"$1,669,178",miami-heat
+Omer Yurtseven,Omer Yurtseven,C,24,"6' 11""",255 lbs,Georgetown,"$1,489,065",miami-heat
+Cole Anthony,Cole Anthony,PG,22,"6' 3""",185 lbs,North Carolina,"$3,449,400",orlando-magic
+Mo Bamba,Mo Bamba,C,24,"7' 0""",231 lbs,Texas,"$7,568,743",orlando-magic
+Paolo Banchero,Paolo Banchero,F,19,"6' 10""",250 lbs,Duke,--,orlando-magic
+Bol Bol,Bol Bol,C,22,"7' 2""",220 lbs,Oregon,"$2,161,152",orlando-magic
+Ignas Brazdeikis,Ignas Brazdeikis,SF,23,"6' 6""",221 lbs,Michigan,--,orlando-magic
+Devin Cannady,Devin Cannady,G,26,"6' 1""",190 lbs,Princeton,"$100,000",orlando-magic
+Wendell Carter Jr.,Wendell Carter Jr.,C,23,"6' 10""",270 lbs,Duke,"$6,920,027",orlando-magic
+Markelle Fultz,Markelle Fultz,PG,24,"6' 4""",209 lbs,Washington,"$16,500,000",orlando-magic
+R.J. Hampton,R.J. Hampton,PG,21,"6' 6""",190 lbs,--,"$2,303,040",orlando-magic
+Gary Harris,Gary Harris,SG,27,"6' 4""",210 lbs,Michigan State,"$20,482,143",orlando-magic
+Kevon Harris,Kevon Harris,G,25,"6' 6""",216 lbs,Stephen F. Austin,--,orlando-magic
+Caleb Houstan,Caleb Houstan,F,19,"6' 8""",205 lbs,Michigan,--,orlando-magic
+Jonathan Isaac,Jonathan Isaac,PF,24,"6' 10""",230 lbs,Florida State,"$17,400,000",orlando-magic
+Chuma Okeke,Chuma Okeke,PF,23,"6' 6""",229 lbs,Auburn,"$3,277,080",orlando-magic
+Terrence Ross,Terrence Ross,SG,31,"6' 6""",206 lbs,Washington,"$12,500,000",orlando-magic
+Admiral Schofield,Admiral Schofield,SF,25,"6' 5""",241 lbs,Tennessee,--,orlando-magic
+Jalen Suggs,Jalen Suggs,SG,21,"6' 5""",205 lbs,Gonzaga,"$6,593,040",orlando-magic
+Franz Wagner,Franz Wagner,SF,20,"6' 10""",220 lbs,Michigan,"$5,007,840",orlando-magic
+Moritz Wagner,Moritz Wagner,C,25,"6' 11""",245 lbs,Michigan,"$1,729,217",orlando-magic
+Deni Avdija,Deni Avdija,SF,21,"6' 9""",210 lbs,--,"$4,692,840",washington-wizards
+Will Barton,Will Barton,SF,31,"6' 5""",181 lbs,Memphis,"$15,625,000",washington-wizards
+Bradley Beal,Bradley Beal,SG,29,"6' 4""",207 lbs,Florida,"$33,724,200",washington-wizards
+Vernon Carey Jr.,Vernon Carey Jr.,C,21,"6' 9""",270 lbs,Duke,"$1,517,981",washington-wizards
+Johnny Davis,Johnny Davis,G,21,"6' 5""",196 lbs,Wisconsin,--,washington-wizards
+Daniel Gafford,Daniel Gafford,C,23,"6' 9""",234 lbs,Arkansas,"$1,782,621",washington-wizards
+Taj Gibson,Taj Gibson,F,37,"6' 9""",232 lbs,USC,"$4,910,000",washington-wizards
+Anthony Gill,Anthony Gill,PF,29,"6' 7""",230 lbs,Virginia,"$1,517,981",washington-wizards
+Rui Hachimura,Rui Hachimura,PF,24,"6' 8""",230 lbs,Gonzaga,"$4,916,160",washington-wizards
+Corey Kispert,Corey Kispert,SF,23,"6' 6""",224 lbs,Gonzaga,"$3,383,640",washington-wizards
+Kyle Kuzma,Kyle Kuzma,SF,27,"6' 9""",221 lbs,Utah,"$13,000,000",washington-wizards
+Monte Morris,Monte Morris,PG,27,"6' 2""",183 lbs,Iowa State,"$8,449,074",washington-wizards
+Yannick Nzosa,Yannick Nzosa,C,20,"6' 11""",215 lbs,--,--,washington-wizards
+Kristaps Porzingis,Kristaps Porzingis,C,26,"7' 3""",240 lbs,--,"$31,650,600",washington-wizards
+Tomas Satoransky,Tomas Satoransky,SG,30,"6' 7""",210 lbs,--,"$10,000,000",washington-wizards
+Jordan Schakel,Jordan Schakel,F,24,"6' 6""",200 lbs,San Diego State,--,washington-wizards
+Isaiah Todd,Isaiah Todd,PF,20,"6' 9""",219 lbs,--,"$1,500,000",washington-wizards
+Cassius Winston,Cassius Winston,PG,24,"6' 1""",185 lbs,Michigan State,--,washington-wizards
+Delon Wright,Delon Wright,SG,30,"6' 5""",185 lbs,Utah,"$8,526,316",washington-wizards
+Davis Bertans,Davis Bertans,SF,29,"6' 10""",225 lbs,--,"$16,000,000",dallas-mavericks
+Reggie Bullock,Reggie Bullock,SF,31,"6' 6""",205 lbs,North Carolina,"$9,536,000",dallas-mavericks
+Spencer Dinwiddie,Spencer Dinwiddie,PG,29,"6' 6""",215 lbs,Colorado,"$17,142,857",dallas-mavericks
+Luka Doncic,Luka Doncic,PG,23,"6' 7""",230 lbs,--,"$10,174,391",dallas-mavericks
+Tyler Dorsey,Tyler Dorsey,G,26,"6' 4""",195 lbs,Oregon,--,dallas-mavericks
+Dorian Finney-Smith,Dorian Finney-Smith,PF,29,"6' 7""",220 lbs,Florida,"$4,000,000",dallas-mavericks
+Josh Green,Josh Green,SG,21,"6' 5""",200 lbs,Arizona,"$2,957,520",dallas-mavericks
+Tim Hardaway Jr.,Tim Hardaway Jr.,SF,30,"6' 5""",205 lbs,Michigan,"$21,308,816",dallas-mavericks
+Jaden Hardy,Jaden Hardy,G,20,"6' 4""",198 lbs,--,--,dallas-mavericks
+Maxi Kleber,Maxi Kleber,PF,30,"6' 10""",240 lbs,--,"$8,975,000",dallas-mavericks
+Brandon Knight,Brandon Knight,PG,30,"6' 2""",182 lbs,Kentucky,--,dallas-mavericks
+JaVale McGee,JaVale McGee,C,34,"7' 0""",270 lbs,Nevada,"$5,000,000",dallas-mavericks
+Frank Ntilikina,Frank Ntilikina,PG,24,"6' 4""",200 lbs,--,"$1,669,178",dallas-mavericks
+Theo Pinson,Theo Pinson,G,26,"6' 5""",212 lbs,North Carolina,--,dallas-mavericks
+Dwight Powell,Dwight Powell,C,31,"6' 10""",240 lbs,Stanford,"$11,080,125",dallas-mavericks
+Christian Wood,Christian Wood,C,26,"6' 9""",214 lbs,UNLV,"$13,666,667",dallas-mavericks
+Moses Wright,Moses Wright,F,23,"6' 8""",226 lbs,Georgia Tech,--,dallas-mavericks
+Sterling Brown,Sterling Brown,SF,27,"6' 5""",219 lbs,SMU,"$3,000,000",houston-rockets
+Trey Burke,Trey Burke,PG,29,"6' 0""",185 lbs,Michigan,"$3,150,000",houston-rockets
+Marquese Chriss,Marquese Chriss,SF,25,"6' 9""",240 lbs,Washington,"$958,529",houston-rockets
+Josh Christopher,Josh Christopher,SG,20,"6' 3""",215 lbs,Arizona State,"$2,259,240",houston-rockets
+Tari Eason,Tari Eason,F,21,"6' 8""",216 lbs,LSU,--,houston-rockets
+Bruno Fernando,Bruno Fernando,F,23,"6' 9""",240 lbs,Maryland,"$1,782,621",houston-rockets
+Usman Garuba,Usman Garuba,PF,20,"6' 8""",229 lbs,--,"$2,353,320",houston-rockets
+Eric Gordon,Eric Gordon,SG,33,"6' 3""",215 lbs,Indiana,"$18,218,818",houston-rockets
+Jalen Green,Jalen Green,SG,20,"6' 4""",186 lbs,--,"$8,992,200",houston-rockets
+Anthony Lamb,Anthony Lamb,F,24,"6' 6""",227 lbs,Vermont,--,houston-rockets
+Boban Marjanovic,Boban Marjanovic,C,33,"7' 3""",290 lbs,--,"$3,500,000",houston-rockets
+Kenyon Martin Jr.,Kenyon Martin Jr.,F,21,"6' 5""",215 lbs,--,"$1,517,981",houston-rockets
+Garrison Mathews,Garrison Mathews,SG,25,"6' 5""",215 lbs,Lipscomb,"$2,000,000",houston-rockets
+Daishen Nix,Daishen Nix,SG,20,"6' 4""",226 lbs,--,"$612,000",houston-rockets
+David Nwaba,David Nwaba,SF,29,"6' 5""",219 lbs,Cal Poly,"$4,650,000",houston-rockets
+Kevin Porter Jr.,Kevin Porter Jr.,SG,22,"6' 4""",203 lbs,USC,"$1,782,621",houston-rockets
+Dennis Schroder,Dennis Schroder,PG,28,"6' 1""",172 lbs,--,"$5,890,000",houston-rockets
+Alperen Sengun,Alperen Sengun,C,20,"6' 10""",243 lbs,--,"$3,214,680",houston-rockets
+Jabari Smith Jr.,Jabari Smith Jr.,F,19,"6' 10""",220 lbs,Auburn,--,houston-rockets
+Jae'Sean Tate,Jae'Sean Tate,SF,26,"6' 4""",230 lbs,Ohio State,"$1,517,981",houston-rockets
+TyTy Washington Jr.,TyTy Washington Jr.,G,20,"6' 3""",197 lbs,Kentucky,--,houston-rockets
+Steven Adams,Steven Adams,C,29,"6' 11""",265 lbs,Pittsburgh,"$17,073,171",memphis-grizzlies
+Santi Aldama,Santi Aldama,PF,21,"6' 11""",215 lbs,"$1,994,520",,memphis-grizzlies
+Desmond Bane,Desmond Bane,SG,24,"6' 5""",215 lbs,TCU,"$2,033,160",memphis-grizzlies
+Dillon Brooks,Dillon Brooks,SF,26,"6' 7""",225 lbs,Oregon,"$12,200,000",memphis-grizzlies
+Kennedy Chandler,Kennedy Chandler,G,19,"6' 0""",171 lbs,Tennessee,--,memphis-grizzlies
+Brandon Clarke,Brandon Clarke,PF,25,"6' 8""",215 lbs,Gonzaga,"$2,726,880",memphis-grizzlies
+Jarrett Culver,Jarrett Culver,G,23,"6' 6""",195 lbs,Texas Tech,"$6,395,160",memphis-grizzlies
+Danny Green,Danny Green,SF,35,"6' 6""",215 lbs,North Carolina,"$10,000,000",memphis-grizzlies
+Jaren Jackson Jr.,Jaren Jackson Jr.,PF,22,"6' 11""",242 lbs,Michigan State,"$9,180,560",memphis-grizzlies
+Tyus Jones,Tyus Jones,PG,26,"6' 0""",196 lbs,Duke,"$8,376,286",memphis-grizzlies
+John Konchar,John Konchar,SG,26,"6' 5""",210 lbs,--,"$2,200,000",memphis-grizzlies
+Jake LaRavia,Jake LaRavia,F,20,"6' 8""",235 lbs,Wake Forest,--,memphis-grizzlies
+Ja Morant,Ja Morant,PG,22,"6' 3""",174 lbs,Murray State,"$9,603,360",memphis-grizzlies
+Yves Pons,Yves Pons,SG,23,"6' 5""",206 lbs,Tennessee,--,memphis-grizzlies
+David Roddy,David Roddy,G,21,"6' 5""",252 lbs,Colorado State,--,memphis-grizzlies
+Killian Tillie,Killian Tillie,SF,24,"6' 9""",220 lbs,Gonzaga,"$1,901,625",memphis-grizzlies
+Xavier Tillman,Xavier Tillman,C,23,"6' 8""",245 lbs,Michigan State,"$1,517,981",memphis-grizzlies
+Ziaire Williams,Ziaire Williams,SG,20,"6' 9""",185 lbs,Stanford,"$4,373,040",memphis-grizzlies
+Vince Williams Jr.,Vince Williams Jr.,F,21,"6' 6""",205 lbs,Virginia Commonwealth,--,memphis-grizzlies
+Jose Alvarado,Jose Alvarado,PG,24,"6' 0""",179 lbs,Georgia Tech,"$150,000",new-orleans-pelicans
+Gary Clark,Gary Clark,F,27,"6' 6""",225 lbs,Cincinnati,--,new-orleans-pelicans
+Dyson Daniels,Dyson Daniels,G,19,"6' 6""",199 lbs,--,--,new-orleans-pelicans
+Devonte' Graham,Devonte' Graham,PG,27,"6' 1""",195 lbs,Kansas,"$11,000,000",new-orleans-pelicans
+Jared Harper,Jared Harper,G,24,"6' 0""",175 lbs,Auburn,--,new-orleans-pelicans
+Jaxson Hayes,Jaxson Hayes,C,22,"6' 11""",220 lbs,Texas,"$5,348,280",new-orleans-pelicans
+Willy Hernangomez,Willy Hernangomez,C,28,"6' 11""",250 lbs,--,"$2,327,220",new-orleans-pelicans
+Brandon Ingram,Brandon Ingram,SF,24,"6' 8""",190 lbs,Duke,"$29,467,800",new-orleans-pelicans
+Herbert Jones,Herbert Jones,SF,23,"6' 7""",206 lbs,Alabama,"$1,700,000",new-orleans-pelicans
+Kira Lewis Jr.,Kira Lewis Jr.,PG,21,"6' 1""",170 lbs,Alabama,"$3,822,240",new-orleans-pelicans
+E.J. Liddell,E.J. Liddell,F,21,"6' 7""",240 lbs,Ohio State,--,new-orleans-pelicans
+Naji Marshall,Naji Marshall,SF,24,"6' 7""",220 lbs,Xavier,"$1,517,981",new-orleans-pelicans
+Karlo Matkovic,Karlo Matkovic,F,21,"6' 10""",231 lbs,--,--,new-orleans-pelicans
+CJ McCollum,CJ McCollum,SG,30,"6' 3""",190 lbs,Lehigh,"$30,864,198",new-orleans-pelicans
+Trey Murphy III,Trey Murphy III,SG,22,"6' 8""",206 lbs,Virginia,"$3,053,760",new-orleans-pelicans
+Larry Nance Jr.,Larry Nance Jr.,PF,29,"6' 7""",245 lbs,Wyoming,"$10,690,909",new-orleans-pelicans
+Tony Snell,Tony Snell,SF,30,"6' 6""",213 lbs,New Mexico,"$1,669,178",new-orleans-pelicans
+Garrett Temple,Garrett Temple,SF,36,"6' 5""",195 lbs,LSU,"$4,910,000",new-orleans-pelicans
+Jonas Valanciunas,Jonas Valanciunas,C,30,"6' 11""",265 lbs,--,"$14,000,000",new-orleans-pelicans
+Zion Williamson,Zion Williamson,PF,22,"6' 6""",284 lbs,Duke,"$10,733,400",new-orleans-pelicans
+Dominick Barlow,Dominick Barlow,F,19,"6' 10""",220 lbs,--,--,san-antonio-spurs
+Keita Bates-Diop,Keita Bates-Diop,SF,26,"6' 8""",229 lbs,Ohio State,"$1,729,217",san-antonio-spurs
+Malaki Branham,Malaki Branham,G,19,"6' 5""",195 lbs,Ohio State,--,san-antonio-spurs
+Devontae Cacok,Devontae Cacok,PF,25,"6' 7""",240 lbs,North Carolina-Wilmington,"$364,353",san-antonio-spurs
+Zach Collins,Zach Collins,PF,24,"6' 11""",250 lbs,Gonzaga,"$7,000,000",san-antonio-spurs
+Keldon Johnson,Keldon Johnson,SF,22,"6' 6""",220 lbs,Kentucky,"$2,145,720",san-antonio-spurs
+Tre Jones,Tre Jones,PG,22,"6' 1""",185 lbs,Duke,"$1,517,981",san-antonio-spurs
+Romeo Langford,Romeo Langford,SG,22,"6' 5""",216 lbs,Indiana,"$3,804,360",san-antonio-spurs
+Doug McDermott,Doug McDermott,SF,30,"6' 7""",225 lbs,Creighton,"$13,750,000",san-antonio-spurs
+Jakob Poeltl,Jakob Poeltl,C,26,"7' 1""",245 lbs,Utah,"$8,750,000",san-antonio-spurs
+Joshua Primo,Joshua Primo,SG,19,"6' 5""",190 lbs,Alabama,"$3,946,800",san-antonio-spurs
+Josh Richardson,Josh Richardson,SG,28,"6' 5""",200 lbs,Tennessee,"$11,615,328",san-antonio-spurs
+Isaiah Roby,Isaiah Roby,PF,24,"6' 8""",230 lbs,Nebraska,"$1,782,621",san-antonio-spurs
+Jeremy Sochan,Jeremy Sochan,F,19,"6' 8""",225 lbs,Baylor,--,san-antonio-spurs
+D.J. Stewart Jr.,D.J. Stewart Jr.,F,23,"6' 6""",205 lbs,Mississippi State,--,san-antonio-spurs
+Devin Vassell,Devin Vassell,SG,21,"6' 5""",200 lbs,Florida State,"$4,235,160",san-antonio-spurs
+Blake Wesley,Blake Wesley,G,19,"6' 5""",185 lbs,Notre Dame,--,san-antonio-spurs
+Joe Wieskamp,Joe Wieskamp,SF,22,"6' 6""",205 lbs,Iowa,"$202,068",san-antonio-spurs
+Robert Woodard II,Robert Woodard II,SF,22,"6' 7""",230 lbs,Mississippi State,"$1,517,981",san-antonio-spurs
