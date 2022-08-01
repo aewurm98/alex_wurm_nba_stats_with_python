@@ -1,0 +1,587 @@
+,Name,POS,Age,HT,WT,College,Salary,Team,id,url,Stats,GP,MIN,FG%,3P%,FT%,REB,AST,BLK,STL,PF,TO,PTS
+Malcolm Brogdon,Malcolm Brogdon,PG,29,77.0,229.0,Virginia,21700000.0,boston-celtics,2566769,https://www.espn.com/nba/player/_/id/2566769/malcolm-brogdon,Career,333,30.2,46.4,37.6,88.1,4.2,4.8,0.2,0.9,1.9,1.8,15.5
+Jaylen Brown,Jaylen Brown,SG,25,78.0,223.0,California,26758928.0,boston-celtics,3917376,https://www.espn.com/nba/player/_/id/3917376/jaylen-brown,Career,403,28.7,47.3,37.3,71.2,4.9,2.0,0.4,0.9,2.5,1.9,16.5
+JD Davison,JD Davison,G,19,75.0,195.0,Alabama,0.0,boston-celtics,4576085,https://www.espn.com/nba/player/_/id/4576085/jd-davison,,,,,,,,,,,,,
+Danilo Gallinari,Danilo Gallinari,F,33,82.0,236.0,--,20475000.0,boston-celtics,3428,https://www.espn.com/nba/player/_/id/3428/danilo-gallinari,Career,728,29.9,42.8,38.2,87.7,4.8,1.9,0.4,0.7,1.8,1.2,15.6
+Sam Hauser,Sam Hauser,SF,24,80.0,215.0,Virginia,313737.0,boston-celtics,4065804,https://www.espn.com/nba/player/_/id/4065804/sam-hauser,Career,26,6.1,46.0,43.2,0.0,1.1,0.4,0.1,0.0,0.3,0.1,2.5
+Al Horford,Al Horford,C,36,81.0,240.0,Florida,27000000.0,boston-celtics,3213,https://www.espn.com/nba/player/_/id/3213/al-horford,Career,950,32.2,51.5,36.0,75.9,8.2,3.3,1.2,0.8,2.2,1.5,13.7
+Mfiondu Kabengele,Mfiondu Kabengele,C,24,82.0,250.0,Florida State,1701593.0,boston-celtics,4065660,https://www.espn.com/nba/player/_/id/4065660/mfiondu-kabengele,Career,51,6.7,38.8,31.4,84.0,1.4,0.4,0.3,0.2,0.9,0.3,2.7
+Luke Kornet,Luke Kornet,F,27,86.0,250.0,Vanderbilt,565986.0,boston-celtics,3064560,https://www.espn.com/nba/player/_/id/3064560/luke-kornet,Career,148,14.3,40.8,32.4,75.3,2.6,1.0,0.8,0.4,1.0,0.4,5.5
+Payton Pritchard,Payton Pritchard,PG,24,73.0,195.0,Oregon,2137440.0,boston-celtics,4066354,https://www.espn.com/nba/player/_/id/4066354/payton-pritchard,Career,137,16.6,43.5,41.2,92.4,2.1,1.9,0.1,0.4,1.2,0.7,6.9
+Matt Ryan,Matt Ryan,F,25,79.0,215.0,Chattanooga,0.0,boston-celtics,3908336,https://www.espn.com/nba/player/_/id/3908336/matt-ryan,Career,1,5.0,20.0,20.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0
+Marcus Smart,Marcus Smart,PG,28,76.0,220.0,Oklahoma State,14339285.0,boston-celtics,2990992,https://www.espn.com/nba/player/_/id/2990992/marcus-smart,Career,520,29.8,38.2,32.1,78.0,3.6,4.5,0.4,1.6,2.6,1.8,10.5
+Jayson Tatum,Jayson Tatum,SF,24,80.0,210.0,Duke,28103500.0,boston-celtics,4065648,https://www.espn.com/nba/player/_/id/4065648/jayson-tatum,Career,365,33.4,45.6,38.3,84.4,6.6,3.0,0.7,1.1,2.1,2.1,20.9
+Brodric Thomas,Brodric Thomas,G,25,77.0,185.0,Truman State,0.0,boston-celtics,4407254,https://www.espn.com/nba/player/_/id/4407254/brodric-thomas,Career,44,10.4,37.3,26.5,66.7,1.4,0.9,0.3,0.4,1.1,0.6,3.3
+Derrick White,Derrick White,PG,28,76.0,190.0,Colorado,15178571.0,boston-celtics,3078576,https://www.espn.com/nba/player/_/id/3078576/derrick-white,Career,263,25.9,44.2,34.0,83.8,3.3,3.8,0.8,0.8,2.2,1.3,11.5
+Grant Williams,Grant Williams,PF,23,78.0,236.0,Tennessee,2617800.0,boston-celtics,4066218,https://www.espn.com/nba/player/_/id/4066218/grant-williams,Career,209,19.4,44.9,36.9,77.5,3.0,1.0,0.6,0.5,2.4,0.8,5.4
+Robert Williams III,Robert Williams III,C,24,81.0,237.0,Texas A&amp;M,3661976.0,boston-celtics,4066211,https://www.espn.com/nba/player/_/id/4066211/robert-williams-iii,Career,174,19.9,72.8,0.0,66.5,6.6,1.4,1.7,0.7,1.9,0.8,7.2
+LaMarcus Aldridge,LaMarcus Aldridge,C,37,83.0,250.0,Texas,1669178.0,brooklyn-nets,2983,https://www.espn.com/nba/player/_/id/2983/lamarcus-aldridge,Career,1076,33.7,49.3,32.0,81.3,8.1,1.9,1.1,0.7,2.4,1.5,19.1
+Nic Claxton,Nic Claxton,PF,23,83.0,215.0,Georgia,1782621.0,brooklyn-nets,4278067,https://www.espn.com/nba/player/_/id/4278067/nic-claxton,Career,94,18.7,64.6,16.7,53.9,5.0,0.9,1.1,0.5,2.0,0.7,7.3
+Seth Curry,Seth Curry,SG,31,74.0,185.0,Duke,8207518.0,brooklyn-nets,2326307,https://www.espn.com/nba/player/_/id/2326307/seth-curry,Career,377,25.2,47.7,43.9,85.4,2.2,2.2,0.1,0.7,1.7,1.1,11.3
+Goran Dragic,Goran Dragic,PG,36,75.0,190.0,--,460463.0,brooklyn-nets,3423,https://www.espn.com/nba/player/_/id/3423/goran-dragic,Career,888,27.9,46.0,36.2,76.7,3.1,4.8,0.2,1.0,2.3,2.3,13.7
+David Duke Jr.,David Duke Jr.,SF,22,76.0,204.0,Providence,0.0,brooklyn-nets,4397107,https://www.espn.com/nba/player/_/id/4397107/david-duke-jr,Career,22,15.5,36.1,24.3,81.0,3.0,0.8,0.3,0.6,1.6,0.4,4.7
+Kevin Durant,Kevin Durant,PF,33,82.0,240.0,Texas,42018900.0,brooklyn-nets,3202,https://www.espn.com/nba/player/_/id/3202/kevin-durant,Career,939,36.8,49.6,38.4,88.4,7.1,4.3,1.1,1.1,1.9,3.2,27.2
+Blake Griffin,Blake Griffin,PF,33,81.0,250.0,Oklahoma,1669178.0,brooklyn-nets,3989,https://www.espn.com/nba/player/_/id/3989/blake-griffin,Career,724,32.9,49.3,32.7,69.6,8.2,4.1,0.5,0.8,2.7,2.4,19.8
+Joe Harris,Joe Harris,SF,30,78.0,220.0,Virginia,17357143.0,brooklyn-nets,2528794,https://www.espn.com/nba/player/_/id/2528794/joe-harris,Career,414,25.6,48.3,43.9,78.0,3.2,1.6,0.2,0.5,2.1,1.2,11.1
+Kyrie Irving,Kyrie Irving,PG,30,74.0,195.0,Duke,35328700.0,brooklyn-nets,6442,https://www.espn.com/nba/player/_/id/6442/kyrie-irving,Career,611,34.1,47.0,39.3,88.2,3.8,5.7,0.4,1.3,2.3,2.6,23.1
+Patty Mills,Patty Mills,PG,33,72.0,180.0,Saint Mary's,5890000.0,brooklyn-nets,4004,https://www.espn.com/nba/player/_/id/4004/patty-mills,Career,820,20.7,42.6,38.9,85.5,1.7,2.3,0.1,0.7,1.3,1.0,9.2
+Royce O'Neale,Royce O'Neale,PF,29,77.0,226.0,Baylor,8800000.0,brooklyn-nets,2583632,https://www.espn.com/nba/player/_/id/2583632/royce-oneale,Career,370,25.7,44.8,38.1,79.6,4.8,2.1,0.4,0.8,2.3,0.9,6.2
+Day'Ron Sharpe,Day'Ron Sharpe,C,20,81.0,265.0,North Carolina,2009040.0,brooklyn-nets,4432194,https://www.espn.com/nba/player/_/id/4432194/dayron-sharpe,Career,32,12.2,57.7,28.6,58.5,5.0,0.5,0.5,0.3,1.9,0.9,6.2
+Ben Simmons,Ben Simmons,PG,26,83.0,240.0,LSU,33003936.0,brooklyn-nets,3907387,https://www.espn.com/nba/player/_/id/3907387/ben-simmons,Career,275,33.9,56.0,14.7,59.7,8.1,7.7,0.7,1.7,2.8,3.4,15.9
+Edmond Sumner,Edmond Sumner,PG,26,76.0,196.0,Xavier,2320000.0,brooklyn-nets,3136485,https://www.espn.com/nba/player/_/id/3136485/edmond-sumner,Career,108,14.1,47.4,33.3,72.8,1.5,1.1,0.2,0.6,1.5,0.8,5.7
+Cam Thomas,Cam Thomas,SG,20,75.0,210.0,LSU,2036280.0,brooklyn-nets,4432174,https://www.espn.com/nba/player/_/id/4432174/cam-thomas,Career,67,17.6,43.3,27.0,82.9,2.4,1.2,0.1,0.5,1.0,0.8,8.5
+T.J. Warren,T.J. Warren,SF,28,80.0,220.0,NC State,12690000.0,brooklyn-nets,2982334,https://www.espn.com/nba/player/_/id/2982334/tj-warren,Career,332,28.8,50.7,35.7,78.0,4.1,1.2,0.5,1.0,2.4,1.0,15.5
+Alondes Williams,Alondes Williams,G,23,77.0,210.0,Wake Forest,0.0,brooklyn-nets,4592216,https://www.espn.com/nba/player/_/id/4592216/alondes-williams,,,,,,,,,,,,,
+Ryan Arcidiacono,Ryan Arcidiacono,G,28,75.0,195.0,Villanova,546800.0,new-york-knicks,2991047,https://www.espn.com/nba/player/_/id/2991047/ryan-arcidiacono,Career,217,17.1,43.2,37.4,80.7,2.0,2.1,0.0,0.5,1.6,0.6,4.6
+RJ Barrett,RJ Barrett,SG,22,78.0,214.0,Duke,8623920.0,new-york-knicks,4395625,https://www.espn.com/nba/player/_/id/4395625/rj-barrett,Career,198,33.5,41.8,35.7,69.7,5.6,2.9,0.3,0.8,2.3,2.1,17.5
+Jalen Brunson,Jalen Brunson,PG,25,73.0,190.0,Villanova,1802057.0,new-york-knicks,3934672,https://www.espn.com/nba/player/_/id/3934672/jalen-brunson,Career,277,24.7,49.4,37.3,80.0,3.0,3.7,0.0,0.6,1.7,1.3,11.9
+Evan Fournier,Evan Fournier,SG,29,78.0,205.0,--,17000000.0,new-york-knicks,6588,https://www.espn.com/nba/player/_/id/6588/evan-fournier,Career,645,28.6,44.5,38.1,79.8,2.7,2.6,0.2,0.9,2.4,1.6,14.3
+Quentin Grimes,Quentin Grimes,SG,22,76.0,210.0,Houston,2168760.0,new-york-knicks,4397014,https://www.espn.com/nba/player/_/id/4397014/quentin-grimes,Career,46,17.1,40.4,38.1,68.4,2.0,1.0,0.2,0.7,1.6,0.6,6.0
+Isaiah Hartenstein,Isaiah Hartenstein,C,24,84.0,250.0,--,1669178.0,new-york-knicks,4222252,https://www.espn.com/nba/player/_/id/4222252/isaiah-hartenstein,Career,165,13.7,60.0,38.3,68.2,3.9,1.5,0.8,0.5,2.2,1.0,5.8
+Feron Hunt,Feron Hunt,F,23,80.0,195.0,SMU,0.0,new-york-knicks,4396638,https://www.espn.com/nba/player/_/id/4396638/feron-hunt,Career,2,4.0,0.0,0.0,0.0,0.5,0.5,0.0,0.5,0.5,0.5,0.0
+Trevor Keels,Trevor Keels,F,18,76.0,221.0,Duke,0.0,new-york-knicks,4432645,https://www.espn.com/nba/player/_/id/4432645/trevor-keels,,,,,,,,,,,,,
+Miles McBride,Miles McBride,PG,21,73.0,195.0,West Virginia,925258.0,new-york-knicks,4431823,https://www.espn.com/nba/player/_/id/4431823/miles-mcbride,Career,40,9.3,29.6,25.0,66.7,1.1,1.0,0.0,0.4,1.1,0.1,2.2
+Immanuel Quickley,Immanuel Quickley,SG,23,75.0,190.0,Kentucky,2210640.0,new-york-knicks,4395724,https://www.espn.com/nba/player/_/id/4395724/immanuel-quickley,Career,142,21.4,39.3,36.5,88.5,2.7,2.8,0.1,0.6,2.0,1.1,11.4
+Julius Randle,Julius Randle,PF,27,80.0,250.0,Kentucky,21780000.0,new-york-knicks,3064514,https://www.espn.com/nba/player/_/id/3064514/julius-randle,Career,518,31.2,47.2,33.2,74.3,9.3,3.6,0.5,0.7,3.1,2.7,17.7
+Cam Reddish,Cam Reddish,SF,22,80.0,217.0,Duke,4670160.0,new-york-knicks,4395627,https://www.espn.com/nba/player/_/id/4395627/cam-reddish,Career,133,24.9,38.7,32.5,84.1,3.2,1.3,0.4,1.1,2.0,1.4,10.5
+Mitchell Robinson,Mitchell Robinson,C,24,84.0,240.0,--,1802057.0,new-york-knicks,4351852,https://www.espn.com/nba/player/_/id/4351852/mitchell-robinson,Career,230,23.8,72.2,0.0,54.0,7.5,0.6,2.0,0.9,3.0,0.7,8.4
+Derrick Rose,Derrick Rose,PG,33,74.0,200.0,Memphis,13445120.0,new-york-knicks,3456,https://www.espn.com/nba/player/_/id/3456/derrick-rose,Career,672,31.7,45.7,31.6,83.0,3.3,5.4,0.3,0.8,1.3,2.5,18.2
+Jericho Sims,Jericho Sims,PF,23,81.0,250.0,Texas,0.0,new-york-knicks,4277922,https://www.espn.com/nba/player/_/id/4277922/jericho-sims,Career,41,13.5,72.2,0.0,41.4,4.1,0.5,0.5,0.3,1.6,0.5,2.2
+Obi Toppin,Obi Toppin,PF,24,81.0,220.0,Dayton,5105160.0,new-york-knicks,4278355,https://www.espn.com/nba/player/_/id/4278355/obi-toppin,Career,134,14.3,52.1,30.7,75.3,3.0,0.8,0.4,0.3,1.2,0.6,6.7
+Charles Bassey,Charles Bassey,C,21,81.0,230.0,Western Kentucky,925258.0,philadelphia-76ers,4397886,https://www.espn.com/nba/player/_/id/4397886/charles-bassey,Career,23,7.3,63.8,0.0,75.0,2.7,0.3,0.7,0.2,1.4,0.3,3.0
+Charlie Brown Jr.,Charlie Brown Jr.,G,25,78.0,199.0,Saint Joseph's,1701593.0,philadelphia-76ers,4066508,https://www.espn.com/nba/player/_/id/4066508/charlie-brown-jr,Career,39,8.1,29.2,24.3,94.1,1.2,0.4,0.2,0.4,0.8,0.3,2.0
+Julian Champagnie,Julian Champagnie,G,--,80.0,215.0,St. John's,0.0,philadelphia-76ers,4592479,https://www.espn.com/nba/player/_/id/4592479/julian-champagnie,,,,,,,,,,,,,
+Joel Embiid,Joel Embiid,C,28,84.0,280.0,Kansas,31579390.0,philadelphia-76ers,3059318,https://www.espn.com/nba/player/_/id/3059318/joel-embiid,Career,328,31.2,49.0,33.8,81.0,11.4,3.3,1.7,0.9,3.1,3.4,26.0
+Michael Foster Jr.,Michael Foster Jr.,F,--,81.0,220.0,--,0.0,philadelphia-76ers,4820852,https://www.espn.com/nba/player/_/id/4820852/michael-foster-jr,,,,,,,,,,,,,
+James Harden,James Harden,SG,32,77.0,220.0,Arizona State,44310840.0,philadelphia-76ers,3992,https://www.espn.com/nba/player/_/id/3992/james-harden,Career,942,34.6,44.2,36.1,86.0,5.6,6.8,0.5,1.5,2.6,3.8,24.9
+Tobias Harris,Tobias Harris,PF,30,79.0,226.0,Tennessee,35995950.0,philadelphia-76ers,6440,https://www.espn.com/nba/player/_/id/6440/tobias-harris,Career,753,31.4,47.6,36.7,82.8,6.2,2.3,0.5,0.7,2.0,1.4,16.4
+Danuel House Jr.,Danuel House Jr.,SF,29,78.0,220.0,Texas A&amp;M,565986.0,philadelphia-76ers,2991155,https://www.espn.com/nba/player/_/id/2991155/danuel-house-jr,Career,204,24.3,42.7,36.6,76.4,3.6,1.3,0.4,0.7,1.7,0.8,8.5
+Isaiah Joe,Isaiah Joe,SG,23,76.0,165.0,Arkansas,1517981.0,philadelphia-76ers,4395702,https://www.espn.com/nba/player/_/id/4395702/isaiah-joe,Career,96,10.3,35.5,34.9,85.5,1.0,0.6,0.1,0.3,0.8,0.3,3.7
+Furkan Korkmaz,Furkan Korkmaz,SG,25,79.0,202.0,--,4629630.0,philadelphia-76ers,3929325,https://www.espn.com/nba/player/_/id/3929325/furkan-korkmaz,Career,256,18.7,40.5,35.5,76.9,2.2,1.3,0.1,0.6,1.1,0.7,7.9
+Tyrese Maxey,Tyrese Maxey,PG,21,74.0,200.0,Kentucky,2602920.0,philadelphia-76ers,4431678,https://www.espn.com/nba/player/_/id/4431678/tyrese-maxey,Career,136,26.4,47.8,39.6,86.7,2.5,3.2,0.3,0.6,1.7,0.9,13.2
+De'Anthony Melton,De'Anthony Melton,SG,24,74.0,200.0,USC,8805976.0,philadelphia-76ers,4066436,https://www.espn.com/nba/player/_/id/4066436/deanthony-melton,Career,235,20.7,40.9,36.1,76.6,3.6,2.8,0.5,1.3,1.9,1.4,8.4
+Paul Millsap,Paul Millsap,PF,37,79.0,257.0,Louisiana Tech,1669178.0,philadelphia-76ers,3015,https://www.espn.com/nba/player/_/id/3015/paul-millsap,Career,1085,28.1,48.9,34.1,73.6,7.1,2.2,1.0,1.2,3.0,1.7,13.4
+Shake Milton,Shake Milton,SG,25,77.0,205.0,SMU,1846738.0,philadelphia-76ers,3915195,https://www.espn.com/nba/player/_/id/3915195/shake-milton,Career,178,20.9,44.7,36.1,81.9,2.3,2.6,0.3,0.5,2.0,1.1,9.7
+Georges Niang,Georges Niang,SF,29,79.0,230.0,Iowa State,3300000.0,philadelphia-76ers,2990969,https://www.espn.com/nba/player/_/id/2990969/georges-niang,Career,305,14.6,43.7,40.4,87.3,2.0,0.8,0.1,0.3,1.5,0.6,6.1
+Myles Powell,Myles Powell,G,25,74.0,195.0,Seton Hall,0.0,philadelphia-76ers,4065816,https://www.espn.com/nba/player/_/id/4065816/myles-powell,Career,11,4.7,29.4,16.7,100.0,0.5,0.3,0.0,0.1,0.7,0.3,1.2
+Paul Reed,Paul Reed,SF,23,81.0,210.0,DePaul,1517981.0,philadelphia-76ers,4278562,https://www.espn.com/nba/player/_/id/4278562/paul-reed,Career,64,7.5,55.2,14.3,45.5,2.4,0.4,0.4,0.7,1.3,0.3,3.2
+Jaden Springer,Jaden Springer,G,19,76.0,202.0,Tennessee,2023800.0,philadelphia-76ers,4432164,https://www.espn.com/nba/player/_/id/4432164/jaden-springer,Career,2,3.0,100.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.5,1.0
+Matisse Thybulle,Matisse Thybulle,SG,25,77.0,201.0,Washington,2840160.0,philadelphia-76ers,3907498,https://www.espn.com/nba/player/_/id/3907498/matisse-thybulle,Career,196,21.8,45.0,32.4,65.7,1.9,1.1,1.0,1.6,2.2,0.6,4.8
+P.J. Tucker,P.J. Tucker,PF,37,77.0,245.0,Texas,7000000.0,philadelphia-76ers,3033,https://www.espn.com/nba/player/_/id/3033/pj-tucker,Career,777,29.0,42.5,36.4,74.8,5.6,1.5,0.3,1.1,2.5,1.0,7.1
+Precious Achiuwa,Precious Achiuwa,PF,22,80.0,225.0,Memphis,2711280.0,toronto-raptors,4431679,https://www.espn.com/nba/player/_/id/4431679/precious-achiuwa,Career,134,18.4,46.8,35.7,55.6,5.1,0.8,0.5,0.4,1.8,0.9,7.2
+OG Anunoby,OG Anunoby,SF,25,79.0,232.0,Indiana,16071429.0,toronto-raptors,3934719,https://www.espn.com/nba/player/_/id/3934719/og-anunoby,Career,301,26.8,47.0,37.2,70.9,4.1,1.4,0.5,1.1,2.3,1.1,10.4
+Dalano Banton,Dalano Banton,PG,22,79.0,203.0,Nebraska,925258.0,toronto-raptors,4397885,https://www.espn.com/nba/player/_/id/4397885/dalano-banton,Career,64,10.9,41.1,25.5,59.1,1.9,1.5,0.2,0.4,1.1,0.8,3.2
+Scottie Barnes,Scottie Barnes,SF,20,79.0,225.0,Florida State,7280520.0,toronto-raptors,4433134,https://www.espn.com/nba/player/_/id/4433134/scottie-barnes,Career,74,35.4,49.2,30.1,73.5,7.5,3.5,0.7,1.1,2.6,1.8,15.3
+Khem Birch,Khem Birch,C,29,81.0,233.0,UNLV,6350000.0,toronto-raptors,2578240,https://www.espn.com/nba/player/_/id/2578240/khem-birch,Career,262,17.8,51.8,19.1,69.7,4.6,1.0,0.6,0.5,1.7,0.6,5.2
+Isaac Bonga,Isaac Bonga,G,22,80.0,180.0,--,1669178.0,toronto-raptors,4348697,https://www.espn.com/nba/player/_/id/4348697/isaac-bonga,Career,143,13.1,43.2,30.0,75.9,2.2,0.8,0.3,0.5,1.7,0.6,3.1
+Chris Boucher,Chris Boucher,PF,29,81.0,200.0,Oregon,7020000.0,toronto-raptors,3948153,https://www.espn.com/nba/player/_/id/3948153/chris-boucher,Career,231,17.9,48.3,33.5,78.5,5.3,0.5,1.2,0.5,2.1,0.5,9.0
+Armoni Brooks,Armoni Brooks,SG,24,75.0,195.0,Houston,136926.0,toronto-raptors,4066450,https://www.espn.com/nba/player/_/id/4066450/armoni-brooks,Career,74,18.4,36.6,33.0,75.8,2.3,1.2,0.2,0.5,1.5,0.7,6.9
+Jeff Dowtin,Jeff Dowtin,G,25,75.0,185.0,Rhode Island,0.0,toronto-raptors,4066786,https://www.espn.com/nba/player/_/id/4066786/jeff-dowtin,Career,9,12.0,30.8,11.1,100.0,2.0,1.1,0.1,0.6,0.6,0.6,2.1
+Malachi Flynn,Malachi Flynn,PG,24,73.0,175.0,San Diego State,2048040.0,toronto-raptors,4066668,https://www.espn.com/nba/player/_/id/4066668/malachi-flynn,Career,91,16.1,38.0,32.6,75.0,2.0,2.3,0.1,0.6,1.2,0.6,6.0
+Ron Harper Jr.,Ron Harper Jr.,G,22,78.0,245.0,Rutgers,0.0,toronto-raptors,4397251,https://www.espn.com/nba/player/_/id/4397251/ron-harper-jr,,,,,,,,,,,,,
+Juancho Hernangomez,Juancho Hernangomez,F,26,81.0,214.0,--,6907815.0,toronto-raptors,4017839,https://www.espn.com/nba/player/_/id/4017839/juancho-hernangomez,Career,297,15.7,42.8,35.1,68.1,3.4,0.6,0.2,0.4,1.1,0.5,5.4
+David Johnson,David Johnson,PG,21,76.0,209.0,Louisville,0.0,toronto-raptors,4592204,https://www.espn.com/nba/player/_/id/4592204/david-johnson,Career,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Christian Koloko,Christian Koloko,F,22,85.0,230.0,Arizona,0.0,toronto-raptors,4431778,https://www.espn.com/nba/player/_/id/4431778/christian-koloko,,,,,,,,,,,,,
+Svi Mykhailiuk,Svi Mykhailiuk,SG,25,79.0,205.0,Kansas,1729217.0,toronto-raptors,3133602,https://www.espn.com/nba/player/_/id/3133602/svi-mykhailiuk,Career,220,17.0,39.8,35.3,78.5,1.8,1.4,0.1,0.6,1.0,0.9,6.6
+Otto Porter Jr.,Otto Porter Jr.,SF,29,80.0,198.0,Georgetown,1669178.0,toronto-raptors,2594922,https://www.espn.com/nba/player/_/id/2594922/otto-porter-jr,Career,504,26.0,47.7,39.8,79.4,5.1,1.5,0.4,1.1,1.8,0.8,10.6
+Pascal Siakam,Pascal Siakam,PF,28,80.0,230.0,New Mexico State,33003936.0,toronto-raptors,3149673,https://www.espn.com/nba/player/_/id/3149673/pascal-siakam,Career,400,29.5,48.9,32.8,77.3,6.3,3.1,0.7,0.9,2.7,1.8,15.7
+Gary Trent Jr.,Gary Trent Jr.,SG,23,77.0,209.0,Duke,16000000.0,toronto-raptors,4277843,https://www.espn.com/nba/player/_/id/4277843/gary-trent-jr,Career,204,27.9,41.6,38.9,82.0,2.2,1.4,0.2,1.1,1.6,0.7,13.5
+Fred VanVleet,Fred VanVleet,SG,28,73.0,197.0,Wichita State,19675926.0,toronto-raptors,2991230,https://www.espn.com/nba/player/_/id/2991230/fred-vanvleet,Career,348,28.3,40.4,38.2,86.0,3.2,4.9,0.4,1.3,2.0,1.6,13.7
+Yuta Watanabe,Yuta Watanabe,SF,27,81.0,215.0,George Washington,1762796.0,toronto-raptors,3133838,https://www.espn.com/nba/player/_/id/3133838/yuta-watanabe,Career,121,12.0,40.9,35.2,66.7,2.5,0.6,0.3,0.4,1.0,0.4,3.8
+Thaddeus Young,Thaddeus Young,PF,34,80.0,235.0,Georgia Tech,14190000.0,toronto-raptors,3244,https://www.espn.com/nba/player/_/id/3244/thaddeus-young,Career,1085,29.3,50.2,33.2,66.3,5.8,1.8,0.4,1.4,2.2,1.5,12.8
+Lonzo Ball,Lonzo Ball,PG,24,78.0,190.0,UCLA,18604651.0,chicago-bulls,4066421,https://www.espn.com/nba/player/_/id/4066421/lonzo-ball,Career,252,32.5,40.0,36.4,57.8,5.7,6.2,0.6,1.6,2.2,2.5,11.9
+Tony Bradley,Tony Bradley,C,24,82.0,248.0,North Carolina,1669178.0,chicago-bulls,4065673,https://www.espn.com/nba/player/_/id/4065673/tony-bradley,Career,167,11.7,63.4,42.9,67.2,4.3,0.5,0.6,0.2,1.5,0.6,4.6
+Alex Caruso,Alex Caruso,SG,28,77.0,186.0,Texas A&amp;M,8650651.0,chicago-bulls,2991350,https://www.espn.com/nba/player/_/id/2991350/alex-caruso,Career,225,20.6,42.2,36.6,73.6,2.5,2.7,0.3,1.1,1.9,1.2,6.2
+Tyler Cook,Tyler Cook,F,24,80.0,255.0,Iowa,1701593.0,chicago-bulls,4066367,https://www.espn.com/nba/player/_/id/4066367/tyler-cook,Career,65,10.6,65.4,50.0,60.0,2.5,0.3,0.1,0.2,1.0,0.5,3.8
+DeMar DeRozan,DeMar DeRozan,SF,32,78.0,220.0,USC,26000000.0,chicago-bulls,3978,https://www.espn.com/nba/player/_/id/3978/demar-derozan,Career,957,34.3,46.5,28.8,83.7,4.4,3.9,0.3,1.0,2.3,2.1,20.8
+Ayo Dosunmu,Ayo Dosunmu,SG,22,76.0,200.0,Illinois,925258.0,chicago-bulls,4397002,https://www.espn.com/nba/player/_/id/4397002/ayo-dosunmu,Career,77,27.4,52.0,37.6,67.9,2.8,3.3,0.4,0.8,2.4,1.4,8.8
+Andre Drummond,Andre Drummond,C,28,82.0,279.0,Connecticut,1669178.0,chicago-bulls,6585,https://www.espn.com/nba/player/_/id/6585/andre-drummond,Career,718,29.6,54.0,13.2,47.3,13.3,1.4,1.5,1.4,3.1,2.0,13.8
+Javonte Green,Javonte Green,SF,29,77.0,205.0,Radford,1669178.0,chicago-bulls,2596112,https://www.espn.com/nba/player/_/id/2596112/javonte-green,Career,154,16.0,52.8,33.5,77.5,2.9,0.7,0.3,0.8,1.4,0.5,5.0
+Malcolm Hill,Malcolm Hill,F,26,78.0,220.0,Illinois,0.0,chicago-bulls,3056245,https://www.espn.com/nba/player/_/id/3056245/malcolm-hill,Career,19,11.2,46.2,36.1,78.6,1.8,0.4,0.2,0.4,1.3,0.2,3.8
+Derrick Jones Jr.,Derrick Jones Jr.,SF,25,78.0,210.0,UNLV,9720900.0,chicago-bulls,3936099,https://www.espn.com/nba/player/_/id/3936099/derrick-jones-jr,Career,280,19.8,50.9,29.8,69.9,3.4,0.7,0.7,0.7,2.0,0.6,6.5
+Zach LaVine,Zach LaVine,SG,27,77.0,200.0,UCLA,19500000.0,chicago-bulls,3064440,https://www.espn.com/nba/player/_/id/3064440/zach-lavine,Career,478,31.8,46.1,38.6,83.0,3.9,3.9,0.3,0.9,2.2,2.7,19.8
+Marko Simonovic,Marko Simonovic,C,22,83.0,220.0,--,925258.0,chicago-bulls,4683622,https://www.espn.com/nba/player/_/id/4683622/marko-simonovic,Career,9,3.9,26.7,20.0,72.7,1.1,0.0,0.1,0.1,0.7,0.2,1.9
+Dalen Terry,Dalen Terry,G,20,79.0,195.0,Arizona,0.0,chicago-bulls,4433159,https://www.espn.com/nba/player/_/id/4433159/dalen-terry,,,,,,,,,,,,,
+Matt Thomas,Matt Thomas,SG,27,75.0,190.0,Iowa State,1669178.0,chicago-bulls,3059311,https://www.espn.com/nba/player/_/id/3059311/matt-thomas,Career,126,9.7,43.3,40.4,80.4,1.2,0.5,0.0,0.2,0.6,0.3,4.0
+Tristan Thompson,Tristan Thompson,C,31,81.0,254.0,Texas,1000000.0,chicago-bulls,6474,https://www.espn.com/nba/player/_/id/6474/tristan-thompson,Career,730,26.8,51.9,26.3,60.5,8.4,1.0,0.7,0.5,2.3,1.1,9.0
+Nikola Vucevic,Nikola Vucevic,C,31,82.0,260.0,USC,24000000.0,chicago-bulls,6478,https://www.espn.com/nba/player/_/id/6478/nikola-vucevic,Career,741,30.9,49.4,34.8,75.7,10.4,2.7,0.9,0.9,2.5,1.7,16.9
+Coby White,Coby White,PG,22,76.0,195.0,North Carolina,5837760.0,chicago-bulls,4395651,https://www.espn.com/nba/player/_/id/4395651/coby-white,Career,195,28.2,41.3,36.5,85.1,3.6,3.5,0.2,0.6,2.2,1.7,13.7
+Patrick Williams,Patrick Williams,PF,20,79.0,215.0,Florida State,7422000.0,chicago-bulls,4431687,https://www.espn.com/nba/player/_/id/4431687/patrick-williams,Career,88,27.3,49.0,41.3,72.9,4.5,1.3,0.6,0.8,1.8,1.3,9.2
+Ochai Agbaji,Ochai Agbaji,F,22,77.0,215.0,Kansas,0.0,cleveland-cavaliers,4397018,https://www.espn.com/nba/player/_/id/4397018/ochai-agbaji,,,,,,,,,,,,,
+Jarrett Allen,Jarrett Allen,C,24,82.0,243.0,Texas,20000000.0,cleveland-cavaliers,4066328,https://www.espn.com/nba/player/_/id/4066328/jarrett-allen,Career,341,26.6,62.6,18.9,69.9,8.7,1.4,1.4,0.5,2.0,1.3,11.6
+Moses Brown,Moses Brown,C,22,86.0,245.0,UCLA,19186.0,cleveland-cavaliers,4397126,https://www.espn.com/nba/player/_/id/4397126/moses-brown,Career,92,14.1,55.4,0.0,60.2,5.8,0.1,0.7,0.4,1.7,0.7,6.0
+Ed Davis,Ed Davis,C,33,81.0,218.0,North Carolina,1669178.0,cleveland-cavaliers,4259,https://www.espn.com/nba/player/_/id/4259/ed-davis,Career,722,19.1,56.7,0.0,58.3,6.4,0.7,0.8,0.5,2.4,0.7,5.9
+Khalifa Diop,Khalifa Diop,C,20,83.0,231.0,--,0.0,cleveland-cavaliers,4997530,https://www.espn.com/nba/player/_/id/4997530/khalifa-diop,,,,,,,,,,,,,
+Tim Frazier,Tim Frazier,PG,31,72.0,170.0,Penn State,0.0,cleveland-cavaliers,2488945,https://www.espn.com/nba/player/_/id/2488945/tim-frazier,Career,289,17.6,40.0,32.3,72.3,2.3,4.0,0.1,0.7,1.8,1.3,4.9
+Darius Garland,Darius Garland,PG,22,73.0,192.0,Vanderbilt,7040880.0,cleveland-cavaliers,4396907,https://www.espn.com/nba/player/_/id/4396907/darius-garland,Career,181,33.4,44.3,37.8,87.6,2.6,6.3,0.1,1.1,1.8,3.1,17.4
+Brandon Goodwin,Brandon Goodwin,G,26,72.0,180.0,Florida Gulf Coast,0.0,cleveland-cavaliers,3057198,https://www.espn.com/nba/player/_/id/3057198/brandon-goodwin,Career,133,12.1,39.0,31.5,73.0,1.6,1.9,0.0,0.4,1.0,0.8,4.7
+Caris LeVert,Caris LeVert,SG,27,78.0,205.0,Michigan,17500000.0,cleveland-cavaliers,2991043,https://www.espn.com/nba/player/_/id/2991043/caris-levert,Career,318,27.6,43.7,33.3,73.7,3.8,4.0,0.3,1.1,2.0,1.9,14.6
+Robin Lopez,Robin Lopez,C,34,84.0,281.0,Stanford,5000000.0,cleveland-cavaliers,3447,https://www.espn.com/nba/player/_/id/3447/robin-lopez,Career,939,21.9,53.6,29.4,74.2,4.9,0.8,1.1,0.2,1.9,1.1,8.7
+Kevin Love,Kevin Love,PF,33,80.0,251.0,UCLA,31258256.0,cleveland-cavaliers,3449,https://www.espn.com/nba/player/_/id/3449/kevin-love,Career,812,30.9,44.1,37.3,82.9,10.7,2.4,0.4,0.7,2.0,1.9,17.6
+Lauri Markkanen,Lauri Markkanen,PF,25,83.0,240.0,Arizona,15690909.0,cleveland-cavaliers,4066336,https://www.espn.com/nba/player/_/id/4066336/lauri-markkanen,Career,282,29.7,44.1,36.4,85.0,6.8,1.3,0.5,0.7,1.9,1.3,15.4
+Evan Mobley,Evan Mobley,C,21,83.0,215.0,USC,8075160.0,cleveland-cavaliers,4432158,https://www.espn.com/nba/player/_/id/4432158/evan-mobley,Career,69,33.8,50.8,25.0,66.3,8.3,2.5,1.7,0.8,2.1,1.9,15.0
+Isaiah Mobley,Isaiah Mobley,F,22,82.0,240.0,USC,0.0,cleveland-cavaliers,4432815,https://www.espn.com/nba/player/_/id/4432815/isaiah-mobley,,,,,,,,,,,,,
+RJ Nembhard Jr.,RJ Nembhard Jr.,SG,23,76.0,200.0,TCU,0.0,cleveland-cavaliers,4277916,https://www.espn.com/nba/player/_/id/4277916/rj-nembhard-jr,Career,14,4.5,33.3,0.0,75.0,0.5,0.9,0.0,0.1,0.1,0.2,1.1
+Raul Neto,Raul Neto,PG,30,74.0,180.0,--,1669178.0,cleveland-cavaliers,2968361,https://www.espn.com/nba/player/_/id/2968361/raul-neto,Career,387,16.2,45.5,36.6,80.4,1.6,2.2,0.1,0.7,1.3,1.0,6.0
+Isaac Okoro,Isaac Okoro,SF,21,77.0,225.0,Auburn,6720720.0,cleveland-cavaliers,4432822,https://www.espn.com/nba/player/_/id/4432822/isaac-okoro,Career,134,31.0,44.6,31.5,74.7,3.0,1.9,0.3,0.9,2.6,1.1,9.2
+Cedi Osman,Cedi Osman,SF,27,79.0,230.0,--,8133334.0,cleveland-cavaliers,3893016,https://www.espn.com/nba/player/_/id/3893016/cedi-osman,Career,327,24.5,42.3,34.9,71.8,3.2,2.1,0.1,0.7,2.1,1.2,10.0
+Rajon Rondo,Rajon Rondo,PG,36,73.0,180.0,Kentucky,1669178.0,cleveland-cavaliers,3026,https://www.espn.com/nba/player/_/id/3026/rajon-rondo,Career,957,29.9,45.6,32.4,61.1,4.5,7.9,0.1,1.6,2.1,2.7,9.8
+Ricky Rubio,Ricky Rubio,PG,31,74.0,190.0,--,17800000.0,cleveland-cavaliers,4011,https://www.espn.com/nba/player/_/id/4011/ricky-rubio,Career,665,30.3,38.9,32.6,84.3,4.2,7.6,0.1,1.8,2.5,2.6,11.1
+Collin Sexton,Collin Sexton,PG,23,73.0,190.0,Alabama,6439671.0,cleveland-cavaliers,4277811,https://www.espn.com/nba/player/_/id/4277811/collin-sexton,Career,218,32.9,45.8,37.8,82.7,3.0,3.3,0.1,0.8,2.3,2.5,20.0
+Lamar Stevens,Lamar Stevens,F,25,78.0,230.0,Penn State,1517981.0,cleveland-cavaliers,4066405,https://www.espn.com/nba/player/_/id/4066405/lamar-stevens,Career,103,14.7,47.9,24.4,71.4,2.5,0.7,0.3,0.5,1.5,0.6,5.3
+Luke Travers,Luke Travers,G,20,79.0,207.0,--,0.0,cleveland-cavaliers,4997539,https://www.espn.com/nba/player/_/id/4997539/luke-travers,,,,,,,,,,,,,
+Dean Wade,Dean Wade,PF,25,81.0,228.0,Kansas State,1782621.0,cleveland-cavaliers,3912848,https://www.espn.com/nba/player/_/id/3912848/dean-wade,Career,126,18.0,44.7,36.5,71.4,3.0,1.0,0.3,0.5,1.4,0.4,5.3
+Dylan Windler,Dylan Windler,SG,25,78.0,196.0,Belmont,2239200.0,cleveland-cavaliers,3906786,https://www.espn.com/nba/player/_/id/3906786/dylan-windler,Career,81,12.0,41.2,32.0,80.0,2.4,0.8,0.2,0.4,1.0,0.6,3.3
+Marvin Bagley III,Marvin Bagley III,PF,23,83.0,235.0,Duke,11312114.0,detroit-pistons,4277848,https://www.espn.com/nba/player/_/id/4277848/marvin-bagley-iii,Career,166,25.1,50.1,29.1,66.3,7.4,0.9,0.7,0.5,2.1,1.3,13.6
+Saddiq Bey,Saddiq Bey,SF,23,80.0,215.0,Villanova,2824320.0,detroit-pistons,4397136,https://www.espn.com/nba/player/_/id/4397136/saddiq-bey,Career,152,30.3,39.9,36.1,83.3,5.0,2.2,0.2,0.8,1.6,1.0,14.3
+Buddy Boeheim,Buddy Boeheim,G,22,78.0,195.0,Syracuse,0.0,detroit-pistons,4395676,https://www.espn.com/nba/player/_/id/4395676/buddy-boeheim,,,,,,,,,,,,,
+Alec Burks,Alec Burks,SG,31,78.0,214.0,Colorado,9536000.0,detroit-pistons,6429,https://www.espn.com/nba/player/_/id/6429/alec-burks,Career,625,23.0,41.8,38.0,79.9,3.5,2.0,0.2,0.7,1.9,1.2,10.6
+Cade Cunningham,Cade Cunningham,PG,20,78.0,220.0,Oklahoma State,10050120.0,detroit-pistons,4432166,https://www.espn.com/nba/player/_/id/4432166/cade-cunningham,Career,64,32.6,41.6,31.4,84.5,5.5,5.6,0.7,1.2,3.1,3.7,17.4
+Hamidou Diallo,Hamidou Diallo,SG,24,77.0,202.0,Kentucky,5200000.0,detroit-pistons,4080610,https://www.espn.com/nba/player/_/id/4080610/hamidou-diallo,Career,207,18.9,47.5,27.7,63.4,3.9,1.1,0.3,0.8,2.2,1.0,8.4
+Jalen Duren,Jalen Duren,C,18,83.0,250.0,Memphis,0.0,detroit-pistons,4433621,https://www.espn.com/nba/player/_/id/4433621/jalen-duren,,,,,,,,,,,,,
+Carsen Edwards,Carsen Edwards,PG,24,71.0,200.0,Purdue,1782621.0,detroit-pistons,4066407,https://www.espn.com/nba/player/_/id/4066407/carsen-edwards,Career,72,9.8,36.4,29.7,75.8,1.1,0.7,0.1,0.3,0.9,0.4,3.7
+Luka Garza,Luka Garza,C,23,82.0,243.0,Iowa,925258.0,detroit-pistons,4277951,https://www.espn.com/nba/player/_/id/4277951/luka-garza,Career,32,12.2,44.9,32.7,62.3,3.1,0.6,0.2,0.3,1.7,0.6,5.8
+Killian Hayes,Killian Hayes,PG,21,77.0,195.0,--,5572680.0,detroit-pistons,4683024,https://www.espn.com/nba/player/_/id/4683024/killian-hayes,Career,92,25.2,37.4,26.8,78.0,3.0,4.5,0.5,1.1,2.6,2.1,6.8
+Jaden Ivey,Jaden Ivey,G,20,76.0,200.0,Purdue,0.0,detroit-pistons,4433218,https://www.espn.com/nba/player/_/id/4433218/jaden-ivey,,,,,,,,,,,,,
+Frank Jackson,Frank Jackson,PG,24,75.0,205.0,Duke,3000000.0,detroit-pistons,4065651,https://www.espn.com/nba/player/_/id/4065651/frank-jackson,Career,213,18.2,42.2,33.3,78.6,1.8,1.0,0.1,0.4,1.5,0.8,8.5
+Cory Joseph,Cory Joseph,PG,30,75.0,200.0,Texas,4910000.0,detroit-pistons,6446,https://www.espn.com/nba/player/_/id/6446/cory-joseph,Career,728,22.2,44.4,34.4,78.7,2.6,3.0,0.2,0.8,1.6,1.0,7.1
+Braxton Key,Braxton Key,G,25,80.0,230.0,Virginia,0.0,detroit-pistons,4066240,https://www.espn.com/nba/player/_/id/4066240/braxton-key,Career,11,17.9,45.8,28.6,53.8,4.5,1.0,1.0,0.9,2.4,1.0,7.2
+Saben Lee,Saben Lee,PG,23,74.0,183.0,Vanderbilt,1489065.0,detroit-pistons,4278124,https://www.espn.com/nba/player/_/id/4278124/saben-lee,Career,85,16.3,43.4,26.5,73.1,2.2,3.3,0.3,0.8,1.4,1.1,5.6
+Isaiah Livers,Isaiah Livers,PF,24,79.0,230.0,Michigan,1057260.0,detroit-pistons,4277957,https://www.espn.com/nba/player/_/id/4277957/isaiah-livers,Career,19,20.2,45.6,42.2,85.7,3.0,1.1,0.4,0.7,1.9,0.8,6.4
+Rodney McGruder,Rodney McGruder,G,31,76.0,205.0,Kansas State,1669178.0,detroit-pistons,2488826,https://www.espn.com/nba/player/_/id/2488826/rodney-mcgruder,Career,285,19.8,42.1,35.2,65.8,2.8,1.2,0.2,0.5,1.5,0.6,5.8
+Nerlens Noel,Nerlens Noel,C,28,83.0,220.0,Kentucky,8000000.0,detroit-pistons,2991280,https://www.espn.com/nba/player/_/id/2991280/nerlens-noel,Career,450,22.4,54.9,15.4,65.5,6.2,1.1,1.5,1.3,2.6,1.3,7.3
+Kelly Olynyk,Kelly Olynyk,PF,31,83.0,240.0,Gonzaga,12195122.0,detroit-pistons,2489663,https://www.espn.com/nba/player/_/id/2489663/kelly-olynyk,Career,610,22.0,47.6,36.5,78.2,5.1,2.0,0.5,0.8,2.8,1.5,10.1
+Jamorko Pickett,Jamorko Pickett,PF,24,81.0,206.0,Georgetown,0.0,detroit-pistons,4278566,https://www.espn.com/nba/player/_/id/4278566/jamorko-pickett,Career,13,13.5,36.0,33.3,50.0,2.5,0.5,0.5,0.0,0.9,0.4,3.8
+Gabriele Procida,Gabriele Procida,G,--,79.0,180.0,--,0.0,detroit-pistons,4871139,https://www.espn.com/nba/player/_/id/4871139/gabriele-procida,,,,,,,,,,,,,
+Isaiah Stewart,Isaiah Stewart,C,21,80.0,250.0,Washington,3277080.0,detroit-pistons,4432810,https://www.espn.com/nba/player/_/id/4432810/isaiah-stewart,Career,139,23.5,52.9,33.0,70.8,7.7,1.0,1.2,0.4,2.8,1.1,8.1
+Kemba Walker,Kemba Walker,PG,32,72.0,184.0,Connecticut,8729020.0,detroit-pistons,6479,https://www.espn.com/nba/player/_/id/6479/kemba-walker,Career,741,33.3,41.8,36.0,84.0,3.8,5.3,0.4,1.2,1.5,2.1,19.5
+Justin Anderson,Justin Anderson,F,28,77.0,231.0,Virginia,0.0,indiana-pacers,2982340,https://www.espn.com/nba/player/_/id/2982340/justin-anderson,Career,242,13.6,41.1,29.2,77.5,2.6,0.8,0.3,0.4,1.2,0.6,5.3
+Hugo Besson,Hugo Besson,G,21,75.0,196.0,--,0.0,indiana-pacers,4871138,https://www.espn.com/nba/player/_/id/4871138/hugo-besson,,,,,,,,,,,,,
+Goga Bitadze,Goga Bitadze,C,23,84.0,250.0,--,3098400.0,indiana-pacers,4348700,https://www.espn.com/nba/player/_/id/4348700/goga-bitadze,Career,149,11.8,47.7,25.4,70.7,2.9,0.8,0.9,0.3,1.8,0.6,5.0
+Oshae Brissett,Oshae Brissett,SF,24,79.0,210.0,Syracuse,1701593.0,indiana-pacers,4278031,https://www.espn.com/nba/player/_/id/4278031/oshae-brissett,Career,107,20.7,42.4,36.1,72.0,4.7,0.9,0.5,0.6,1.6,0.7,8.2
+Kendall Brown,Kendall Brown,G,19,80.0,205.0,Baylor,0.0,indiana-pacers,4433254,https://www.espn.com/nba/player/_/id/4433254/kendall-brown,,,,,,,,,,,,,
+Chris Duarte,Chris Duarte,SG,25,77.0,190.0,Oregon,3749400.0,indiana-pacers,4592402,https://www.espn.com/nba/player/_/id/4592402/chris-duarte,Career,55,28.0,43.2,36.9,80.4,4.1,2.1,0.2,1.0,1.7,1.6,13.1
+Tyrese Haliburton,Tyrese Haliburton,PG,22,77.0,185.0,Iowa State,4023600.0,indiana-pacers,4396993,https://www.espn.com/nba/player/_/id/4396993/tyrese-haliburton,Career,135,32.9,47.3,41.2,84.6,3.6,6.9,0.6,1.6,1.5,2.2,14.3
+Buddy Hield,Buddy Hield,SG,29,76.0,220.0,Oklahoma,22768890.0,indiana-pacers,2990984,https://www.espn.com/nba/player/_/id/2990984/buddy-hield,Career,468,29.2,43.0,39.8,86.5,4.3,2.5,0.3,0.8,2.1,1.8,15.9
+Nate Hinton,Nate Hinton,G,23,77.0,210.0,Houston,0.0,indiana-pacers,4396629,https://www.espn.com/nba/player/_/id/4396629/nate-hinton,Career,23,4.1,34.9,21.1,70.0,0.4,0.3,0.1,0.3,0.3,0.3,1.8
+Isaiah Jackson,Isaiah Jackson,F,20,82.0,205.0,Kentucky,2451240.0,indiana-pacers,4432170,https://www.espn.com/nba/player/_/id/4432170/isaiah-jackson,Career,36,15.0,56.3,31.3,68.2,4.1,0.3,1.4,0.7,2.6,1.1,8.3
+Bennedict Mathurin,Bennedict Mathurin,G,20,78.0,210.0,Arizona,0.0,indiana-pacers,4683634,https://www.espn.com/nba/player/_/id/4683634/bennedict-mathurin,,,,,,,,,,,,,
+T.J. McConnell,T.J. McConnell,PG,30,73.0,190.0,Arizona,7500000.0,indiana-pacers,2530530,https://www.espn.com/nba/player/_/id/2530530/tj-mcconnell,Career,481,22.2,50.3,32.7,76.9,3.0,5.0,0.2,1.3,1.5,1.6,6.9
+Andrew Nembhard,Andrew Nembhard,G,22,77.0,193.0,Florida,0.0,indiana-pacers,4395712,https://www.espn.com/nba/player/_/id/4395712/andrew-nembhard,,,,,,,,,,,,,
+Aaron Nesmith,Aaron Nesmith,SF,22,77.0,215.0,Vanderbilt,3631200.0,indiana-pacers,4396909,https://www.espn.com/nba/player/_/id/4396909/aaron-nesmith,Career,98,12.7,41.7,31.8,79.6,2.2,0.5,0.1,0.4,1.6,0.6,4.2
+Jalen Smith,Jalen Smith,F,22,82.0,215.0,Maryland,4458000.0,indiana-pacers,4397189,https://www.espn.com/nba/player/_/id/4397189/jalen-smith,Career,78,13.9,49.5,31.7,76.1,4.4,0.4,0.6,0.2,1.4,0.6,6.7
+Lance Stephenson,Lance Stephenson,G,31,77.0,210.0,Cincinnati,642729.0,indiana-pacers,4244,https://www.espn.com/nba/player/_/id/4244/lance-stephenson,Career,554,22.9,44.5,31.4,69.4,4.1,2.9,0.1,0.6,2.0,1.6,8.6
+Terry Taylor,Terry Taylor,SG,22,77.0,230.0,Austin Peay,600000.0,indiana-pacers,4279815,https://www.espn.com/nba/player/_/id/4279815/terry-taylor,Career,33,21.6,61.4,31.6,70.6,5.2,1.2,0.2,0.4,1.8,0.7,9.6
+Daniel Theis,Daniel Theis,C,30,81.0,245.0,--,8280351.0,indiana-pacers,2451037,https://www.espn.com/nba/player/_/id/2451037/daniel-theis,Career,306,19.6,54.5,32.9,72.2,4.9,1.3,0.9,0.5,2.7,0.8,7.6
+Myles Turner,Myles Turner,C,26,83.0,250.0,Texas,18000000.0,indiana-pacers,3133628,https://www.espn.com/nba/player/_/id/3133628/myles-turner,Career,431,28.7,48.9,34.9,76.8,6.7,1.2,2.3,0.7,2.9,1.3,12.7
+Gabe York,Gabe York,G,28,75.0,185.0,Arizona,0.0,indiana-pacers,2991011,https://www.espn.com/nba/player/_/id/2991011/gabe-york,Career,2,10.5,28.6,16.7,60.0,1.0,2.0,0.5,1.0,2.0,0.5,4.0
+Grayson Allen,Grayson Allen,SG,26,76.0,198.0,Duke,4054695.0,milwaukee-bucks,3135045,https://www.espn.com/nba/player/_/id/3135045/grayson-allen,Career,192,21.9,43.3,39.3,84.1,2.6,1.5,0.2,0.6,1.4,0.8,9.4
+Giannis Antetokounmpo,Giannis Antetokounmpo,PF,27,83.0,242.0,--,39344970.0,milwaukee-bucks,3032977,https://www.espn.com/nba/player/_/id/3032977/giannis-antetokounmpo,Career,656,32.6,53.5,28.8,71.8,9.4,4.6,1.3,1.2,3.0,2.9,21.8
+Thanasis Antetokounmpo,Thanasis Antetokounmpo,SF,30,78.0,219.0,--,1669178.0,milwaukee-bucks,3102533,https://www.espn.com/nba/player/_/id/3102533/thanasis-antetokounmpo,Career,127,9.1,51.7,16.7,54.5,2.0,0.7,0.2,0.4,1.3,0.6,3.1
+MarJon Beauchamp,MarJon Beauchamp,G,21,79.0,197.0,--,0.0,milwaukee-bucks,4432179,https://www.espn.com/nba/player/_/id/4432179/marjon-beauchamp,,,,,,,,,,,,,
+Jevon Carter,Jevon Carter,PG,26,73.0,200.0,West Virginia,441277.0,milwaukee-bucks,3133635,https://www.espn.com/nba/player/_/id/3133635/jevon-carter,Career,223,14.1,38.6,38.3,81.0,1.7,1.4,0.2,0.6,1.2,0.5,4.4
+Pat Connaughton,Pat Connaughton,SG,29,77.0,209.0,Notre Dame,5333334.0,milwaukee-bucks,2578239,https://www.espn.com/nba/player/_/id/2578239/pat-connaughton,Career,417,18.5,44.5,36.5,79.7,3.3,1.2,0.3,0.5,1.2,0.5,5.9
+AJ Green,AJ Green,G,22,76.0,190.0,Northern Iowa,0.0,milwaukee-bucks,4397475,https://www.espn.com/nba/player/_/id/4397475/aj-green,,,,,,,,,,,,,
+George Hill,George Hill,PG,36,76.0,188.0,IUPUI,4000000.0,milwaukee-bucks,3438,https://www.espn.com/nba/player/_/id/3438/george-hill,Career,869,27.2,45.6,38.0,80.7,3.0,3.1,0.3,0.9,2.0,1.2,10.7
+Jrue Holiday,Jrue Holiday,PG,32,75.0,205.0,UCLA,32413333.0,milwaukee-bucks,3995,https://www.espn.com/nba/player/_/id/3995/jrue-holiday,Career,839,33.2,46.0,36.3,77.6,4.0,6.4,0.5,1.5,2.2,2.7,16.2
+Serge Ibaka,Serge Ibaka,C,32,82.0,235.0,--,9720900.0,milwaukee-bucks,3439,https://www.espn.com/nba/player/_/id/3439/serge-ibaka,Career,903,27.6,51.3,36.0,75.8,7.2,0.8,1.9,0.4,2.7,1.3,12.1
+Brook Lopez,Brook Lopez,C,34,84.0,282.0,Stanford,13302325.0,milwaukee-bucks,3448,https://www.espn.com/nba/player/_/id/3448/brook-lopez,Career,868,30.2,49.4,34.1,79.6,6.2,1.4,1.8,0.6,2.7,1.7,16.4
+Sandro Mamukelashvili,Sandro Mamukelashvili,PF,23,83.0,240.0,Seton Hall,0.0,milwaukee-bucks,4278580,https://www.espn.com/nba/player/_/id/4278580/sandro-mamukelashvili,Career,41,9.9,49.6,42.3,81.8,2.0,0.5,0.2,0.2,0.7,0.4,3.8
+Wesley Matthews,Wesley Matthews,SG,35,76.0,220.0,Marquette,1237494.0,milwaukee-bucks,4032,https://www.espn.com/nba/player/_/id/4032/wesley-matthews,Career,898,30.5,42.1,37.7,82.4,2.9,2.0,0.2,1.0,2.1,1.2,12.2
+Khris Middleton,Khris Middleton,SF,30,79.0,222.0,Texas A&amp;M,35500000.0,milwaukee-bucks,6609,https://www.espn.com/nba/player/_/id/6609/khris-middleton,Career,651,31.8,45.8,39.2,88.1,4.9,3.8,0.2,1.2,2.6,2.1,17.1
+Jordan Nwora,Jordan Nwora,SF,23,80.0,225.0,Louisville,1517981.0,milwaukee-bucks,4277883,https://www.espn.com/nba/player/_/id/4277883/jordan-nwora,Career,92,15.9,41.5,37.0,80.9,3.1,0.7,0.3,0.4,1.1,0.9,7.2
+Bobby Portis,Bobby Portis,C,27,82.0,250.0,Arkansas,4347600.0,milwaukee-bucks,3064482,https://www.espn.com/nba/player/_/id/3064482/bobby-portis,Career,453,21.7,47.0,38.3,75.2,6.6,1.2,0.4,0.6,1.9,1.1,11.1
+Lindell Wigginton,Lindell Wigginton,G,24,73.0,189.0,Iowa State,0.0,milwaukee-bucks,4277887,https://www.espn.com/nba/player/_/id/4277887/lindell-wigginton,Career,19,10.5,42.6,34.6,54.3,1.3,1.2,0.1,0.3,0.9,0.6,4.2
+Christian Braun,Christian Braun,G,21,78.0,218.0,Kansas,0.0,denver-nuggets,4431767,https://www.espn.com/nba/player/_/id/4431767/christian-braun,,,,,,,,,,,,,
+Bruce Brown,Bruce Brown,SF,25,76.0,202.0,"$4,736,102",,denver-nuggets,4065670,https://www.espn.com/nba/player/_/id/4065670/bruce-brown,Career,269,23.4,48.2,32.7,74.5,4.3,2.1,0.5,0.9,2.5,1.0,7.6
+Kentavious Caldwell-Pope,Kentavious Caldwell-Pope,SG,29,77.0,204.0,Georgia,13038862.0,denver-nuggets,2581018,https://www.espn.com/nba/player/_/id/2581018/kentavious-caldwell-pope,Career,683,29.2,42.1,36.0,81.3,3.1,1.7,0.2,1.1,1.8,1.0,11.6
+Facundo Campazzo,Facundo Campazzo,PG,31,70.0,195.0,--,3200000.0,denver-nuggets,2968334,https://www.espn.com/nba/player/_/id/2968334/facundo-campazzo,Career,130,20.1,37.2,32.8,82.8,1.9,3.5,0.3,1.1,2.0,1.1,5.6
+Vlatko Cancar,Vlatko Cancar,SF,25,80.0,236.0,--,1782621.0,denver-nuggets,4230557,https://www.espn.com/nba/player/_/id/4230557/vlatko-cancar,Career,70,7.2,48.4,33.3,74.2,1.3,0.5,0.1,0.2,0.6,0.4,2.3
+DeMarcus Cousins,DeMarcus Cousins,C,31,82.0,270.0,Kentucky,431684.0,denver-nuggets,4258,https://www.espn.com/nba/player/_/id/4258/demarcus-cousins,Career,654,29.8,46.0,33.1,73.7,10.2,3.0,1.1,1.3,3.7,3.3,19.6
+Aaron Gordon,Aaron Gordon,PF,26,80.0,235.0,Arizona,16409091.0,denver-nuggets,3064290,https://www.espn.com/nba/player/_/id/3064290/aaron-gordon,Career,528,28.9,46.0,32.3,70.2,6.3,2.5,0.6,0.7,2.0,1.5,13.0
+Jeff Green,Jeff Green,PF,35,80.0,235.0,Georgetown,4500000.0,denver-nuggets,3209,https://www.espn.com/nba/player/_/id/3209/jeff-green,Career,1051,29.0,44.8,33.9,80.6,4.3,1.5,0.5,0.7,2.2,1.4,12.6
+Markus Howard,Markus Howard,PG,23,70.0,175.0,Marquette,0.0,denver-nuggets,4065805,https://www.espn.com/nba/player/_/id/4065805/markus-howard,Career,68,5.6,38.2,34.1,84.4,0.5,0.4,0.0,0.2,0.6,0.4,3.4
+Bones Hyland,Bones Hyland,PG,21,74.0,169.0,Virginia Commonwealth,2096880.0,denver-nuggets,4592492,https://www.espn.com/nba/player/_/id/4592492/bones-hyland,Career,69,19.0,40.3,36.6,85.6,2.7,2.8,0.3,0.6,2.2,1.2,10.1
+Nikola Jokic,Nikola Jokic,C,27,83.0,284.0,--,31579390.0,denver-nuggets,3112335,https://www.espn.com/nba/player/_/id/3112335/nikola-jokic,Career,527,30.4,54.2,34.5,83.0,10.4,6.2,0.7,1.2,2.8,2.8,19.7
+DeAndre Jordan,DeAndre Jordan,C,34,83.0,265.0,Texas A&amp;M,374126.0,denver-nuggets,3442,https://www.espn.com/nba/player/_/id/3442/deandre-jordan,Career,980,26.7,67.3,8.3,47.5,10.3,1.0,1.5,0.5,2.5,1.4,9.1
+Jamal Murray,Jamal Murray,PG,25,75.0,215.0,Kentucky,29467800.0,denver-nuggets,3936299,https://www.espn.com/nba/player/_/id/3936299/jamal-murray,Career,345,30.1,44.6,36.7,87.8,3.6,3.8,0.3,1.0,1.9,2.0,16.3
+Zeke Nnaji,Zeke Nnaji,PF,21,81.0,240.0,Arizona,2498760.0,denver-nuggets,4431690,https://www.espn.com/nba/player/_/id/4431690/zeke-nnaji,Career,83,13.2,50.3,43.9,66.3,2.6,0.3,0.2,0.3,1.3,0.4,4.9
+Michael Porter Jr.,Michael Porter Jr.,SF,24,82.0,218.0,Missouri,5258735.0,denver-nuggets,4278104,https://www.espn.com/nba/player/_/id/4278104/michael-porter-jr,Career,125,24.6,51.8,41.9,79.5,6.1,1.1,0.6,0.6,1.9,1.1,14.1
+Davon Reed,Davon Reed,SG,27,77.0,206.0,--,,denver-nuggets,3059262,https://www.espn.com/nba/player/_/id/3059262/davon-reed,Career,79,12.1,43.4,39.1,66.7,1.9,0.9,0.1,0.4,1.1,0.3,3.6
+Ish Smith,Ish Smith,PG,34,72.0,175.0,Wake Forest,4500000.0,denver-nuggets,4305,https://www.espn.com/nba/player/_/id/4305/ish-smith,Career,719,20.0,43.0,32.5,67.7,2.5,3.9,0.3,0.7,1.3,1.2,7.6
+Peyton Watson,Peyton Watson,F,19,80.0,200.0,UCLA,0.0,denver-nuggets,4576087,https://www.espn.com/nba/player/_/id/4576087/peyton-watson,,,,,,,,,,,,,
+Jack White,Jack White,F,24,79.0,222.0,Duke,0.0,denver-nuggets,4065653,https://www.espn.com/nba/player/_/id/4065653/jack-white,,,,,,,,,,,,,
+Kyle Anderson,Kyle Anderson,SF,28,81.0,230.0,UCLA,9937150.0,minnesota-timberwolves,2993874,https://www.espn.com/nba/player/_/id/2993874/kyle-anderson,Career,505,21.0,47.6,33.4,71.1,4.4,2.3,0.6,1.0,1.5,1.0,6.7
+Anthony Edwards,Anthony Edwards,SF,20,76.0,225.0,Georgia,10245480.0,minnesota-timberwolves,4594268,https://www.espn.com/nba/player/_/id/4594268/anthony-edwards,Career,144,33.2,42.9,34.4,78.1,4.7,3.4,0.6,1.3,2.0,2.4,20.3
+Bryn Forbes,Bryn Forbes,SG,29,74.0,205.0,Michigan State,4500000.0,minnesota-timberwolves,2994526,https://www.espn.com/nba/player/_/id/2994526/bryn-forbes,Career,406,20.5,43.8,41.3,82.0,1.7,1.2,0.0,0.4,1.4,0.7,9.1
+Rudy Gobert,Rudy Gobert,C,30,85.0,258.0,--,35344828.0,minnesota-timberwolves,3032976,https://www.espn.com/nba/player/_/id/3032976/rudy-gobert,Career,611,30.0,65.3,0.0,63.8,11.7,1.3,2.2,0.7,2.6,1.6,12.4
+Nathan Knight,Nathan Knight,F,24,82.0,253.0,William &amp; Mary,0.0,minnesota-timberwolves,4067325,https://www.espn.com/nba/player/_/id/4067325/nathan-knight,Career,70,7.8,43.6,21.7,76.5,2.2,0.4,0.3,0.2,0.9,0.5,3.7
+A.J. Lawson,A.J. Lawson,G,22,78.0,179.0,South Carolina,0.0,minnesota-timberwolves,4067017,https://www.espn.com/nba/player/_/id/4067017/aj-lawson,,,,,,,,,,,,,
+Jake Layman,Jake Layman,SF,28,80.0,209.0,Maryland,3940185.0,minnesota-timberwolves,2982268,https://www.espn.com/nba/player/_/id/2982268/jake-layman,Career,243,12.8,46.0,30.0,71.9,1.7,0.5,0.3,0.4,1.0,0.5,4.8
+Jaden McDaniels,Jaden McDaniels,PF,21,81.0,185.0,Washington,2063280.0,minnesota-timberwolves,4431671,https://www.espn.com/nba/player/_/id/4431671/jaden-mcdaniels,Career,133,24.9,45.5,33.8,72.4,3.9,1.1,0.9,0.7,3.0,0.9,8.1
+Jordan McLaughlin,Jordan McLaughlin,PG,26,71.0,185.0,USC,2000000.0,minnesota-timberwolves,3134916,https://www.espn.com/nba/player/_/id/3134916/jordan-mclaughlin,Career,143,17.0,44.4,35.2,72.5,1.8,3.5,0.1,1.0,0.9,0.8,5.0
+Josh Minott,Josh Minott,F,20,80.0,205.0,Memphis,0.0,minnesota-timberwolves,4687718,https://www.espn.com/nba/player/_/id/4687718/josh-minott,,,,,,,,,,,,,
+Greg Monroe,Greg Monroe,C,32,82.0,250.0,Georgetown,0.0,minnesota-timberwolves,4260,https://www.espn.com/nba/player/_/id/4260/greg-monroe,Career,646,27.4,51.4,5.9,70.3,8.2,2.1,0.6,1.1,2.2,1.9,13.0
+Wendell Moore Jr.,Wendell Moore Jr.,F,20,77.0,213.0,Duke,0.0,minnesota-timberwolves,4592187,https://www.espn.com/nba/player/_/id/4592187/wendell-moore-jr,,,,,,,,,,,,,
+Jaylen Nowell,Jaylen Nowell,SG,23,76.0,201.0,Washington,1782621.0,minnesota-timberwolves,4278541,https://www.espn.com/nba/player/_/id/4278541/jaylen-nowell,Career,119,15.8,44.6,34.5,81.1,1.9,1.8,0.2,0.4,1.3,0.6,8.1
+Eric Paschall,Eric Paschall,F,25,78.0,255.0,Villanova,1782621.0,minnesota-timberwolves,3133817,https://www.espn.com/nba/player/_/id/3133817/eric-paschall,Career,158,19.5,49.4,32.6,75.8,3.2,1.4,0.2,0.3,1.5,1.0,9.8
+Taurean Prince,Taurean Prince,PF,28,78.0,218.0,Baylor,13000000.0,minnesota-timberwolves,2990962,https://www.espn.com/nba/player/_/id/2990962/taurean-prince,Career,370,24.2,41.6,37.1,81.5,3.9,1.7,0.4,0.8,2.0,1.6,10.5
+Naz Reid,Naz Reid,C,22,81.0,264.0,LSU,1782621.0,minnesota-timberwolves,4396971,https://www.espn.com/nba/player/_/id/4396971/naz-reid,Career,177,17.3,49.0,34.3,72.3,4.2,1.0,1.0,0.5,2.5,1.0,9.5
+Austin Rivers,Austin Rivers,SG,29,76.0,200.0,Duke,1669178.0,minnesota-timberwolves,6617,https://www.espn.com/nba/player/_/id/6617/austin-rivers,Career,655,24.2,41.8,34.9,64.9,2.1,2.2,0.2,0.7,2.1,1.1,8.8
+D'Angelo Russell,D'Angelo Russell,PG,26,76.0,193.0,Ohio State,30013500.0,minnesota-timberwolves,3136776,https://www.espn.com/nba/player/_/id/3136776/dangelo-russell,Career,424,29.4,42.0,35.6,78.1,3.5,5.6,0.3,1.1,1.9,2.8,17.7
+Matteo Spagnolo,Matteo Spagnolo,G,19,78.0,194.0,--,0.0,minnesota-timberwolves,4997532,https://www.espn.com/nba/player/_/id/4997532/matteo-spagnolo,,,,,,,,,,,,,
+Karl-Anthony Towns,Karl-Anthony Towns,C,26,83.0,248.0,Kentucky,31650600.0,minnesota-timberwolves,3136195,https://www.espn.com/nba/player/_/id/3136195/karl-anthony-towns,Career,482,34.2,52.7,39.7,83.3,11.3,3.1,1.4,0.8,3.4,2.7,23.2
+McKinley Wright IV,McKinley Wright IV,PG,23,71.0,192.0,Colorado,0.0,minnesota-timberwolves,4278507,https://www.espn.com/nba/player/_/id/4278507/mckinley-wright-iv,Career,5,3.8,66.7,50.0,0.0,0.0,0.6,0.0,0.0,0.2,0.2,1.0
+Darius Bazley,Darius Bazley,PF,22,80.0,208.0,--,2513040.0,oklahoma-city-thunder,4423545,https://www.espn.com/nba/player/_/id/4423545/darius-bazley,Career,185,25.8,40.6,30.5,69.5,5.8,1.3,0.7,0.6,1.0,1.4,10.0
+Ousmane Dieng,Ousmane Dieng,F,19,82.0,216.0,--,0.0,oklahoma-city-thunder,4997526,https://www.espn.com/nba/player/_/id/4997526/ousmane-dieng,,,,,,,,,,,,,
+Luguentz Dort,Luguentz Dort,SF,23,75.0,215.0,Arizona State,1782621.0,oklahoma-city-thunder,4397020,https://www.espn.com/nba/player/_/id/4397020/luguentz-dort,Career,139,29.0,39.5,33.3,79.7,3.5,1.5,0.3,0.9,2.7,1.4,13.3
+Derrick Favors,Derrick Favors,C,31,81.0,265.0,Georgia Tech,9720900.0,oklahoma-city-thunder,4257,https://www.espn.com/nba/player/_/id/4257/derrick-favors,Career,790,24.3,53.4,19.8,66.3,7.1,1.1,1.2,0.7,2.5,1.3,10.6
+Melvin Frazier Jr.,Melvin Frazier Jr.,G,25,77.0,215.0,Tulane,0.0,oklahoma-city-thunder,3913546,https://www.espn.com/nba/player/_/id/3913546/melvin-frazier-jr,Career,32,9.1,34.0,20.9,53.3,0.9,0.2,0.1,0.3,0.8,0.3,2.7
+Josh Giddey,Josh Giddey,SG,19,80.0,210.0,--,5988000.0,oklahoma-city-thunder,4871145,https://www.espn.com/nba/player/_/id/4871145/josh-giddey,Career,54,31.5,41.9,26.3,70.9,7.8,6.4,0.4,0.9,1.6,3.2,12.5
+Shai Gilgeous-Alexander,Shai Gilgeous-Alexander,PG,24,78.0,180.0,Kentucky,5495532.0,oklahoma-city-thunder,4278073,https://www.espn.com/nba/player/_/id/4278073/shai-gilgeous-alexander,Career,243,31.8,47.3,34.8,80.7,4.5,4.3,0.7,1.1,2.1,2.2,18.2
+Jaylen Hoard,Jaylen Hoard,F,23,80.0,216.0,Wake Forest,0.0,oklahoma-city-thunder,4395688,https://www.espn.com/nba/player/_/id/4395688/jaylen-hoard,Career,39,17.0,49.0,23.1,61.8,4.6,1.2,0.3,0.6,1.2,0.7,6.6
+Chet Holmgren,Chet Holmgren,F,20,85.0,195.0,Gonzaga,0.0,oklahoma-city-thunder,4433255,https://www.espn.com/nba/player/_/id/4433255/chet-holmgren,,,,,,,,,,,,,
+Ty Jerome,Ty Jerome,SG,25,77.0,195.0,Virginia,2412840.0,oklahoma-city-thunder,4065733,https://www.espn.com/nba/player/_/id/4065733/ty-jerome,Career,112,17.1,39.8,34.4,78.4,1.9,2.4,0.1,0.6,1.5,0.9,7.1
+Georgios Kalaitzakis,Georgios Kalaitzakis,SF,23,79.0,192.0,--,925258.0,oklahoma-city-thunder,4683022,https://www.espn.com/nba/player/_/id/4683022/georgios-kalaitzakis,Career,13,16.5,46.3,38.5,46.7,1.6,0.9,0.2,0.8,1.5,1.5,6.6
+Vit Krejci,Vit Krejci,G,22,80.0,195.0,--,925258.0,oklahoma-city-thunder,4578893,https://www.espn.com/nba/player/_/id/4578893/vit-krejci,Career,30,23.0,40.7,32.7,86.4,3.4,1.9,0.3,0.6,2.2,1.0,6.2
+Theo Maledon,Theo Maledon,PG,21,76.0,175.0,--,2000000.0,oklahoma-city-thunder,4683027,https://www.espn.com/nba/player/_/id/4683027/theo-maledon,Career,116,23.2,37.1,32.2,76.6,2.9,2.9,0.2,0.8,1.7,1.8,8.8
+Tre Mann,Tre Mann,PG,21,77.0,190.0,Florida,2901240.0,oklahoma-city-thunder,4432819,https://www.espn.com/nba/player/_/id/4432819/tre-mann,Career,60,22.8,39.3,36.0,79.3,2.9,1.5,0.2,0.8,1.7,1.2,10.4
+Mike Muscala,Mike Muscala,C,31,82.0,240.0,Bucknell,3365385.0,oklahoma-city-thunder,2490089,https://www.espn.com/nba/player/_/id/2490089/mike-muscala,Career,432,15.5,45.8,37.7,84.7,3.2,0.9,0.5,0.3,1.5,0.6,6.2
+Eugene Omoruyi,Eugene Omoruyi,F,25,78.0,235.0,Oregon,0.0,oklahoma-city-thunder,4066410,https://www.espn.com/nba/player/_/id/4066410/eugene-omoruyi,Career,4,4.5,40.0,50.0,50.0,1.8,0.5,0.0,0.0,0.5,0.0,1.8
+Aleksej Pokusevski,Aleksej Pokusevski,C,20,84.0,190.0,--,3113160.0,oklahoma-city-thunder,4683018,https://www.espn.com/nba/player/_/id/4683018/aleksej-pokusevski,Career,106,21.9,37.6,28.5,71.7,5.0,2.2,0.8,0.6,1.4,1.8,7.8
+Jeremiah Robinson-Earl,Jeremiah Robinson-Earl,PF,21,81.0,230.0,Villanova,2000000.0,oklahoma-city-thunder,4432813,https://www.espn.com/nba/player/_/id/4432813/jeremiah-robinson-earl,Career,49,22.2,41.4,35.2,74.1,5.6,1.0,0.3,0.6,1.5,0.8,7.5
+Lindy Waters III,Lindy Waters III,F,25,78.0,215.0,Oklahoma State,0.0,oklahoma-city-thunder,4066317,https://www.espn.com/nba/player/_/id/4066317/lindy-waters-iii,Career,25,18.6,40.6,36.3,80.0,2.9,1.0,0.3,0.8,1.2,0.4,8.0
+Aaron Wiggins,Aaron Wiggins,SG,23,78.0,200.0,Maryland,0.0,oklahoma-city-thunder,4397183,https://www.espn.com/nba/player/_/id/4397183/aaron-wiggins,Career,50,24.2,46.3,30.4,72.9,3.6,1.4,0.2,0.6,1.9,1.1,8.3
+Jalen Williams,Jalen Williams,F,21,78.0,195.0,Santa Clara,0.0,oklahoma-city-thunder,4593803,https://www.espn.com/nba/player/_/id/4593803/jalen-williams,,,,,,,,,,,,,
+Jaylin Williams,Jaylin Williams,F,20,82.0,240.0,Arkansas,0.0,oklahoma-city-thunder,4432823,https://www.espn.com/nba/player/_/id/4432823/jaylin-williams,,,,,,,,,,,,,
+Kenrich Williams,Kenrich Williams,SF,27,78.0,210.0,TCU,2000000.0,oklahoma-city-thunder,3133626,https://www.espn.com/nba/player/_/id/3133626/kenrich-williams,Career,200,22.0,45.3,34.6,54.0,4.5,2.0,0.3,0.9,2.0,0.9,6.5
+Keljin Blevins,Keljin Blevins,SF,26,76.0,200.0,Montana State,0.0,portland-trail-blazers,3152335,https://www.espn.com/nba/player/_/id/3152335/keljin-blevins,Career,48,8.8,29.8,28.7,54.5,1.1,0.5,0.0,0.3,0.8,0.5,2.2
+Greg Brown III,Greg Brown III,PF,20,79.0,206.0,Texas,925258.0,portland-trail-blazers,4432161,https://www.espn.com/nba/player/_/id/4432161/greg-brown-iii,Career,48,13.3,42.6,31.1,67.7,2.8,0.7,0.5,0.5,1.9,0.8,4.7
+Kris Dunn,Kris Dunn,PG,28,75.0,205.0,Providence,5005350.0,portland-trail-blazers,2991139,https://www.espn.com/nba/player/_/id/2991139/kris-dunn,Career,245,24.1,42.0,29.9,73.9,3.3,4.2,0.4,1.5,3.0,1.8,8.1
+CJ Elleby,CJ Elleby,SG,22,78.0,200.0,Washington State,1517981.0,portland-trail-blazers,4397166,https://www.espn.com/nba/player/_/id/4397166/cj-elleby,Career,88,15.5,39.0,27.5,71.7,2.9,1.1,0.3,0.5,1.6,0.7,4.6
+Drew Eubanks,Drew Eubanks,PF,25,81.0,245.0,Oregon State,1762796.0,portland-trail-blazers,3914285,https://www.espn.com/nba/player/_/id/3914285/drew-eubanks,Career,170,14.0,59.0,30.8,75.3,4.4,0.9,0.7,0.3,1.5,0.9,5.9
+Jerami Grant,Jerami Grant,SF,28,80.0,210.0,Syracuse,20002500.0,portland-trail-blazers,2991070,https://www.espn.com/nba/player/_/id/2991070/jerami-grant,Career,555,26.0,45.2,34.9,72.3,3.9,1.3,1.1,0.6,2.3,1.1,11.4
+Josh Hart,Josh Hart,SG,27,77.0,215.0,Villanova,12000000.0,portland-trail-blazers,3062679,https://www.espn.com/nba/player/_/id/3062679/josh-hart,Career,296,27.3,45.0,34.7,73.9,5.7,2.1,0.4,0.9,2.3,1.2,9.9
+Elijah Hughes,Elijah Hughes,F,24,77.0,215.0,Syracuse,1517981.0,portland-trail-blazers,4066446,https://www.espn.com/nba/player/_/id/4066446/elijah-hughes,Career,54,9.2,32.8,28.0,76.9,1.2,0.5,0.2,0.3,0.7,0.4,2.9
+Joe Ingles,Joe Ingles,SG,34,80.0,220.0,--,13036364.0,portland-trail-blazers,2968436,https://www.espn.com/nba/player/_/id/2968436/joe-ingles,Career,590,25.7,44.9,40.8,76.8,3.2,3.8,0.2,0.9,1.9,1.6,8.6
+Keon Johnson,Keon Johnson,SG,20,76.0,185.0,Tennessee,2553120.0,portland-trail-blazers,4432192,https://www.espn.com/nba/player/_/id/4432192/keon-johnson,Career,37,18.8,35.3,34.0,80.4,2.2,2.1,0.3,0.8,1.9,1.2,7.2
+Ismael Kamagate,Ismael Kamagate,C,21,83.0,227.0,--,0.0,portland-trail-blazers,4997529,https://www.espn.com/nba/player/_/id/4997529/ismael-kamagate,,,,,,,,,,,,,
+Damian Lillard,Damian Lillard,PG,32,74.0,195.0,Weber State,39344900.0,portland-trail-blazers,6606,https://www.espn.com/nba/player/_/id/6606/damian-lillard,Career,711,36.3,43.7,37.3,89.3,4.2,6.6,0.3,1.0,1.9,2.8,24.6
+Nassir Little,Nassir Little,SF,22,77.0,220.0,North Carolina,2316240.0,portland-trail-blazers,4395652,https://www.espn.com/nba/player/_/id/4395652/nassir-little,Career,138,16.7,45.5,31.7,72.7,3.4,0.7,0.5,0.3,1.5,0.5,5.8
+Didi Louzada,Didi Louzada,SF,23,77.0,188.0,--,1786878.0,portland-trail-blazers,4423885,https://www.espn.com/nba/player/_/id/4423885/didi-louzada,Career,12,15.4,32.6,35.5,100.0,1.7,0.7,0.2,0.3,1.5,0.7,3.6
+Ben McLemore,Ben McLemore,SG,29,75.0,195.0,Kansas,1669178.0,portland-trail-blazers,2578213,https://www.espn.com/nba/player/_/id/2578213/ben-mclemore,Career,556,22.5,41.4,36.3,78.0,2.3,1.0,0.2,0.6,2.1,1.1,9.0
+Jusuf Nurkic,Jusuf Nurkic,C,27,83.0,290.0,--,12000000.0,portland-trail-blazers,3102530,https://www.espn.com/nba/player/_/id/3102530/jusuf-nurkic,Career,411,23.9,50.0,23.2,67.2,8.5,2.2,1.2,0.9,3.1,2.1,12.2
+Gary Payton II,Gary Payton II,SG,29,75.0,195.0,Oregon State,1669178.0,portland-trail-blazers,3134903,https://www.espn.com/nba/player/_/id/3134903/gary-payton-ii,Career,142,14.5,54.2,32.0,57.1,2.8,1.1,0.3,1.0,1.6,0.6,5.2
+Reggie Perry,Reggie Perry,F,22,80.0,250.0,Mississippi State,0.0,portland-trail-blazers,4396959,https://www.espn.com/nba/player/_/id/4396959/reggie-perry,Career,36,11.1,45.9,18.9,67.9,3.3,0.7,0.3,0.4,2.0,0.7,4.7
+Shaedon Sharpe,Shaedon Sharpe,G,19,78.0,200.0,Kentucky,0.0,portland-trail-blazers,4914336,https://www.espn.com/nba/player/_/id/4914336/shaedon-sharpe,,,,,,,,,,,,,
+Anfernee Simons,Anfernee Simons,SG,23,75.0,181.0,--,3938818.0,portland-trail-blazers,4351851,https://www.espn.com/nba/player/_/id/4351851/anfernee-simons,Career,211,20.7,42.5,39.2,83.3,2.2,2.0,0.1,0.4,1.7,1.1,10.2
+Jabari Walker,Jabari Walker,F,20,81.0,215.0,Colorado,0.0,portland-trail-blazers,4432446,https://www.espn.com/nba/player/_/id/4432446/jabari-walker,,,,,,,,,,,,,
+Trendon Watford,Trendon Watford,PF,21,80.0,237.0,LSU,436482.0,portland-trail-blazers,4431675,https://www.espn.com/nba/player/_/id/4431675/trendon-watford,Career,48,18.1,53.2,23.7,75.5,4.1,1.7,0.6,0.5,2.4,0.9,7.6
+Brandon Williams,Brandon Williams,PG,22,74.0,190.0,Arizona,0.0,portland-trail-blazers,4397040,https://www.espn.com/nba/player/_/id/4397040/brandon-williams,Career,24,26.7,37.2,29.2,70.1,3.1,3.9,0.4,1.0,2.2,2.4,12.9
+Justise Winslow,Justise Winslow,PF,26,78.0,222.0,Duke,3902439.0,portland-trail-blazers,3135047,https://www.espn.com/nba/player/_/id/3135047/justise-winslow,Career,315,25.8,41.3,31.5,63.4,5.1,2.5,0.4,0.9,2.2,1.5,8.4
+Cody Zeller,Cody Zeller,C,29,83.0,240.0,Indiana,0.0,portland-trail-blazers,2579258,https://www.espn.com/nba/player/_/id/2579258/cody-zeller,Career,494,22.2,52.0,22.1,73.1,6.0,1.4,0.6,0.6,2.6,1.1,8.5
+Nickeil Alexander-Walker,Nickeil Alexander-Walker,SG,23,77.0,205.0,Virginia Tech,3261480.0,utah-jazz,4278039,https://www.espn.com/nba/player/_/id/4278039/nickeil-alexander-walker,Career,158,19.4,38.7,32.9,72.6,2.6,2.2,0.3,0.7,1.6,1.4,9.3
+Udoka Azubuike,Udoka Azubuike,C,22,84.0,270.0,Kansas,2075880.0,utah-jazz,4066299,https://www.espn.com/nba/player/_/id/4066299/udoka-azubuike,Career,32,7.9,70.7,0.0,66.7,2.6,0.0,0.5,0.1,1.1,0.5,3.0
+Malik Beasley,Malik Beasley,SG,25,76.0,187.0,Florida State,14491964.0,utah-jazz,3907822,https://www.espn.com/nba/player/_/id/3907822/malik-beasley,Career,336,20.9,43.0,38.6,81.6,2.5,1.2,0.1,0.6,1.2,0.7,10.4
+Patrick Beverley,Patrick Beverley,PG,34,73.0,180.0,Arkansas,14320988.0,utah-jazz,3964,https://www.espn.com/nba/player/_/id/3964/patrick-beverley,Career,526,27.4,41.4,37.8,75.6,4.3,3.5,0.5,1.1,3.1,1.3,8.8
+Bojan Bogdanovic,Bojan Bogdanovic,SF,33,79.0,226.0,--,18700000.0,utah-jazz,3593,https://www.espn.com/nba/player/_/id/3593/bojan-bogdanovic,Career,603,29.1,45.7,39.2,86.1,3.6,1.6,0.1,0.6,1.6,1.6,15.0
+Leandro Bolmaro,Leandro Bolmaro,SG,21,78.0,200.0,--,2353320.0,utah-jazz,4683025,https://www.espn.com/nba/player/_/id/4683025/leandro-bolmaro,Career,35,6.9,31.5,27.8,84.6,1.2,0.6,0.0,0.2,0.7,0.4,1.4
+Jared Butler,Jared Butler,SG,21,75.0,193.0,Baylor,925258.0,utah-jazz,4395695,https://www.espn.com/nba/player/_/id/4395695/jared-butler,Career,42,8.6,40.4,31.8,68.8,1.1,1.5,0.2,0.4,1.1,0.8,3.8
+Jordan Clarkson,Jordan Clarkson,PG,30,76.0,194.0,Missouri,12420000.0,utah-jazz,2528426,https://www.espn.com/nba/player/_/id/2528426/jordan-clarkson,Career,600,27.0,43.9,33.8,82.7,3.3,2.5,0.1,0.9,1.7,1.7,15.4
+Mike Conley,Mike Conley,PG,34,73.0,175.0,Ohio State,21000000.0,utah-jazz,3195,https://www.espn.com/nba/player/_/id/3195/mike-conley,Career,958,32.0,43.9,38.2,82.0,3.0,5.6,0.2,1.4,2.0,2.0,14.8
+Simone Fontecchio,Simone Fontecchio,F,26,79.0,200.0,--,0.0,utah-jazz,3899664,https://www.espn.com/nba/player/_/id/3899664/simone-fontecchio,,,,,,,,,,,,,
+Trent Forrest,Trent Forrest,SG,24,76.0,210.0,Florida State,0.0,utah-jazz,4065656,https://www.espn.com/nba/player/_/id/4065656/trent-forrest,Career,90,11.9,47.8,18.9,85.1,1.6,1.7,0.1,0.4,0.7,0.8,3.1
+Rudy Gay,Rudy Gay,SF,35,80.0,250.0,Connecticut,5890000.0,utah-jazz,3005,https://www.espn.com/nba/player/_/id/3005/rudy-gay,Career,1064,31.7,45.3,35.0,79.9,5.8,2.1,0.7,1.1,2.3,2.1,16.3
+Johnny Juzang,Johnny Juzang,G,21,79.0,215.0,UCLA,0.0,utah-jazz,4432817,https://www.espn.com/nba/player/_/id/4432817/johnny-juzang,,,,,,,,,,,,,
+Walker Kessler,Walker Kessler,C,--,85.0,245.0,Auburn,0.0,utah-jazz,4433136,https://www.espn.com/nba/player/_/id/4433136/walker-kessler,,,,,,,,,,,,,
+Donovan Mitchell,Donovan Mitchell,SG,25,73.0,215.0,Louisville,28103500.0,utah-jazz,3908809,https://www.espn.com/nba/player/_/id/3908809/donovan-mitchell,Career,345,33.7,44.1,36.1,83.3,4.2,4.5,0.3,1.3,2.5,2.8,23.9
+Xavier Sneed,Xavier Sneed,F,24,77.0,215.0,Bradley,8558.0,utah-jazz,4066303,https://www.espn.com/nba/player/_/id/4066303/xavier-sneed,Career,9,4.3,20.0,12.5,0.0,0.7,0.1,0.0,0.0,0.2,0.0,0.6
+Jarred Vanderbilt,Jarred Vanderbilt,PF,23,81.0,214.0,Kentucky,4050000.0,utah-jazz,4278077,https://www.espn.com/nba/player/_/id/4278077/jarred-vanderbilt,Career,166,18.9,59.1,14.3,61.6,6.2,1.1,0.6,1.0,1.9,0.8,5.4
+Hassan Whiteside,Hassan Whiteside,C,33,84.0,265.0,Marshall,1669178.0,utah-jazz,4262,https://www.espn.com/nba/player/_/id/4262/hassan-whiteside,Career,511,24.7,58.6,30.8,60.5,10.8,0.6,2.2,0.5,2.6,1.5,12.6
+Patrick Baldwin Jr.,Patrick Baldwin Jr.,F,19,81.0,220.0,Milwaukee,0.0,golden-state-warriors,4433246,https://www.espn.com/nba/player/_/id/4433246/patrick-baldwin-jr,,,,,,,,,,,,,
+Nemanja Bjelica,Nemanja Bjelica,PF,34,81.0,234.0,--,1669178.0,golden-state-warriors,4269,https://www.espn.com/nba/player/_/id/4269/nemanja-bjelica,Career,449,20.4,46.6,38.4,75.9,4.6,1.8,0.4,0.6,2.4,1.0,7.6
+Chris Chiozza,Chris Chiozza,G,26,71.0,175.0,Florida,0.0,golden-state-warriors,3137795,https://www.espn.com/nba/player/_/id/3137795/chris-chiozza,Career,91,11.4,35.3,34.3,80.0,1.3,2.4,0.1,0.5,1.0,0.9,3.3
+Stephen Curry,Stephen Curry,PG,34,74.0,185.0,Davidson,45780966.0,golden-state-warriors,3975,https://www.espn.com/nba/player/_/id/3975/stephen-curry,Career,826,34.3,47.3,42.8,90.8,4.6,6.5,0.2,1.7,2.4,3.1,24.3
+Donte DiVincenzo,Donte DiVincenzo,SG,25,76.0,203.0,Villanova,4675830.0,golden-state-warriors,3934673,https://www.espn.com/nba/player/_/id/3934673/donte-divincenzo,Career,201,23.6,41.5,34.7,76.6,4.6,2.5,0.2,1.1,1.7,1.4,9.0
+Draymond Green,Draymond Green,PF,32,78.0,230.0,Michigan State,24026712.0,golden-state-warriors,6589,https://www.espn.com/nba/player/_/id/6589/draymond-green,Career,685,28.5,44.1,31.5,71.2,6.9,5.4,1.0,1.4,2.8,2.2,8.7
+JaMychal Green,JaMychal Green,F,32,80.0,227.0,Alabama,8200000.0,golden-state-warriors,2327577,https://www.espn.com/nba/player/_/id/2327577/jamychal-green,Career,487,20.8,47.2,36.7,78.5,5.7,0.9,0.4,0.6,2.6,1.1,7.9
+Andre Iguodala,Andre Iguodala,F,38,78.0,215.0,Arizona,1669178.0,golden-state-warriors,2386,https://www.espn.com/nba/player/_/id/2386/andre-iguodala,Career,1223,32.2,46.3,33.0,70.9,4.9,4.2,0.5,1.4,1.8,1.8,11.4
+Jonathan Kuminga,Jonathan Kuminga,PF,19,80.0,210.0,--,5466360.0,golden-state-warriors,4433247,https://www.espn.com/nba/player/_/id/4433247/jonathan-kuminga,Career,70,16.9,51.3,33.6,68.4,3.3,0.9,0.3,0.4,2.1,1.1,9.3
+Kevon Looney,Kevon Looney,C,26,81.0,222.0,UCLA,5178572.0,golden-state-warriors,3155535,https://www.espn.com/nba/player/_/id/3155535/kevon-looney,Career,367,16.4,56.7,17.2,60.6,4.8,1.4,0.6,0.5,2.1,0.6,4.7
+Mac McClung,Mac McClung,SG,23,74.0,185.0,Texas Tech,0.0,golden-state-warriors,4397071,https://www.espn.com/nba/player/_/id/4397071/mac-mcclung,Career,2,12.5,50.0,33.3,100.0,1.5,0.5,0.5,0.5,2.5,1.5,4.0
+Moses Moody,Moses Moody,SG,20,78.0,205.0,Arkansas,3562200.0,golden-state-warriors,4432171,https://www.espn.com/nba/player/_/id/4432171/moses-moody,Career,52,11.7,43.7,36.4,77.8,1.5,0.4,0.2,0.1,0.8,0.3,4.4
+Jordan Poole,Jordan Poole,SG,23,76.0,194.0,Michigan,2161440.0,golden-state-warriors,4277956,https://www.espn.com/nba/player/_/id/4277956/jordan-poole,Career,184,24.7,41.6,34.1,88.5,2.6,2.9,0.2,0.7,2.1,1.7,13.7
+Ryan Rollins,Ryan Rollins,G,20,76.0,180.0,Toledo,0.0,golden-state-warriors,4591725,https://www.espn.com/nba/player/_/id/4591725/ryan-rollins,,,,,,,,,,,,,
+Gui Santos,Gui Santos,F,20,80.0,209.0,--,0.0,golden-state-warriors,4997536,https://www.espn.com/nba/player/_/id/4997536/gui-santos,,,,,,,,,,,,,
+Klay Thompson,Klay Thompson,SG,32,78.0,220.0,Washington State,37980720.0,golden-state-warriors,6475,https://www.espn.com/nba/player/_/id/6475/klay-thompson,Career,647,32.9,45.8,41.7,84.9,3.5,2.3,0.5,0.9,2.1,1.7,19.5
+Quinndary Weatherspoon,Quinndary Weatherspoon,SG,25,75.0,207.0,Mississippi State,0.0,golden-state-warriors,3907358,https://www.espn.com/nba/player/_/id/3907358/quinndary-weatherspoon,Career,42,6.5,45.2,18.8,82.6,0.8,0.6,0.1,0.3,1.0,0.4,2.1
+Andrew Wiggins,Andrew Wiggins,SF,27,79.0,197.0,Kansas,31579390.0,golden-state-warriors,3059319,https://www.espn.com/nba/player/_/id/3059319/andrew-wiggins,Career,598,35.0,44.8,35.0,72.3,4.4,2.3,0.7,1.0,2.2,2.0,19.3
+James Wiseman,James Wiseman,C,21,84.0,258.0,Memphis,9166800.0,golden-state-warriors,4432808,https://www.espn.com/nba/player/_/id/4432808/james-wiseman,Career,39,21.4,51.9,31.6,62.8,5.8,0.7,0.9,0.3,3.1,1.5,11.5
+Nicolas Batum,Nicolas Batum,PF,33,80.0,230.0,--,3170029.0,la-clippers,3416,https://www.espn.com/nba/player/_/id/3416/nicolas-batum,Career,915,30.6,43.7,36.3,83.7,5.1,3.5,0.6,1.0,1.7,1.7,11.1
+Brandon Boston Jr.,Brandon Boston Jr.,SG,20,78.0,188.0,Kentucky,925258.0,la-clippers,4432162,https://www.espn.com/nba/player/_/id/4432162/brandon-boston-jr,Career,51,14.9,38.5,30.6,81.9,2.2,1.0,0.3,0.5,0.8,0.6,6.7
+Amir Coffey,Amir Coffey,SG,25,79.0,210.0,Minnesota,153488.0,la-clippers,4066387,https://www.espn.com/nba/player/_/id/4066387/amir-coffey,Career,131,16.2,44.8,38.0,80.7,2.0,1.2,0.1,0.4,1.0,0.5,6.2
+Robert Covington,Robert Covington,PF,31,79.0,209.0,Tennessee State,12975471.0,la-clippers,2490620,https://www.espn.com/nba/player/_/id/2490620/robert-covington,Career,537,29.9,40.6,36.0,81.3,5.8,1.5,1.0,1.6,3.0,1.5,11.6
+Moussa Diabate,Moussa Diabate,F,20,83.0,210.0,Michigan,0.0,la-clippers,4433249,https://www.espn.com/nba/player/_/id/4433249/moussa-diabate,,,,,,,,,,,,,
+Paul George,Paul George,SG,32,80.0,220.0,Fresno State,39344900.0,la-clippers,4251,https://www.espn.com/nba/player/_/id/4251/paul-george,Career,737,33.6,43.5,38.2,84.8,6.4,3.6,0.4,1.7,2.7,2.7,20.4
+Rodney Hood,Rodney Hood,SG,29,80.0,208.0,Duke,1669178.0,la-clippers,2581177,https://www.espn.com/nba/player/_/id/2581177/rodney-hood,Career,448,24.5,42.0,36.6,84.1,2.6,1.6,0.2,0.7,1.9,1.0,10.4
+Reggie Jackson,Reggie Jackson,PG,32,74.0,208.0,Boston College,10384500.0,la-clippers,6443,https://www.espn.com/nba/player/_/id/6443/reggie-jackson,Career,703,25.6,42.4,34.5,85.4,3.0,4.3,0.1,0.7,2.0,1.9,13.1
+Luke Kennard,Luke Kennard,SG,26,77.0,206.0,Duke,13347727.0,la-clippers,3913174,https://www.espn.com/nba/player/_/id/3913174/luke-kennard,Career,297,23.5,44.9,42.5,86.9,2.9,2.0,0.1,0.5,1.5,0.9,10.0
+Kawhi Leonard,Kawhi Leonard,SF,31,79.0,225.0,San Diego State,39344900.0,la-clippers,6450,https://www.espn.com/nba/player/_/id/6450/kawhi-leonard,Career,576,31.3,49.3,38.4,85.8,6.4,2.9,0.6,1.8,1.7,1.6,19.2
+Terance Mann,Terance Mann,SG,25,77.0,215.0,Florida State,1782621.0,la-clippers,3907823,https://www.espn.com/nba/player/_/id/3907823/terance-mann,Career,189,20.9,49.1,37.9,78.6,3.8,1.9,0.2,0.5,1.9,0.8,7.6
+Xavier Moon,Xavier Moon,PG,27,74.0,165.0,Morehead State,0.0,la-clippers,3914075,https://www.espn.com/nba/player/_/id/3914075/xavier-moon,Career,10,13.7,49.0,35.7,60.0,1.4,2.4,0.3,0.7,0.9,0.6,5.8
+Marcus Morris Sr.,Marcus Morris Sr.,SF,32,80.0,218.0,Kansas,15627907.0,la-clippers,6462,https://www.espn.com/nba/player/_/id/6462/marcus-morris-sr,Career,718,27.1,43.5,37.7,77.3,4.6,1.5,0.3,0.7,2.2,1.2,12.4
+Norman Powell,Norman Powell,SF,29,75.0,215.0,UCLA,15517241.0,la-clippers,2595516,https://www.espn.com/nba/player/_/id/2595516/norman-powell,Career,421,22.4,46.3,38.4,83.1,2.6,1.5,0.3,0.8,1.8,1.2,11.3
+Jason Preston,Jason Preston,PG,22,75.0,181.0,Ohio,1062303.0,la-clippers,4397916,https://www.espn.com/nba/player/_/id/4397916/jason-preston,,,,,,,,,,,,,
+John Wall,John Wall,PG,31,75.0,210.0,Kentucky,44310840.0,la-clippers,4237,https://www.espn.com/nba/player/_/id/4237/john-wall,Career,613,35.6,43.1,32.3,77.9,4.3,9.1,0.7,1.7,2.2,3.8,19.1
+Ivica Zubac,Ivica Zubac,C,25,84.0,240.0,--,7518518.0,la-clippers,4017837,https://www.espn.com/nba/player/_/id/4017837/ivica-zubac,Career,360,19.0,59.7,10.0,75.4,6.5,1.1,0.8,0.3,2.2,1.1,8.3
+Carmelo Anthony,Carmelo Anthony,PF,38,79.0,238.0,Syracuse,1669178.0,los-angeles-lakers,1975,https://www.espn.com/nba/player/_/id/1975/carmelo-anthony,Career,1260,34.5,44.7,35.5,81.4,6.2,2.7,0.5,1.0,2.8,2.4,22.5
+D.J. Augustin,D.J. Augustin,G,34,71.0,183.0,Texas,393312.0,los-angeles-lakers,3415,https://www.espn.com/nba/player/_/id/3415/dj-augustin,Career,976,23.4,41.2,38.1,86.7,1.8,3.9,0.0,0.6,1.4,1.5,9.5
+Kent Bazemore,Kent Bazemore,SF,33,76.0,195.0,Old Dominion,1669178.0,los-angeles-lakers,6637,https://www.espn.com/nba/player/_/id/6637/kent-bazemore,Career,657,20.6,41.3,35.6,72.4,3.2,1.8,0.5,1.0,2.0,1.4,8.2
+Avery Bradley,Avery Bradley,PG,31,75.0,180.0,Texas,1669178.0,los-angeles-lakers,4240,https://www.espn.com/nba/player/_/id/4240/avery-bradley,Career,660,27.5,43.4,36.5,78.3,2.8,1.7,0.2,1.0,2.2,1.3,11.0
+Troy Brown Jr.,Troy Brown Jr.,SF,23,78.0,215.0,Oregon,5170564.0,los-angeles-lakers,4278508,https://www.espn.com/nba/player/_/id/4278508/troy-brown-jr,Career,221,18.5,42.9,33.7,75.5,3.8,1.6,0.1,0.7,1.4,0.7,6.4
+Thomas Bryant,Thomas Bryant,C,25,82.0,248.0,Indiana,8666667.0,los-angeles-lakers,3934723,https://www.espn.com/nba/player/_/id/3934723/thomas-bryant,Career,170,20.1,59.0,35.0,76.4,5.7,1.3,0.9,0.4,1.8,0.9,10.2
+Max Christie,Max Christie,G,19,78.0,190.0,Michigan State,0.0,los-angeles-lakers,4432582,https://www.espn.com/nba/player/_/id/4432582/max-christie,,,,,,,,,,,,,
+Anthony Davis,Anthony Davis,PF,29,82.0,253.0,Kentucky,35361360.0,los-angeles-lakers,6583,https://www.espn.com/nba/player/_/id/6583/anthony-davis,Career,604,34.4,51.5,30.3,79.4,10.2,2.3,2.3,1.4,2.3,2.0,23.8
+Wayne Ellington,Wayne Ellington,SG,34,76.0,207.0,North Carolina,1669178.0,los-angeles-lakers,3981,https://www.espn.com/nba/player/_/id/3981/wayne-ellington,Career,770,20.9,41.0,38.2,84.3,2.1,1.1,0.1,0.5,1.1,0.7,8.0
+Wenyen Gabriel,Wenyen Gabriel,F,25,81.0,205.0,Kentucky,0.0,los-angeles-lakers,4066264,https://www.espn.com/nba/player/_/id/4066264/wenyen-gabriel,Career,77,10.8,45.4,33.8,63.0,2.6,0.4,0.3,0.3,1.8,0.6,3.6
+Talen Horton-Tucker,Talen Horton-Tucker,SG,21,76.0,234.0,Iowa State,9500000.0,los-angeles-lakers,4396991,https://www.espn.com/nba/player/_/id/4396991/talen-horton-tucker,Career,131,22.1,43.7,27.6,78.3,2.8,2.6,0.4,1.0,2.2,1.5,9.3
+Dwight Howard,Dwight Howard,C,36,82.0,265.0,--,1669178.0,los-angeles-lakers,2384,https://www.espn.com/nba/player/_/id/2384/dwight-howard,Career,1242,31.8,58.7,21.4,56.7,11.8,1.3,1.8,0.9,3.1,2.7,15.7
+Jay Huff,Jay Huff,C,23,85.0,240.0,Virginia,0.0,los-angeles-lakers,4065731,https://www.espn.com/nba/player/_/id/4065731/jay-huff,Career,4,5.0,0.0,0.0,0.0,1.0,0.3,0.3,0.3,0.3,0.3,0.0
+LeBron James,LeBron James,SF,37,81.0,250.0,--,41180544.0,los-angeles-lakers,1966,https://www.espn.com/nba/player/_/id/1966/lebron-james,Career,1366,38.2,50.5,34.6,73.4,7.5,7.4,0.8,1.6,1.8,3.5,27.1
+Stanley Johnson,Stanley Johnson,PF,26,78.0,242.0,Arizona,888616.0,los-angeles-lakers,3134881,https://www.espn.com/nba/player/_/id/3134881/stanley-johnson,Career,419,20.1,38.4,30.0,75.4,3.1,1.5,0.2,0.9,2.0,1.1,6.3
+Damian Jones,Damian Jones,C,27,83.0,245.0,Vanderbilt,1977011.0,los-angeles-lakers,3064559,https://www.espn.com/nba/player/_/id/3064559/damian-jones,Career,199,15.3,66.5,30.2,70.2,3.4,0.8,0.7,0.4,2.3,0.7,5.6
+Mason Jones,Mason Jones,G,24,76.0,200.0,Arkansas,0.0,los-angeles-lakers,4395704,https://www.espn.com/nba/player/_/id/4395704/mason-jones,Career,36,10.7,42.8,35.7,65.8,1.8,1.3,0.0,0.3,0.9,0.8,5.4
+Kendrick Nunn,Kendrick Nunn,G,26,74.0,190.0,Oakland,5000000.0,los-angeles-lakers,3056247,https://www.espn.com/nba/player/_/id/3056247/kendrick-nunn,Career,123,29.4,45.8,36.4,88.1,2.9,3.0,0.2,0.9,2.1,1.6,15.0
+Scotty Pippen Jr.,Scotty Pippen Jr.,G,21,75.0,185.0,Vanderbilt,0.0,los-angeles-lakers,4431785,https://www.espn.com/nba/player/_/id/4431785/scotty-pippen-jr,,,,,,,,,,,,,
+Austin Reaves,Austin Reaves,SG,24,77.0,197.0,Oklahoma,925258.0,los-angeles-lakers,4066457,https://www.espn.com/nba/player/_/id/4066457/austin-reaves,Career,61,23.2,45.9,31.7,83.9,3.2,1.8,0.3,0.5,1.4,0.7,7.3
+Cole Swider,Cole Swider,F,23,81.0,220.0,Syracuse,0.0,los-angeles-lakers,4397134,https://www.espn.com/nba/player/_/id/4397134/cole-swider,,,,,,,,,,,,,
+Juan Toscano-Anderson,Juan Toscano-Anderson,SF,29,78.0,209.0,Marquette,1701593.0,los-angeles-lakers,4401416,https://www.espn.com/nba/player/_/id/4401416/juan-toscano-anderson,Career,139,17.1,52.3,36.1,61.3,3.3,2.2,0.3,0.7,1.8,1.0,4.8
+Lonnie Walker IV,Lonnie Walker IV,G,23,76.0,204.0,"$4,447,896",,los-angeles-lakers,4277890,https://www.espn.com/nba/player/_/id/4277890/lonnie-walker-iv,Career,208,20.4,41.4,34.3,77.9,2.4,1.6,0.2,0.5,1.4,0.9,9.4
+Russell Westbrook,Russell Westbrook,PG,33,75.0,200.0,UCLA,44211146.0,los-angeles-lakers,3468,https://www.espn.com/nba/player/_/id/3468/russell-westbrook,Career,1021,34.7,43.8,30.5,78.3,7.4,8.4,0.3,1.7,2.6,4.1,22.8
+Deandre Ayton,Deandre Ayton,C,24,83.0,250.0,Arizona,12632950.0,phoenix-suns,4278129,https://www.espn.com/nba/player/_/id/4278129/deandre-ayton,Career,236,30.7,59.9,25.0,75.4,10.5,1.6,1.0,0.7,2.8,1.7,16.3
+Bismack Biyombo,Bismack Biyombo,C,29,80.0,255.0,--,863368.0,phoenix-suns,6427,https://www.espn.com/nba/player/_/id/6427/bismack-biyombo,Career,738,19.9,53.0,0.0,56.4,6.1,0.6,1.3,0.3,2.2,0.9,5.2
+Devin Booker,Devin Booker,SG,25,77.0,206.0,Kentucky,31650600.0,phoenix-suns,3136193,https://www.espn.com/nba/player/_/id/3136193/devin-booker,Career,477,33.7,45.7,35.7,87.0,3.9,4.7,0.3,0.8,3.0,3.1,23.5
+Mikal Bridges,Mikal Bridges,SF,25,78.0,209.0,Villanova,5557725.0,phoenix-suns,3147657,https://www.espn.com/nba/player/_/id/3147657/mikal-bridges,Career,309,31.3,50.9,37.4,83.1,3.9,2.1,0.6,1.3,2.0,0.9,11.3
+Torrey Craig,Torrey Craig,SF,31,79.0,221.0,USC Upstate,4878049.0,phoenix-suns,2528693,https://www.espn.com/nba/player/_/id/2528693/torrey-craig,Career,300,18.7,45.6,33.0,69.3,3.6,0.9,0.5,0.5,2.0,0.6,5.7
+Jae Crowder,Jae Crowder,PF,32,78.0,235.0,Marquette,9720900.0,phoenix-suns,6581,https://www.espn.com/nba/player/_/id/6581/jae-crowder,Career,735,25.3,41.7,34.6,77.7,4.3,1.6,0.3,1.0,2.1,0.9,9.6
+Cameron Johnson,Cameron Johnson,SF,26,80.0,210.0,North Carolina,4437000.0,phoenix-suns,3138196,https://www.espn.com/nba/player/_/id/3138196/cameron-johnson,Career,183,24.2,44.0,39.0,84.3,3.6,1.4,0.3,0.7,1.6,0.7,10.4
+Jock Landale,Jock Landale,C,26,83.0,255.0,Saint Mary's,925258.0,phoenix-suns,3146557,https://www.espn.com/nba/player/_/id/3146557/jock-landale,Career,54,10.9,49.5,32.6,82.9,2.6,0.8,0.3,0.2,1.0,0.6,4.9
+Damion Lee,Damion Lee,SG,29,77.0,210.0,Louisville,1910860.0,phoenix-suns,2595209,https://www.espn.com/nba/player/_/id/2595209/damion-lee,Career,216,21.0,43.4,35.7,86.8,3.5,1.4,0.1,0.7,1.6,0.7,8.2
+Gabriel Lundberg,Gabriel Lundberg,F,27,76.0,203.0,--,0.0,phoenix-suns,4981257,https://www.espn.com/nba/player/_/id/4981257/gabriel-lundberg,Career,4,11.0,26.3,37.5,0.0,1.8,2.8,0.0,0.8,1.8,0.8,3.3
+Josh Okogie,Josh Okogie,SF,23,76.0,213.0,Georgia Tech,4087904.0,phoenix-suns,4065663,https://www.espn.com/nba/player/_/id/4065663/josh-okogie,Career,244,20.6,40.3,27.5,75.8,2.9,1.1,0.4,1.0,2.0,0.9,6.4
+Chris Paul,Chris Paul,PG,37,72.0,175.0,Wake Forest,30000000.0,phoenix-suns,2779,https://www.espn.com/nba/player/_/id/2779/chris-paul,Career,1155,34.5,47.3,36.9,87.1,4.5,9.5,0.1,2.1,2.4,2.4,18.1
+Cameron Payne,Cameron Payne,PG,27,73.0,183.0,Murray State,6500000.0,phoenix-suns,3064230,https://www.espn.com/nba/player/_/id/3064230/cameron-payne,Career,279,17.9,42.1,36.2,83.0,2.2,3.2,0.2,0.7,1.7,1.2,7.6
+Elfrid Payton,Elfrid Payton,PG,28,75.0,195.0,Louisiana-Lafayette,1669178.0,phoenix-suns,2583639,https://www.espn.com/nba/player/_/id/2583639/elfrid-payton,Career,500,26.8,44.7,28.7,62.3,4.0,5.7,0.3,1.2,2.0,2.2,10.1
+Dario Saric,Dario Saric,PF,28,82.0,225.0,--,8510000.0,phoenix-suns,3032978,https://www.espn.com/nba/player/_/id/3032978/dario-saric,Career,356,25.2,44.1,35.7,83.8,5.9,2.0,0.2,0.6,2.1,1.6,11.7
+Landry Shamet,Landry Shamet,SG,25,76.0,190.0,Wichita State,3768342.0,phoenix-suns,3914044,https://www.espn.com/nba/player/_/id/3914044/landry-shamet,Career,262,23.3,41.0,39.0,83.5,1.8,1.6,0.1,0.4,1.8,0.7,9.0
+Ish Wainright,Ish Wainright,F,27,77.0,235.0,Baylor,5318.0,phoenix-suns,3059307,https://www.espn.com/nba/player/_/id/3059307/ish-wainright,Career,45,8.0,39.4,32.2,58.3,1.2,0.3,0.1,0.4,1.1,0.3,2.4
+Harrison Barnes,Harrison Barnes,SF,30,80.0,225.0,North Carolina,20284091.0,sacramento-kings,6578,https://www.espn.com/nba/player/_/id/6578/harrison-barnes,Career,747,31.8,45.3,37.9,80.4,5.1,1.8,0.2,0.7,1.6,1.2,14.1
+Terence Davis,Terence Davis,SG,25,76.0,201.0,Ole Miss,4000000.0,sacramento-kings,3919454,https://www.espn.com/nba/player/_/id/3919454/terence-davis,Career,163,17.3,43.7,36.6,83.5,3.0,1.5,0.2,0.7,1.8,1.1,8.5
+De'Aaron Fox,De'Aaron Fox,PG,24,75.0,185.0,Kentucky,28103550.0,sacramento-kings,4066259,https://www.espn.com/nba/player/_/id/4066259/deaaron-fox,Career,322,32.1,46.2,32.0,72.5,3.5,6.2,0.4,1.3,2.7,2.8,19.1
+Richaun Holmes,Richaun Holmes,C,28,82.0,235.0,Bowling Green,10384500.0,sacramento-kings,2993370,https://www.espn.com/nba/player/_/id/2993370/richaun-holmes,Career,376,21.1,60.5,25.6,74.6,5.8,1.1,1.1,0.6,2.7,0.9,9.6
+Kevin Huerter,Kevin Huerter,SG,23,79.0,198.0,Maryland,4253357.0,sacramento-kings,4066372,https://www.espn.com/nba/player/_/id/4066372/kevin-huerter,Career,274,29.6,43.1,37.9,78.8,3.5,3.2,0.4,0.9,2.4,1.3,11.4
+Josh Jackson,Josh Jackson,SG,25,80.0,207.0,Kansas,5005350.0,sacramento-kings,4066297,https://www.espn.com/nba/player/_/id/4066297/josh-jackson,Career,291,23.1,41.6,29.2,68.0,4.0,1.8,0.6,0.9,2.5,1.8,11.3
+Jeremy Lamb,Jeremy Lamb,SG,30,77.0,180.0,Connecticut,10500000.0,sacramento-kings,6603,https://www.espn.com/nba/player/_/id/6603/jeremy-lamb,Career,573,20.8,43.9,34.2,85.7,3.6,1.6,0.4,0.7,1.6,0.8,10.1
+Alex Len,Alex Len,C,29,84.0,250.0,Maryland,3732000.0,sacramento-kings,2596107,https://www.espn.com/nba/player/_/id/2596107/alex-len,Career,570,18.9,50.7,32.9,68.3,5.9,0.9,1.0,0.4,2.6,1.2,7.7
+Trey Lyles,Trey Lyles,PF,26,81.0,234.0,Kentucky,2500000.0,sacramento-kings,3136196,https://www.espn.com/nba/player/_/id/3136196/trey-lyles,Career,449,18.3,44.1,33.8,73.7,4.3,1.1,0.3,0.4,1.4,0.8,7.8
+Chimezie Metu,Chimezie Metu,PF,25,81.0,225.0,USC,1762796.0,sacramento-kings,3914283,https://www.espn.com/nba/player/_/id/3914283/chimezie-metu,Career,143,14.1,46.3,30.8,76.2,3.6,0.8,0.4,0.5,1.2,0.8,6.1
+Davion Mitchell,Davion Mitchell,PG,23,72.0,202.0,Baylor,4603320.0,sacramento-kings,4278053,https://www.espn.com/nba/player/_/id/4278053/davion-mitchell,Career,75,27.7,41.8,31.6,65.9,2.2,4.2,0.3,0.7,1.9,1.5,11.5
+Chima Moneke,Chima Moneke,F,--,78.0,223.0,UC Davis,0.0,sacramento-kings,3919347,https://www.espn.com/nba/player/_/id/3919347/chima-moneke,,,,,,,,,,,,,
+Malik Monk,Malik Monk,SG,24,75.0,200.0,Kentucky,1669178.0,sacramento-kings,4066262,https://www.espn.com/nba/player/_/id/4066262/malik-monk,Career,309,20.4,42.4,35.5,83.0,2.3,2.0,0.2,0.5,1.4,1.3,10.3
+Keegan Murray,Keegan Murray,F,21,80.0,215.0,Iowa,0.0,sacramento-kings,4594327,https://www.espn.com/nba/player/_/id/4594327/keegan-murray,,,,,,,,,,,,,
+KZ Okpala,KZ Okpala,F,23,80.0,215.0,Stanford,1782621.0,sacramento-kings,4278521,https://www.espn.com/nba/player/_/id/4278521/kz-okpala,Career,63,11.4,40.6,27.3,60.7,1.8,0.5,0.3,0.3,1.4,0.3,2.8
+Neemias Queta,Neemias Queta,C,23,84.0,245.0,Utah State,0.0,sacramento-kings,4397424,https://www.espn.com/nba/player/_/id/4397424/neemias-queta,Career,15,8.0,44.7,0.0,64.7,2.1,0.4,0.5,0.1,1.2,0.4,3.0
+Domantas Sabonis,Domantas Sabonis,PF,26,83.0,240.0,Gonzaga,19800000.0,sacramento-kings,3155942,https://www.espn.com/nba/player/_/id/3155942/domantas-sabonis,Career,415,28.5,53.4,31.9,72.8,9.2,3.6,0.4,0.7,3.0,2.3,14.4
+Bogdan Bogdanovic,Bogdan Bogdanovic,SG,29,78.0,225.0,--,18000000.0,atlanta-hawks,3037789,https://www.espn.com/nba/player/_/id/3037789/bogdan-bogdanovic,Career,316,28.6,43.9,38.4,82.2,3.4,3.4,0.2,1.0,2.1,1.5,14.2
+Chaundee Brown Jr.,Chaundee Brown Jr.,G,23,77.0,215.0,Michigan,0.0,atlanta-hawks,4278045,https://www.espn.com/nba/player/_/id/4278045/chaundee-brown-jr,Career,5,20.8,31.3,33.3,83.3,3.2,0.8,0.0,0.4,1.4,0.2,6.2
+Clint Capela,Clint Capela,C,28,82.0,256.0,--,18603448.0,atlanta-hawks,3102529,https://www.espn.com/nba/player/_/id/3102529/clint-capela,Career,471,26.8,62.4,0.0,52.7,10.7,1.0,1.5,0.7,2.4,1.1,12.4
+John Collins,John Collins,PF,24,81.0,226.0,Wake Forest,23000000.0,atlanta-hawks,3908845,https://www.espn.com/nba/player/_/id/3908845/john-collins,Career,293,29.0,55.9,37.6,77.9,8.3,1.6,1.0,0.6,3.1,1.5,16.5
+Sharife Cooper,Sharife Cooper,PG,21,73.0,176.0,Auburn,0.0,atlanta-hawks,4432173,https://www.espn.com/nba/player/_/id/4432173/sharife-cooper,Career,13,3.0,21.4,16.7,0.0,0.4,0.4,0.0,0.0,0.1,0.4,0.5
+Gorgui Dieng,Gorgui Dieng,C,32,82.0,248.0,Louisville,4000000.0,atlanta-hawks,2534781,https://www.espn.com/nba/player/_/id/2534781/gorgui-dieng,Career,597,20.5,50.0,36.7,79.1,5.7,1.3,0.9,0.8,2.1,1.1,7.5
+AJ Griffin,AJ Griffin,F,18,78.0,222.0,Duke,0.0,atlanta-hawks,4432585,https://www.espn.com/nba/player/_/id/4432585/aj-griffin,,,,,,,,,,,,,
+Maurice Harkless,Maurice Harkless,SF,29,79.0,220.0,St. John's,4347600.0,atlanta-hawks,6591,https://www.espn.com/nba/player/_/id/6591/maurice-harkless,Career,621,22.6,47.4,32.0,62.4,3.5,0.9,0.6,0.9,2.0,0.8,6.9
+Aaron Holiday,Aaron Holiday,G,25,72.0,185.0,UCLA,3980551.0,atlanta-hawks,3922230,https://www.espn.com/nba/player/_/id/3922230/aaron-holiday,Career,245,18.2,41.2,37.3,84.0,1.8,2.4,0.2,0.7,1.5,1.1,7.3
+Justin Holiday,Justin Holiday,SF,33,78.0,180.0,Washington,6006420.0,atlanta-hawks,2284101,https://www.espn.com/nba/player/_/id/2284101/justin-holiday,Career,576,24.6,39.8,36.5,82.0,3.0,1.5,0.4,1.0,1.7,0.9,8.7
+De'Andre Hunter,De'Andre Hunter,SF,24,80.0,221.0,Virginia,7775400.0,atlanta-hawks,4065732,https://www.espn.com/nba/player/_/id/4065732/deandre-hunter,Career,139,30.7,43.4,35.9,78.5,4.1,1.6,0.4,0.7,2.8,1.4,13.2
+Jalen Johnson,Jalen Johnson,SF,20,80.0,219.0,Duke,2659580.0,atlanta-hawks,4701230,https://www.espn.com/nba/player/_/id/4701230/jalen-johnson,Career,22,5.5,53.7,23.1,71.4,1.2,0.1,0.1,0.1,0.4,0.4,2.4
+Frank Kaminsky,Frank Kaminsky,PG,29,84.0,240.0,Wisconsin,1669178.0,atlanta-hawks,2579294,https://www.espn.com/nba/player/_/id/2579294/frank-kaminsky,Career,377,21.0,42.9,34.8,74.3,4.1,1.6,0.4,0.4,1.6,0.8,9.4
+Kevin Knox II,Kevin Knox II,F,22,79.0,215.0,Kentucky,5845979.0,atlanta-hawks,4278075,https://www.espn.com/nba/player/_/id/4278075/kevin-knox-ii,Career,212,18.9,36.9,34.0,70.5,2.9,0.8,0.3,0.4,1.6,0.9,7.7
+Timothe Luwawu-Cabarrot,Timothe Luwawu-Cabarrot,SG,27,79.0,215.0,--,1669178.0,atlanta-hawks,3893019,https://www.espn.com/nba/player/_/id/3893019/timothe-luwawu-cabarrot,Career,328,16.0,39.1,33.5,82.9,2.0,0.9,0.1,0.4,1.8,0.7,5.9
+Tyrese Martin,Tyrese Martin,F,23,78.0,215.0,Connecticut,0.0,atlanta-hawks,4397179,https://www.espn.com/nba/player/_/id/4397179/tyrese-martin,,,,,,,,,,,,,
+Skylar Mays,Skylar Mays,SG,24,76.0,205.0,LSU,0.0,atlanta-hawks,4066269,https://www.espn.com/nba/player/_/id/4066269/skylar-mays,Career,61,8.0,46.9,33.8,88.2,1.0,0.8,0.0,0.3,0.4,0.3,3.3
+Dejounte Murray,Dejounte Murray,SG,25,76.0,180.0,Washington,15428880.0,atlanta-hawks,3907497,https://www.espn.com/nba/player/_/id/3907497/dejounte-murray,Career,320,25.8,45.5,33.0,77.1,6.0,4.8,0.3,1.4,1.9,1.9,12.5
+Onyeka Okongwu,Onyeka Okongwu,PF,21,80.0,240.0,USC,6104280.0,atlanta-hawks,4431680,https://www.espn.com/nba/player/_/id/4431680/onyeka-okongwu,Career,98,16.3,67.2,0.0,69.5,4.6,0.7,0.9,0.6,2.5,0.7,6.3
+Lou Williams,Lou Williams,SG,35,74.0,175.0,--,5000000.0,atlanta-hawks,2799,https://www.espn.com/nba/player/_/id/2799/lou-williams,Career,1123,24.1,41.9,35.1,84.2,2.2,3.4,0.2,0.8,1.3,1.7,13.9
+Trae Young,Trae Young,PG,23,73.0,164.0,Oklahoma,8326471.0,atlanta-hawks,4277905,https://www.espn.com/nba/player/_/id/4277905/trae-young,Career,280,33.6,44.0,35.5,87.3,3.9,9.1,0.2,0.9,1.7,4.1,25.3
+LaMelo Ball,LaMelo Ball,PG,20,79.0,180.0,--,8231760.0,charlotte-hornets,4432816,https://www.espn.com/nba/player/_/id/4432816/lamelo-ball,Career,126,30.9,43.1,37.8,82.6,6.4,7.0,0.4,1.6,3.0,3.1,18.3
+James Bouknight,James Bouknight,SG,21,76.0,190.0,Connecticut,4154400.0,charlotte-hornets,4431712,https://www.espn.com/nba/player/_/id/4431712/james-bouknight,Career,31,9.8,34.8,34.7,87.1,1.7,0.8,0.0,0.2,0.9,0.5,4.6
+Miles Bridges,Miles Bridges,SF,24,79.0,225.0,Michigan State,5421493.0,charlotte-hornets,4066383,https://www.espn.com/nba/player/_/id/4066383/miles-bridges,Career,291,29.1,47.3,34.6,80.9,5.6,2.3,0.7,0.7,2.0,1.4,13.4
+Montrezl Harrell,Montrezl Harrell,C,28,79.0,240.0,Louisville,9720900.0,charlotte-hornets,2991055,https://www.espn.com/nba/player/_/id/2991055/montrezl-harrell,Career,458,21.5,62.0,11.7,66.2,5.3,1.4,0.8,0.6,2.1,1.1,12.9
+Gordon Hayward,Gordon Hayward,SF,32,79.0,225.0,Butler,29925000.0,charlotte-hornets,4249,https://www.espn.com/nba/player/_/id/4249/gordon-hayward,Career,734,31.1,45.3,37.1,82.6,4.5,3.5,0.4,1.0,1.7,2.0,15.6
+Kai Jones,Kai Jones,PF,21,82.0,221.0,Texas,2770560.0,charlotte-hornets,4431699,https://www.espn.com/nba/player/_/id/4431699/kai-jones,Career,21,3.0,64.3,50.0,37.5,0.5,0.2,0.1,0.0,0.4,0.3,1.0
+Arnoldas Kulboka,Arnoldas Kulboka,PF,24,82.0,209.0,--,0.0,charlotte-hornets,4230551,https://www.espn.com/nba/player/_/id/4230551/arnoldas-kulboka,Career,2,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0
+Scottie Lewis,Scottie Lewis,SG,22,77.0,185.0,Florida,0.0,charlotte-hornets,4432812,https://www.espn.com/nba/player/_/id/4432812/scottie-lewis,Career,2,3.5,0.0,0.0,50.0,0.0,0.5,0.0,0.5,0.0,0.0,0.5
+Cody Martin,Cody Martin,SF,26,78.0,205.0,Nevada,1782621.0,charlotte-hornets,3138161,https://www.espn.com/nba/player/_/id/3138161/cody-martin,Career,171,21.2,46.0,32.3,66.0,3.5,2.1,0.3,1.0,1.4,0.8,5.8
+Jalen McDaniels,Jalen McDaniels,PF,24,81.0,205.0,San Diego State,1782621.0,charlotte-hornets,4066731,https://www.espn.com/nba/player/_/id/4066731/jalen-mcdaniels,Career,118,17.7,47.5,35.9,73.2,3.4,1.1,0.4,0.5,1.9,0.8,6.6
+Bryce McGowens,Bryce McGowens,G,19,79.0,179.0,Nebraska,0.0,charlotte-hornets,4576086,https://www.espn.com/nba/player/_/id/4576086/bryce-mcgowens,,,,,,,,,,,,,
+Kelly Oubre Jr.,Kelly Oubre Jr.,SG,26,78.0,203.0,Kansas,12000000.0,charlotte-hornets,3133603,https://www.espn.com/nba/player/_/id/3133603/kelly-oubre-jr,Career,479,25.2,43.4,33.1,74.9,4.3,1.0,0.5,0.9,2.5,1.0,12.0
+Mason Plumlee,Mason Plumlee,C,32,83.0,254.0,Duke,9248333.0,charlotte-hornets,2488653,https://www.espn.com/nba/player/_/id/2488653/mason-plumlee,Career,661,22.3,58.4,4.9,55.7,6.6,2.4,0.9,0.8,2.8,1.5,8.3
+Nick Richards,Nick Richards,C,24,84.0,245.0,Kentucky,1517981.0,charlotte-hornets,4278076,https://www.espn.com/nba/player/_/id/4278076/nick-richards,Career,68,6.3,64.6,0.0,68.5,1.4,0.2,0.3,0.1,0.9,0.4,2.4
+Terry Rozier,Terry Rozier,SG,28,73.0,190.0,Louisville,17905263.0,charlotte-hornets,3074752,https://www.espn.com/nba/player/_/id/3074752/terry-rozier,Career,477,26.1,41.7,37.6,82.2,3.9,3.2,0.2,0.9,1.4,1.2,12.7
+Isaiah Thomas,Isaiah Thomas,G,33,69.0,185.0,Washington,191860.0,charlotte-hornets,6472,https://www.espn.com/nba/player/_/id/6472/isaiah-thomas,Career,550,28.3,43.4,36.2,87.2,2.4,4.8,0.1,0.9,2.1,2.3,17.7
+JT Thor,JT Thor,PF,19,81.0,203.0,Auburn,1250000.0,charlotte-hornets,4702233,https://www.espn.com/nba/player/_/id/4702233/jt-thor,Career,33,7.9,43.6,25.9,60.0,1.3,0.6,0.3,0.2,0.8,0.3,2.0
+P.J. Washington,P.J. Washington,PF,23,79.0,230.0,Kentucky,4215120.0,charlotte-hornets,4278078,https://www.espn.com/nba/player/_/id/4278078/pj-washington,Career,187,29.3,45.4,37.5,70.2,5.7,2.3,1.0,0.9,2.6,1.6,11.8
+Mark Williams,Mark Williams,C,20,84.0,242.0,Duke,0.0,charlotte-hornets,4701232,https://www.espn.com/nba/player/_/id/4701232/mark-williams,,,,,,,,,,,,,
+Bam Adebayo,Bam Adebayo,C,25,81.0,255.0,Kentucky,28103500.0,miami-heat,4066261,https://www.espn.com/nba/player/_/id/4066261/bam-adebayo,Career,343,28.2,55.8,14.0,74.1,8.3,3.5,0.9,1.0,2.4,2.1,13.5
+Jamaree Bouyea,Jamaree Bouyea,G,23,74.0,170.0,San Francisco,0.0,miami-heat,4280245,https://www.espn.com/nba/player/_/id/4280245/jamaree-bouyea,,,,,,,,,,,,,
+Jimmy Butler,Jimmy Butler,SF,32,79.0,230.0,Marquette,36016200.0,miami-heat,6430,https://www.espn.com/nba/player/_/id/6430/jimmy-butler,Career,690,33.1,46.0,32.1,84.1,5.3,4.1,0.5,1.6,1.4,1.6,17.7
+Jamal Cain,Jamal Cain,F,23,79.0,191.0,Oakland,0.0,miami-heat,4278572,https://www.espn.com/nba/player/_/id/4278572/jamal-cain,,,,,,,,,,,,,
+Darius Days,Darius Days,F,22,79.0,240.0,LSU,0.0,miami-heat,4396978,https://www.espn.com/nba/player/_/id/4396978/darius-days,,,,,,,,,,,,,
+Dewayne Dedmon,Dewayne Dedmon,C,32,84.0,245.0,USC,1669178.0,miami-heat,2580913,https://www.espn.com/nba/player/_/id/2580913/dewayne-dedmon,Career,477,17.8,52.7,33.8,73.5,5.9,0.7,0.8,0.5,2.5,1.0,6.4
+Marcus Garrett,Marcus Garrett,SG,23,77.0,205.0,Kansas,0.0,miami-heat,4277892,https://www.espn.com/nba/player/_/id/4277892/marcus-garrett,Career,12,10.7,23.8,25.0,40.0,1.9,0.6,0.3,0.4,1.3,0.2,1.1
+Udonis Haslem,Udonis Haslem,PF,42,80.0,235.0,Florida,1669178.0,miami-heat,2184,https://www.espn.com/nba/player/_/id/2184/udonis-haslem,Career,872,24.8,48.9,9.7,75.6,6.6,0.8,0.3,0.5,2.4,0.9,7.5
+Tyler Herro,Tyler Herro,PG,22,77.0,195.0,Kentucky,4004280.0,miami-heat,4395725,https://www.espn.com/nba/player/_/id/4395725/tyler-herro,Career,175,30.3,44.0,38.5,85.1,4.7,3.2,0.2,0.6,1.4,2.1,16.7
+Haywood Highsmith,Haywood Highsmith,F,25,79.0,220.0,Wheeling Jesuit,290967.0,miami-heat,4291678,https://www.espn.com/nba/player/_/id/4291678/haywood-highsmith,Career,24,8.5,35.7,30.3,28.6,1.3,0.3,0.1,0.1,0.6,0.2,2.2
+Nikola Jovic,Nikola Jovic,F,19,83.0,223.0,--,0.0,miami-heat,4997528,https://www.espn.com/nba/player/_/id/4997528/nikola-jovic,,,,,,,,,,,,,
+Kyle Lowry,Kyle Lowry,PG,36,72.0,196.0,Villanova,26894128.0,miami-heat,3012,https://www.espn.com/nba/player/_/id/3012/kyle-lowry,Career,1023,31.9,42.5,36.8,81.3,4.4,6.3,0.3,1.3,2.7,2.4,14.8
+Caleb Martin,Caleb Martin,SF,26,77.0,205.0,Nevada,1782621.0,miami-heat,3138160,https://www.espn.com/nba/player/_/id/3138160/caleb-martin,Career,131,19.1,45.5,36.3,72.5,3.1,1.2,0.4,0.8,1.5,0.8,7.1
+Markieff Morris,Markieff Morris,PF,32,81.0,245.0,Kansas,1669178.0,miami-heat,6461,https://www.espn.com/nba/player/_/id/6461/markieff-morris,Career,715,24.8,44.6,34.1,77.7,5.2,1.6,0.5,0.8,2.7,1.5,10.9
+Victor Oladipo,Victor Oladipo,SG,30,76.0,213.0,Indiana,1669178.0,miami-heat,2527963,https://www.espn.com/nba/player/_/id/2527963/victor-oladipo,Career,462,32.8,43.8,34.8,79.0,4.6,3.9,0.5,1.6,2.4,2.6,17.4
+Duncan Robinson,Duncan Robinson,SG,28,79.0,215.0,Michigan,15650000.0,miami-heat,3157465,https://www.espn.com/nba/player/_/id/3157465/duncan-robinson,Career,239,27.7,43.5,40.6,86.0,2.9,1.5,0.2,0.5,2.5,0.9,11.9
+Max Strus,Max Strus,SG,26,77.0,215.0,DePaul,1669178.0,miami-heat,4065778,https://www.espn.com/nba/player/_/id/4065778/max-strus,Career,109,19.3,44.6,39.1,75.6,2.2,1.1,0.2,0.4,1.5,0.6,8.8
+Gabe Vincent,Gabe Vincent,PG,26,75.0,200.0,UC Santa Barbara,1669178.0,miami-heat,3137259,https://www.espn.com/nba/player/_/id/3137259/gabe-vincent,Career,127,18.3,39.6,34.3,83.1,1.5,2.2,0.1,0.7,1.9,1.0,6.7
+Omer Yurtseven,Omer Yurtseven,C,24,83.0,255.0,Georgetown,1489065.0,miami-heat,3074213,https://www.espn.com/nba/player/_/id/3074213/omer-yurtseven,Career,56,12.6,52.6,9.1,62.3,5.3,0.9,0.4,0.3,1.5,0.7,5.3
+Cole Anthony,Cole Anthony,PG,22,75.0,185.0,North Carolina,3449400.0,orlando-magic,4432809,https://www.espn.com/nba/player/_/id/4432809/cole-anthony,Career,112,29.8,39.3,33.7,84.6,5.1,5.0,0.3,0.7,2.4,2.5,14.9
+Mo Bamba,Mo Bamba,C,24,84.0,231.0,Texas,7568743.0,orlando-magic,4277919,https://www.espn.com/nba/player/_/id/4277919/mo-bamba,Career,226,18.6,47.5,35.2,68.5,6.1,0.9,1.4,0.4,2.2,0.9,7.7
+Paolo Banchero,Paolo Banchero,F,19,82.0,250.0,Duke,0.0,orlando-magic,4432573,https://www.espn.com/nba/player/_/id/4432573/paolo-banchero,,,,,,,,,,,,,
+Bol Bol,Bol Bol,C,22,86.0,220.0,Oregon,2161152.0,orlando-magic,4397102,https://www.espn.com/nba/player/_/id/4397102/bol-bol,Career,53,6.2,47.8,37.8,66.7,1.2,0.3,0.3,0.1,0.5,0.5,2.7
+Ignas Brazdeikis,Ignas Brazdeikis,SF,23,78.0,221.0,Michigan,0.0,orlando-magic,4397205,https://www.espn.com/nba/player/_/id/4397205/ignas-brazdeikis,Career,64,13.1,41.6,31.5,68.6,1.9,0.9,0.1,0.2,1.1,0.5,5.0
+Devin Cannady,Devin Cannady,G,26,73.0,190.0,Princeton,100000.0,orlando-magic,3906977,https://www.espn.com/nba/player/_/id/3906977/devin-cannady,Career,13,16.8,36.1,39.6,78.6,0.8,0.8,0.3,0.8,1.4,0.5,6.5
+Wendell Carter Jr.,Wendell Carter Jr.,C,23,82.0,270.0,Duke,6920027.0,orlando-magic,4277847,https://www.espn.com/nba/player/_/id/4277847/wendell-carter-jr,Career,203,27.6,51.3,29.8,73.1,8.9,2.0,0.9,0.6,3.1,1.6,12.2
+Markelle Fultz,Markelle Fultz,PG,24,76.0,209.0,Washington,16500000.0,orlando-magic,4066636,https://www.espn.com/nba/player/_/id/4066636/markelle-fultz,Career,131,24.8,45.0,26.2,70.8,3.2,4.8,0.2,1.1,2.0,1.9,10.9
+R.J. Hampton,R.J. Hampton,PG,21,78.0,190.0,--,2303040.0,orlando-magic,4590530,https://www.espn.com/nba/player/_/id/4590530/rj-hampton,Career,115,19.9,40.4,33.7,65.3,3.2,2.1,0.2,0.5,1.4,1.2,7.3
+Gary Harris,Gary Harris,SG,27,76.0,210.0,Michigan State,20482143.0,orlando-magic,2999547,https://www.espn.com/nba/player/_/id/2999547/gary-harris,Career,468,28.8,44.8,36.3,81.2,2.5,2.1,0.2,1.2,1.8,1.2,11.8
+Kevon Harris,Kevon Harris,G,25,78.0,216.0,Stephen F. Austin,0.0,orlando-magic,4067858,https://www.espn.com/nba/player/_/id/4067858/kevon-harris,,,,,,,,,,,,,
+Caleb Houstan,Caleb Houstan,F,19,80.0,205.0,Michigan,0.0,orlando-magic,4433623,https://www.espn.com/nba/player/_/id/4433623/caleb-houstan,,,,,,,,,,,,,
+Jonathan Isaac,Jonathan Isaac,PF,24,82.0,230.0,Florida State,17400000.0,orlando-magic,4065654,https://www.espn.com/nba/player/_/id/4065654/jonathan-isaac,Career,136,25.8,43.5,33.0,79.7,5.4,1.1,1.5,1.1,2.0,1.1,9.3
+Chuma Okeke,Chuma Okeke,PF,23,78.0,229.0,Auburn,3277080.0,orlando-magic,4278052,https://www.espn.com/nba/player/_/id/4278052/chuma-okeke,Career,115,25.1,39.0,32.6,81.0,4.6,1.9,0.6,1.3,1.2,0.8,8.3
+Terrence Ross,Terrence Ross,SG,31,78.0,206.0,Washington,12500000.0,orlando-magic,6619,https://www.espn.com/nba/player/_/id/6619/terrence-ross,Career,670,24.8,41.7,36.1,83.9,2.8,1.3,0.3,0.8,1.7,1.0,11.2
+Admiral Schofield,Admiral Schofield,SF,25,77.0,241.0,Tennessee,0.0,orlando-magic,3918423,https://www.espn.com/nba/player/_/id/3918423/admiral-schofield,Career,71,11.8,40.3,32.1,73.3,1.9,0.6,0.1,0.2,1.5,0.4,3.5
+Jalen Suggs,Jalen Suggs,SG,21,77.0,205.0,Gonzaga,6593040.0,orlando-magic,4432165,https://www.espn.com/nba/player/_/id/4432165/jalen-suggs,Career,48,27.2,36.1,21.4,77.3,3.6,4.4,0.4,1.2,3.0,3.0,11.8
+Franz Wagner,Franz Wagner,SF,20,82.0,220.0,Michigan,5007840.0,orlando-magic,4566434,https://www.espn.com/nba/player/_/id/4566434/franz-wagner,Career,79,30.7,46.8,35.4,86.3,4.5,2.9,0.4,0.9,2.1,1.5,15.2
+Moritz Wagner,Moritz Wagner,C,25,83.0,245.0,Michigan,1729217.0,orlando-magic,3150844,https://www.espn.com/nba/player/_/id/3150844/moritz-wagner,Career,196,15.1,48.7,32.1,81.3,3.5,1.1,0.3,0.4,2.2,1.0,7.5
+Deni Avdija,Deni Avdija,SF,21,81.0,210.0,--,4692840.0,washington-wizards,4683021,https://www.espn.com/nba/player/_/id/4683021/deni-avdija,Career,136,23.8,42.6,31.6,72.9,5.1,1.7,0.4,0.7,2.4,0.9,7.6
+Will Barton,Will Barton,SF,31,77.0,181.0,Memphis,15625000.0,washington-wizards,6579,https://www.espn.com/nba/player/_/id/6579/will-barton,Career,623,25.9,43.3,35.4,78.7,4.3,2.7,0.4,0.8,1.6,1.4,11.6
+Bradley Beal,Bradley Beal,SG,29,76.0,207.0,Florida,33724200.0,washington-wizards,6580,https://www.espn.com/nba/player/_/id/6580/bradley-beal,Career,645,34.8,45.6,37.2,82.1,4.1,4.2,0.4,1.1,2.2,2.4,22.1
+Vernon Carey Jr.,Vernon Carey Jr.,C,21,81.0,270.0,Duke,1517981.0,washington-wizards,4431669,https://www.espn.com/nba/player/_/id/4431669/vernon-carey-jr,Career,26,6.1,51.0,14.3,62.5,1.5,0.1,0.2,0.1,0.7,0.3,2.5
+Johnny Davis,Johnny Davis,G,21,77.0,196.0,Wisconsin,0.0,washington-wizards,4432356,https://www.espn.com/nba/player/_/id/4432356/johnny-davis,,,,,,,,,,,,,
+Daniel Gafford,Daniel Gafford,C,23,81.0,234.0,Arkansas,1782621.0,washington-wizards,4278049,https://www.espn.com/nba/player/_/id/4278049/daniel-gafford,Career,169,16.8,69.2,0.0,65.7,4.4,0.7,1.4,0.4,2.2,0.8,7.6
+Taj Gibson,Taj Gibson,F,37,81.0,232.0,USC,4910000.0,washington-wizards,3986,https://www.espn.com/nba/player/_/id/3986/taj-gibson,Career,896,24.5,51.8,25.7,71.3,6.1,1.0,1.0,0.6,2.5,1.1,9.0
+Anthony Gill,Anthony Gill,PF,29,79.0,230.0,Virginia,1517981.0,washington-wizards,2581184,https://www.espn.com/nba/player/_/id/2581184/anthony-gill,Career,70,9.7,54.4,42.0,80.9,1.9,0.5,0.2,0.2,1.2,0.4,3.7
+Rui Hachimura,Rui Hachimura,PF,24,80.0,230.0,Gonzaga,4916160.0,washington-wizards,4066648,https://www.espn.com/nba/player/_/id/4066648/rui-hachimura,Career,147,28.5,47.7,36.0,77.9,5.2,1.5,0.2,0.7,1.9,1.0,13.0
+Corey Kispert,Corey Kispert,SF,23,78.0,224.0,Gonzaga,3383640.0,washington-wizards,4280151,https://www.espn.com/nba/player/_/id/4280151/corey-kispert,Career,77,23.4,45.5,35.0,87.1,2.7,1.1,0.3,0.5,1.2,0.6,8.2
+Kyle Kuzma,Kyle Kuzma,SF,27,81.0,221.0,Utah,13000000.0,washington-wizards,3134907,https://www.espn.com/nba/player/_/id/3134907/kyle-kuzma,Career,342,30.4,44.9,33.9,72.3,6.2,2.2,0.5,0.6,2.1,1.9,15.6
+Monte Morris,Monte Morris,PG,27,74.0,183.0,Iowa State,8449074.0,washington-wizards,3059310,https://www.espn.com/nba/player/_/id/3059310/monte-morris,Career,280,25.2,48.1,39.4,83.0,2.3,3.7,0.2,0.8,1.1,0.8,10.5
+Yannick Nzosa,Yannick Nzosa,C,20,83.0,215.0,--,0.0,washington-wizards,4997531,https://www.espn.com/nba/player/_/id/4997531/yannick-nzosa,,,,,,,,,,,,,
+Kristaps Porzingis,Kristaps Porzingis,C,26,87.0,240.0,--,31650600.0,washington-wizards,3102531,https://www.espn.com/nba/player/_/id/3102531/kristaps-porzingis,Career,337,30.8,44.4,35.3,82.0,7.9,1.6,1.9,0.7,3.0,1.6,18.9
+Tomas Satoransky,Tomas Satoransky,SG,30,79.0,210.0,--,10000000.0,washington-wizards,6621,https://www.espn.com/nba/player/_/id/6621/tomas-satoransky,Career,388,22.2,46.8,35.4,82.0,2.9,4.1,0.2,0.8,1.7,1.3,6.9
+Jordan Schakel,Jordan Schakel,F,24,78.0,200.0,San Diego State,0.0,washington-wizards,4278707,https://www.espn.com/nba/player/_/id/4278707/jordan-schakel,Career,4,7.5,9.1,16.7,100.0,2.0,0.0,0.0,0.3,0.0,0.3,1.3
+Isaiah Todd,Isaiah Todd,PF,20,81.0,219.0,--,1500000.0,washington-wizards,4715198,https://www.espn.com/nba/player/_/id/4715198/isaiah-todd,Career,12,6.2,26.9,25.0,33.3,1.0,0.3,0.2,0.3,0.3,0.3,1.7
+Cassius Winston,Cassius Winston,PG,24,73.0,185.0,Michigan State,0.0,washington-wizards,4066382,https://www.espn.com/nba/player/_/id/4066382/cassius-winston,Career,29,4.7,40.9,43.5,90.0,0.3,0.7,0.0,0.1,0.6,0.3,1.9
+Delon Wright,Delon Wright,SG,30,77.0,185.0,Utah,8526316.0,washington-wizards,3064447,https://www.espn.com/nba/player/_/id/3064447/delon-wright,Career,411,20.9,45.3,35.4,79.9,3.2,3.0,0.4,1.2,1.1,1.0,7.2
+Davis Bertans,Davis Bertans,SF,29,82.0,225.0,--,16000000.0,dallas-mavericks,6426,https://www.espn.com/nba/player/_/id/6426/davis-bertans,Career,387,19.1,42.4,39.8,86.0,2.7,1.0,0.4,0.4,1.7,0.6,8.2
+Reggie Bullock,Reggie Bullock,SF,31,78.0,205.0,North Carolina,9536000.0,dallas-mavericks,2528779,https://www.espn.com/nba/player/_/id/2528779/reggie-bullock,Career,434,22.5,42.7,38.5,84.2,2.5,1.2,0.1,0.6,1.4,0.6,7.8
+Spencer Dinwiddie,Spencer Dinwiddie,PG,29,78.0,215.0,Colorado,17142857.0,dallas-mavericks,2580782,https://www.espn.com/nba/player/_/id/2580782/spencer-dinwiddie,Career,387,26.4,41.1,32.2,79.1,3.0,5.0,0.3,0.7,2.3,1.7,13.0
+Luka Doncic,Luka Doncic,PG,23,79.0,230.0,--,10174391.0,dallas-mavericks,3945274,https://www.espn.com/nba/player/_/id/3945274/luka-doncic,Career,264,33.8,45.7,33.7,73.7,8.5,8.0,0.4,1.1,2.2,4.1,26.4
+Tyler Dorsey,Tyler Dorsey,G,26,76.0,195.0,Oregon,0.0,dallas-mavericks,3915560,https://www.espn.com/nba/player/_/id/3915560/tyler-dorsey,Career,104,16.1,38.9,35.0,66.9,2.3,1.3,0.1,0.3,1.1,0.6,6.7
+Dorian Finney-Smith,Dorian Finney-Smith,PF,29,79.0,220.0,Florida,4000000.0,dallas-mavericks,2578185,https://www.espn.com/nba/player/_/id/2578185/dorian-finney-smith,Career,394,27.3,44.6,36.1,71.8,4.5,1.4,0.4,0.8,2.2,0.9,8.2
+Josh Green,Josh Green,SG,21,77.0,200.0,Arizona,2957520.0,dallas-mavericks,4432811,https://www.espn.com/nba/player/_/id/4432811/josh-green,Career,106,14.0,49.3,31.1,64.7,2.3,1.0,0.2,0.6,1.4,0.6,4.0
+Tim Hardaway Jr.,Tim Hardaway Jr.,SF,30,77.0,205.0,Michigan,21308816.0,dallas-mavericks,2528210,https://www.espn.com/nba/player/_/id/2528210/tim-hardaway-jr,Career,586,27.0,42.2,35.8,81.2,2.8,1.9,0.1,0.6,1.7,1.1,13.9
+Jaden Hardy,Jaden Hardy,G,20,76.0,198.0,--,0.0,dallas-mavericks,4868423,https://www.espn.com/nba/player/_/id/4868423/jaden-hardy,,,,,,,,,,,,,
+Maxi Kleber,Maxi Kleber,PF,30,82.0,240.0,--,8975000.0,dallas-mavericks,2960236,https://www.espn.com/nba/player/_/id/2960236/maxi-kleber,Career,326,22.7,44.6,35.9,79.6,4.8,1.1,0.9,0.4,2.1,0.7,7.1
+Brandon Knight,Brandon Knight,PG,30,74.0,182.0,Kentucky,0.0,dallas-mavericks,6448,https://www.espn.com/nba/player/_/id/6448/brandon-knight,Career,451,29.3,41.1,35.2,80.7,3.1,3.9,0.2,0.9,2.0,2.4,14.0
+JaVale McGee,JaVale McGee,C,34,84.0,270.0,Nevada,5000000.0,dallas-mavericks,3452,https://www.espn.com/nba/player/_/id/3452/javale-mcgee,Career,821,17.0,57.6,18.2,60.5,5.3,0.4,1.5,0.4,2.2,1.0,8.0
+Frank Ntilikina,Frank Ntilikina,PG,24,76.0,200.0,--,1669178.0,dallas-mavericks,4230547,https://www.espn.com/nba/player/_/id/4230547/frank-ntilikina,Career,269,17.9,37.1,33.1,77.5,1.8,2.3,0.2,0.7,2.0,1.1,5.2
+Theo Pinson,Theo Pinson,G,26,77.0,212.0,North Carolina,0.0,dallas-mavericks,3138154,https://www.espn.com/nba/player/_/id/3138154/theo-pinson,Career,87,8.7,30.8,22.6,91.7,1.3,1.1,0.1,0.3,0.8,0.7,2.9
+Dwight Powell,Dwight Powell,C,31,82.0,240.0,Stanford,11080125.0,dallas-mavericks,2531367,https://www.espn.com/nba/player/_/id/2531367/dwight-powell,Career,511,19.0,58.5,29.6,75.1,4.6,1.0,0.5,0.6,2.2,0.7,7.7
+Christian Wood,Christian Wood,C,26,81.0,214.0,UNLV,13666667.0,dallas-mavericks,3058254,https://www.espn.com/nba/player/_/id/3058254/christian-wood,Career,222,23.6,51.9,38.0,66.8,7.3,1.3,0.9,0.6,1.8,1.4,14.2
+Moses Wright,Moses Wright,F,23,80.0,226.0,Georgia Tech,0.0,dallas-mavericks,4277871,https://www.espn.com/nba/player/_/id/4277871/moses-wright,Career,4,3.5,25.0,0.0,100.0,0.8,0.5,0.3,0.0,0.0,0.0,1.3
+Sterling Brown,Sterling Brown,SF,27,77.0,219.0,SMU,3000000.0,houston-rockets,3057187,https://www.espn.com/nba/player/_/id/3057187/sterling-brown,Career,264,16.8,42.0,36.4,79.6,3.3,1.0,0.2,0.5,1.4,0.7,5.4
+Trey Burke,Trey Burke,PG,29,72.0,185.0,Michigan,3150000.0,houston-rockets,2579260,https://www.espn.com/nba/player/_/id/2579260/trey-burke,Career,498,20.9,41.0,34.5,81.0,1.8,3.1,0.1,0.6,1.3,1.1,9.6
+Marquese Chriss,Marquese Chriss,SF,25,81.0,240.0,Washington,958529.0,houston-rockets,3907487,https://www.espn.com/nba/player/_/id/3907487/marquese-chriss,Career,292,18.3,45.6,29.0,66.7,4.7,1.0,0.8,0.6,2.5,1.2,7.6
+Josh Christopher,Josh Christopher,SG,20,75.0,215.0,Arizona State,2259240.0,houston-rockets,4432168,https://www.espn.com/nba/player/_/id/4432168/josh-christopher,Career,74,18.0,44.8,29.6,73.5,2.5,2.0,0.2,0.9,1.3,1.5,7.9
+Tari Eason,Tari Eason,F,21,80.0,216.0,LSU,0.0,houston-rockets,4433192,https://www.espn.com/nba/player/_/id/4433192/tari-eason,,,,,,,,,,,,,
+Bruno Fernando,Bruno Fernando,F,23,81.0,240.0,Maryland,1782621.0,houston-rockets,4277952,https://www.espn.com/nba/player/_/id/4277952/bruno-fernando,Career,119,9.2,52.7,14.6,60.8,2.8,0.6,0.3,0.2,1.3,0.6,3.2
+Usman Garuba,Usman Garuba,PF,20,80.0,229.0,--,2353320.0,houston-rockets,4871143,https://www.espn.com/nba/player/_/id/4871143/usman-garuba,Career,24,10.0,43.2,25.0,71.4,3.5,0.7,0.5,0.4,1.2,0.3,2.0
+Eric Gordon,Eric Gordon,SG,33,75.0,215.0,Indiana,18218818.0,houston-rockets,3431,https://www.espn.com/nba/player/_/id/3431/eric-gordon,Career,749,32.4,42.8,37.1,81.0,2.4,2.8,0.3,0.9,1.9,2.0,16.4
+Jalen Green,Jalen Green,SG,20,76.0,186.0,--,8992200.0,houston-rockets,4437244,https://www.espn.com/nba/player/_/id/4437244/jalen-green,Career,67,31.9,42.6,34.3,79.7,3.4,2.6,0.3,0.7,1.5,2.0,17.3
+Anthony Lamb,Anthony Lamb,F,24,78.0,227.0,Vermont,0.0,houston-rockets,4066790,https://www.espn.com/nba/player/_/id/4066790/anthony-lamb,Career,26,16.3,38.3,31.5,85.7,2.7,1.0,0.2,0.2,1.3,0.7,5.1
+Boban Marjanovic,Boban Marjanovic,C,33,87.0,290.0,--,3500000.0,houston-rockets,4376,https://www.espn.com/nba/player/_/id/4376/boban-marjanovic,Career,286,9.2,57.4,25.6,76.6,3.8,0.5,0.3,0.2,1.2,0.7,5.9
+Kenyon Martin Jr.,Kenyon Martin Jr.,F,21,77.0,215.0,--,1517981.0,houston-rockets,4431828,https://www.espn.com/nba/player/_/id/4431828/kenyon-martin-jr,Career,124,22.0,52.4,36.0,66.7,4.3,1.2,0.7,0.5,1.6,0.8,9.0
+Garrison Mathews,Garrison Mathews,SG,25,77.0,215.0,Lipscomb,2000000.0,houston-rockets,3913180,https://www.espn.com/nba/player/_/id/3913180/garrison-mathews,Career,147,20.3,40.5,37.1,83.5,2.0,0.7,0.2,0.6,2.1,0.4,7.5
+Daishen Nix,Daishen Nix,SG,20,76.0,226.0,--,612000.0,houston-rockets,4432176,https://www.espn.com/nba/player/_/id/4432176/daishen-nix,Career,24,10.9,40.3,26.9,53.3,1.4,1.7,0.0,0.6,0.9,1.1,3.2
+David Nwaba,David Nwaba,SF,29,77.0,219.0,Cal Poly,4650000.0,houston-rockets,3062744,https://www.espn.com/nba/player/_/id/3062744/david-nwaba,Career,237,19.3,49.0,32.0,67.3,3.7,1.0,0.4,0.7,1.9,0.7,6.8
+Kevin Porter Jr.,Kevin Porter Jr.,SG,22,76.0,203.0,USC,1782621.0,houston-rockets,4397140,https://www.espn.com/nba/player/_/id/4397140/kevin-porter-jr,Career,137,28.5,42.4,35.2,68.6,3.9,4.7,0.3,1.0,2.6,2.7,13.7
+Dennis Schroder,Dennis Schroder,PG,28,73.0,172.0,--,5890000.0,houston-rockets,3032979,https://www.espn.com/nba/player/_/id/3032979/dennis-schroder,Career,621,26.5,43.6,33.8,83.3,2.9,4.7,0.1,0.8,2.0,2.4,14.2
+Alperen Sengun,Alperen Sengun,C,20,82.0,243.0,--,3214680.0,houston-rockets,4871144,https://www.espn.com/nba/player/_/id/4871144/alperen-sengun,Career,72,20.7,47.4,24.8,71.1,5.5,2.6,0.9,0.8,3.0,2.0,9.6
+Jabari Smith Jr.,Jabari Smith Jr.,F,19,82.0,220.0,Auburn,0.0,houston-rockets,4432639,https://www.espn.com/nba/player/_/id/4432639/jabari-smith-jr,,,,,,,,,,,,,
+Jae'Sean Tate,Jae'Sean Tate,SF,26,76.0,230.0,Ohio State,1517981.0,houston-rockets,3136777,https://www.espn.com/nba/player/_/id/3136777/jaesean-tate,Career,148,27.7,50.1,31.0,70.1,5.4,2.7,0.5,1.1,3.4,1.6,11.6
+TyTy Washington Jr.,TyTy Washington Jr.,G,20,75.0,197.0,Kentucky,0.0,houston-rockets,4683749,https://www.espn.com/nba/player/_/id/4683749/tyty-washington-jr,,,,,,,,,,,,,
+Steven Adams,Steven Adams,C,29,83.0,265.0,Pittsburgh,17073171.0,memphis-grizzlies,2991235,https://www.espn.com/nba/player/_/id/2991235/steven-adams,Career,664,26.8,58.7,7.1,54.7,8.0,1.5,0.9,0.9,2.5,1.4,9.3
+Santi Aldama,Santi Aldama,PF,21,83.0,215.0,"$1,994,520",,memphis-grizzlies,4593125,https://www.espn.com/nba/player/_/id/4593125/santi-aldama,Career,32,11.3,40.2,12.5,62.5,2.7,0.7,0.3,0.2,1.1,0.5,4.1
+Desmond Bane,Desmond Bane,SG,24,77.0,215.0,TCU,2033160.0,memphis-grizzlies,4066320,https://www.espn.com/nba/player/_/id/4066320/desmond-bane,Career,144,26.3,46.4,43.5,88.2,3.8,2.3,0.3,0.9,2.2,1.2,14.0
+Dillon Brooks,Dillon Brooks,SF,26,79.0,225.0,Oregon,12200000.0,memphis-grizzlies,3155526,https://www.espn.com/nba/player/_/id/3155526/dillon-brooks,Career,272,28.2,42.1,34.8,79.9,3.0,2.0,0.3,1.0,3.3,1.6,14.5
+Kennedy Chandler,Kennedy Chandler,G,19,72.0,171.0,Tennessee,0.0,memphis-grizzlies,4432646,https://www.espn.com/nba/player/_/id/4432646/kennedy-chandler,,,,,,,,,,,,,
+Brandon Clarke,Brandon Clarke,PF,25,80.0,215.0,Gonzaga,2726880.0,memphis-grizzlies,3906665,https://www.espn.com/nba/player/_/id/3906665/brandon-clarke,Career,181,21.9,59.1,29.4,69.9,5.6,1.4,0.9,0.7,1.7,0.7,10.9
+Jarrett Culver,Jarrett Culver,G,23,78.0,195.0,Texas Tech,6395160.0,memphis-grizzlies,4277928,https://www.espn.com/nba/player/_/id/4277928/jarrett-culver,Career,134,17.5,40.1,28.3,49.7,2.7,1.2,0.4,0.7,1.7,1.0,6.6
+Danny Green,Danny Green,SF,35,78.0,215.0,North Carolina,10000000.0,memphis-grizzlies,3988,https://www.espn.com/nba/player/_/id/3988/danny-green,Career,819,25.3,42.1,39.9,80.4,3.4,1.6,0.8,1.0,1.8,1.0,8.7
+Jaren Jackson Jr.,Jaren Jackson Jr.,PF,22,83.0,242.0,Michigan State,9180560.0,memphis-grizzlies,4277961,https://www.espn.com/nba/player/_/id/4277961/jaren-jackson-jr,Career,204,27.1,45.3,35.1,79.1,5.1,1.2,1.8,0.9,3.8,1.7,15.8
+Tyus Jones,Tyus Jones,PG,26,72.0,196.0,Duke,8376286.0,memphis-grizzlies,3135046,https://www.espn.com/nba/player/_/id/3135046/tyus-jones,Career,455,18.4,43.5,35.2,81.8,1.8,3.7,0.1,1.0,0.8,0.7,6.2
+John Konchar,John Konchar,SG,26,77.0,210.0,--,2200000.0,memphis-grizzlies,3134932,https://www.espn.com/nba/player/_/id/3134932/john-konchar,Career,134,15.3,52.2,40.6,65.4,3.8,1.3,0.3,0.6,1.0,0.4,4.4
+Jake LaRavia,Jake LaRavia,F,20,80.0,235.0,Wake Forest,0.0,memphis-grizzlies,4592691,https://www.espn.com/nba/player/_/id/4592691/jake-laravia,,,,,,,,,,,,,
+Ja Morant,Ja Morant,PG,22,75.0,174.0,Murray State,9603360.0,memphis-grizzlies,4279888,https://www.espn.com/nba/player/_/id/4279888/ja-morant,Career,187,32.2,47.4,32.7,75.4,4.5,7.1,0.3,1.0,1.5,3.3,21.2
+Yves Pons,Yves Pons,SG,23,77.0,206.0,Tennessee,0.0,memphis-grizzlies,4278116,https://www.espn.com/nba/player/_/id/4278116/yves-pons,Career,12,5.9,31.3,33.3,0.0,1.0,0.1,0.3,0.1,0.5,0.1,1.1
+David Roddy,David Roddy,G,21,77.0,252.0,Colorado State,0.0,memphis-grizzlies,4593041,https://www.espn.com/nba/player/_/id/4593041/david-roddy,,,,,,,,,,,,,
+Killian Tillie,Killian Tillie,SF,24,81.0,220.0,Gonzaga,1901625.0,memphis-grizzlies,4066651,https://www.espn.com/nba/player/_/id/4066651/killian-tillie,Career,54,11.9,33.7,31.1,73.7,1.6,0.6,0.4,0.5,1.4,0.3,3.2
+Xavier Tillman,Xavier Tillman,C,23,80.0,245.0,Michigan State,1517981.0,memphis-grizzlies,4277964,https://www.espn.com/nba/player/_/id/4277964/xavier-tillman,Career,112,15.9,51.5,28.1,64.5,3.7,1.2,0.4,0.8,1.6,0.7,5.7
+Ziaire Williams,Ziaire Williams,SG,20,81.0,185.0,Stanford,4373040.0,memphis-grizzlies,4433137,https://www.espn.com/nba/player/_/id/4433137/ziaire-williams,Career,62,21.7,45.0,31.4,78.2,2.1,1.0,0.2,0.6,1.8,0.7,8.1
+Vince Williams Jr.,Vince Williams Jr.,F,21,78.0,205.0,Virginia Commonwealth,0.0,memphis-grizzlies,4397227,https://www.espn.com/nba/player/_/id/4397227/vince-williams-jr,,,,,,,,,,,,,
+Jose Alvarado,Jose Alvarado,PG,24,72.0,179.0,Georgia Tech,150000.0,new-orleans-pelicans,4277869,https://www.espn.com/nba/player/_/id/4277869/jose-alvarado,Career,54,15.4,44.6,29.1,67.9,1.9,2.8,0.1,1.3,1.4,0.7,6.1
+Gary Clark,Gary Clark,F,27,78.0,225.0,Cincinnati,0.0,new-orleans-pelicans,3132042,https://www.espn.com/nba/player/_/id/3132042/gary-clark,Career,170,13.2,35.1,32.6,83.8,2.5,0.5,0.4,0.3,0.9,0.3,3.1
+Dyson Daniels,Dyson Daniels,G,19,78.0,199.0,--,0.0,new-orleans-pelicans,4869342,https://www.espn.com/nba/player/_/id/4869342/dyson-daniels,,,,,,,,,,,,,
+Devonte' Graham,Devonte' Graham,PG,27,73.0,195.0,Kansas,11000000.0,new-orleans-pelicans,3133601,https://www.espn.com/nba/player/_/id/3133601/devonte-graham,Career,240,28.0,37.2,35.7,82.7,2.5,5.0,0.1,0.9,1.4,1.7,12.8
+Jared Harper,Jared Harper,G,24,72.0,175.0,Auburn,0.0,new-orleans-pelicans,4066248,https://www.espn.com/nba/player/_/id/4066248/jared-harper,Career,16,4.2,44.1,33.3,87.5,0.3,0.9,0.1,0.3,0.4,0.3,2.6
+Jaxson Hayes,Jaxson Hayes,C,22,83.0,220.0,Texas,5348280.0,new-orleans-pelicans,4397077,https://www.espn.com/nba/player/_/id/4397077/jaxson-hayes,Career,194,17.7,63.4,36.0,72.3,4.3,0.7,0.8,0.4,2.1,0.8,8.1
+Willy Hernangomez,Willy Hernangomez,C,28,83.0,250.0,--,2327220.0,new-orleans-pelicans,2999409,https://www.espn.com/nba/player/_/id/2999409/willy-hernangomez,Career,306,15.3,53.4,30.9,70.2,5.9,1.1,0.4,0.4,1.7,1.0,7.4
+Brandon Ingram,Brandon Ingram,SF,24,80.0,190.0,Duke,29467800.0,new-orleans-pelicans,3913176,https://www.espn.com/nba/player/_/id/3913176/brandon-ingram,Career,368,32.8,46.1,36.0,76.9,5.2,3.8,0.6,0.7,2.4,2.4,18.5
+Herbert Jones,Herbert Jones,SF,23,79.0,206.0,Alabama,1700000.0,new-orleans-pelicans,4277813,https://www.espn.com/nba/player/_/id/4277813/herbert-jones,Career,78,29.9,47.6,33.7,84.0,3.8,2.1,0.8,1.7,3.1,1.3,9.5
+Kira Lewis Jr.,Kira Lewis Jr.,PG,21,73.0,170.0,Alabama,3822240.0,new-orleans-pelicans,4395698,https://www.espn.com/nba/player/_/id/4395698/kira-lewis-jr,Career,78,16.0,39.1,29.8,84.1,1.4,2.2,0.1,0.6,1.3,0.8,6.2
+E.J. Liddell,E.J. Liddell,F,21,79.0,240.0,Ohio State,0.0,new-orleans-pelicans,4432821,https://www.espn.com/nba/player/_/id/4432821/ej-liddell,,,,,,,,,,,,,
+Naji Marshall,Naji Marshall,SF,24,79.0,220.0,Xavier,1517981.0,new-orleans-pelicans,4278594,https://www.espn.com/nba/player/_/id/4278594/naji-marshall,Career,87,16.5,40.0,26.6,75.6,3.3,1.7,0.2,0.7,1.5,1.0,6.4
+Karlo Matkovic,Karlo Matkovic,F,21,82.0,231.0,--,0.0,new-orleans-pelicans,4997538,https://www.espn.com/nba/player/_/id/4997538/karlo-matkovic,,,,,,,,,,,,,
+CJ McCollum,CJ McCollum,SG,30,75.0,190.0,Lehigh,30864198.0,new-orleans-pelicans,2490149,https://www.espn.com/nba/player/_/id/2490149/cj-mccollum,Career,590,31.6,45.5,39.6,81.0,3.5,3.5,0.4,0.9,2.1,1.7,19.2
+Trey Murphy III,Trey Murphy III,SG,22,80.0,206.0,Virginia,3053760.0,new-orleans-pelicans,4397688,https://www.espn.com/nba/player/_/id/4397688/trey-murphy-iii,Career,62,13.9,39.3,38.2,88.2,2.4,0.6,0.1,0.4,1.0,0.3,5.4
+Larry Nance Jr.,Larry Nance Jr.,PF,29,79.0,245.0,Wyoming,10690909.0,new-orleans-pelicans,2580365,https://www.espn.com/nba/player/_/id/2580365/larry-nance-jr,Career,396,24.1,52.9,33.3,68.9,6.5,1.9,0.5,1.2,2.2,1.0,8.1
+Tony Snell,Tony Snell,SF,30,78.0,213.0,New Mexico,1669178.0,new-orleans-pelicans,2528353,https://www.espn.com/nba/player/_/id/2528353/tony-snell,Career,601,21.8,43.1,39.4,84.6,2.3,1.1,0.2,0.4,1.4,0.5,6.1
+Garrett Temple,Garrett Temple,SF,36,77.0,195.0,LSU,4910000.0,new-orleans-pelicans,4023,https://www.espn.com/nba/player/_/id/4023/garrett-temple,Career,691,21.4,40.2,34.4,74.0,2.3,1.7,0.3,0.8,1.9,0.9,6.4
+Jonas Valanciunas,Jonas Valanciunas,C,30,83.0,265.0,--,14000000.0,new-orleans-pelicans,6477,https://www.espn.com/nba/player/_/id/6477/jonas-valanciunas,Career,695,26.1,56.3,35.9,78.5,9.5,1.2,1.0,0.4,2.9,1.6,13.4
+Zion Williamson,Zion Williamson,PF,22,78.0,284.0,Duke,10733400.0,new-orleans-pelicans,4395628,https://www.espn.com/nba/player/_/id/4395628/zion-williamson,Career,85,31.7,60.4,33.3,68.3,7.0,3.2,0.6,0.9,2.1,2.7,25.7
+Dominick Barlow,Dominick Barlow,F,19,82.0,220.0,--,0.0,san-antonio-spurs,4870562,https://www.espn.com/nba/player/_/id/4870562/dominick-barlow,,,,,,,,,,,,,
+Keita Bates-Diop,Keita Bates-Diop,SF,26,80.0,229.0,Ohio State,1729217.0,san-antonio-spurs,3136779,https://www.espn.com/nba/player/_/id/3136779/keita-bates-diop,Career,163,15.0,46.2,30.4,71.4,3.0,0.6,0.3,0.5,0.9,0.5,5.2
+Malaki Branham,Malaki Branham,G,19,77.0,195.0,Ohio State,0.0,san-antonio-spurs,4565201,https://www.espn.com/nba/player/_/id/4565201/malaki-branham,,,,,,,,,,,,,
+Devontae Cacok,Devontae Cacok,PF,25,79.0,240.0,North Carolina-Wilmington,364353.0,san-antonio-spurs,3946974,https://www.espn.com/nba/player/_/id/3946974/devontae-cacok,Career,36,6.3,62.1,0.0,50.0,2.2,0.2,0.3,0.4,0.7,0.2,2.5
+Zach Collins,Zach Collins,PF,24,83.0,250.0,Gonzaga,7000000.0,san-antonio-spurs,4066650,https://www.espn.com/nba/player/_/id/4066650/zach-collins,Career,182,17.5,45.2,32.7,74.3,4.2,1.1,0.7,0.3,2.3,1.1,6.0
+Keldon Johnson,Keldon Johnson,SF,22,78.0,220.0,Kentucky,2145720.0,san-antonio-spurs,4395723,https://www.espn.com/nba/player/_/id/4395723/keldon-johnson,Career,161,29.0,47.8,38.5,75.3,5.8,1.8,0.2,0.7,2.0,1.1,14.4
+Tre Jones,Tre Jones,PG,22,73.0,185.0,Duke,1517981.0,san-antonio-spurs,4395626,https://www.espn.com/nba/player/_/id/4395626/tre-jones,Career,106,13.4,48.7,23.2,80.0,1.7,2.6,0.1,0.5,0.9,0.6,4.8
+Romeo Langford,Romeo Langford,SG,22,77.0,216.0,Indiana,3804360.0,san-antonio-spurs,4397008,https://www.espn.com/nba/player/_/id/4397008/romeo-langford,Career,98,14.5,40.0,30.0,63.3,1.9,0.5,0.3,0.4,1.1,0.4,3.6
+Doug McDermott,Doug McDermott,SF,30,79.0,225.0,Creighton,13750000.0,san-antonio-spurs,2528588,https://www.espn.com/nba/player/_/id/2528588/doug-mcdermott,Career,527,20.9,47.6,40.9,82.0,2.3,0.9,0.1,0.2,1.5,0.7,9.2
+Jakob Poeltl,Jakob Poeltl,C,26,85.0,245.0,Utah,8750000.0,san-antonio-spurs,3134908,https://www.espn.com/nba/player/_/id/3134908/jakob-poeltl,Career,416,20.2,62.8,66.7,51.8,6.1,1.4,1.3,0.5,2.3,1.0,7.3
+Joshua Primo,Joshua Primo,SG,19,77.0,190.0,Alabama,3946800.0,san-antonio-spurs,4702176,https://www.espn.com/nba/player/_/id/4702176/joshua-primo,Career,50,19.3,37.4,30.7,74.6,2.3,1.6,0.5,0.4,1.6,1.1,5.8
+Josh Richardson,Josh Richardson,SG,28,77.0,200.0,Tennessee,11615328.0,san-antonio-spurs,2581190,https://www.espn.com/nba/player/_/id/2581190/josh-richardson,Career,438,29.8,42.8,36.5,83.9,3.1,2.7,0.6,1.1,2.3,1.4,12.0
+Isaiah Roby,Isaiah Roby,PF,24,80.0,230.0,Nebraska,1782621.0,san-antonio-spurs,4066392,https://www.espn.com/nba/player/_/id/4066392/isaiah-roby,Career,109,21.9,49.5,36.5,70.8,5.1,1.6,0.7,0.8,2.5,1.4,9.1
+Jeremy Sochan,Jeremy Sochan,F,19,80.0,225.0,Baylor,0.0,san-antonio-spurs,4610139,https://www.espn.com/nba/player/_/id/4610139/jeremy-sochan,,,,,,,,,,,,,
+D.J. Stewart Jr.,D.J. Stewart Jr.,F,23,78.0,205.0,Mississippi State,0.0,san-antonio-spurs,4396960,https://www.espn.com/nba/player/_/id/4396960/dj-stewart-jr,,,,,,,,,,,,,
+Devin Vassell,Devin Vassell,SG,21,77.0,200.0,Florida State,4235160.0,san-antonio-spurs,4395630,https://www.espn.com/nba/player/_/id/4395630/devin-vassell,Career,133,22.5,42.1,35.7,84.0,3.6,1.4,0.4,0.9,1.7,0.6,9.1
+Blake Wesley,Blake Wesley,G,19,77.0,185.0,Notre Dame,0.0,san-antonio-spurs,4683935,https://www.espn.com/nba/player/_/id/4683935/blake-wesley,,,,,,,,,,,,,
+Joe Wieskamp,Joe Wieskamp,SF,22,78.0,205.0,Iowa,202068.0,san-antonio-spurs,4397033,https://www.espn.com/nba/player/_/id/4397033/joe-wieskamp,Career,29,7.1,35.7,32.6,53.8,0.5,0.3,0.1,0.1,0.5,0.1,2.1
+Robert Woodard II,Robert Woodard II,SF,22,79.0,230.0,Mississippi State,1517981.0,san-antonio-spurs,4396961,https://www.espn.com/nba/player/_/id/4396961/robert-woodard-ii,Career,25,3.5,27.8,20.0,50.0,1.1,0.2,0.2,0.0,0.3,0.1,1.1
