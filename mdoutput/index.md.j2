@@ -22,3 +22,15 @@
 {{ output.data['text/plain'].rstrip() }}
 ```
 {%- endblock data_text -%}
+
+{% block data_svg %}
+[!image]({{output.key_svg}})
+{% endblock data_svg %}
+
+{% block data_png %}
+[!image]({{output.key_png}})
+{% endblock data_png %}
+
+{% block data_jpg %}
+[!image]({{output.key_jpg}})
+{% endblock data_jpg %}

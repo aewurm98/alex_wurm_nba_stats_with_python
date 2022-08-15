@@ -1117,4 +1117,8 @@ plt.title('Age vs Salary', fontsize=16);
 
 #### Run the `espn_nba_stats_scrape.py` file in this repository to pull your own copy of the data we analyzed
 
-
+``` python
+# jupyter nbconvert --template=mdoutput --to markdown 
+# --ClearMetadataPreprocessor.enabled=False --ExecutePreprocessor.timeout=1440 
+# --ClearOutput.enabled=False --execute alex_wurm_nba_stats_analysis.ipynb
+```
