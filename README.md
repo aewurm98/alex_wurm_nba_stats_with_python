@@ -856,7 +856,7 @@ all_players_df.head(5)
 ```
 
 ``` output
-<bound method DataFrame.to_markdown of                               Name POS  Age    HT     WT     College  \
+Name POS  Age    HT     WT     College  \
 Malcolm Brogdon    Malcolm Brogdon  PG   29  77.0  229.0    Virginia   
 Jaylen Brown          Jaylen Brown  SG   25  78.0  223.0  California   
 Bruno Caboclo        Bruno Caboclo   F   26  81.0  218.0          --   
