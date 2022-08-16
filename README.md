@@ -1755,7 +1755,7 @@ plt.legend(loc='upper right')
 plt.title('Age vs Salary', fontsize=16);
 ```
 
-![REGRESSION3](./nbconvert_files/nbconvert_137_0.png "Age vs Salary Polynomial Regressions")
+![REGRESSION3](./nbconvert_files/nbconvert_145_0.png "Age vs Salary Polynomial Regressions")
 
 #### It is clear from the above that the degree of the polynomial to which we fit our data has a considerable impact on ouir predictions.
 
