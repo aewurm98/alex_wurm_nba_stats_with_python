@@ -1483,7 +1483,7 @@ legend.set_label('Correlation Coefficient',fontsize=12, )
 plt.title('Stats Correlation Matrix', fontsize=16)
 ```
 
-![HEATMAP](./alex_wurm_nba_stats_analysis_nbconvert_files/alex_wurm_nba_stats_analysis.nbconvert_117_1.png "Correlation matrix of NBA player career stats")
+![HEATMAP](./nbconvert_files/nbconvert_117_1.png "Correlation matrix of NBA player career stats")
 
 #### As you can see, there are many weak relationships (noise) that aren't worth spending our time on (e.g., the correlation between AST & PF). Also, some of the strong relationships are fairly obvious (e.g., the direct relationship between GP and Age, or Height and Weight).
 
@@ -1523,7 +1523,7 @@ plt.ylabel("Turnovers per game (Career)")
 plt.title('Assists vs Turnovers', fontsize=16);
 ```
 
-![REGRESSION1](./alex_wurm_nba_stats_analysis_nbconvert_files/alex_wurm_nba_stats_analysis.nbconvert_123_0.png "AST to TO Linear Regression")
+![REGRESSION1](./nbconvert_files/nbconvert_123_0.png "AST to TO Linear Regression")
 
 ``` python
 # get the slope of the line that characterizes this linear relationship
@@ -1682,7 +1682,7 @@ plt.ylabel("Player Salary")
 plt.title('Age vs Salary', fontsize=16);
 ```
 
-![REGRESSION2](./alex_wurm_nba_stats_analysis_nbconvert_files/alex_wurm_nba_stats_analysis.nbconvert_137_0.png "Age vs Salary Linear Regression")
+![REGRESSION2](./nbconvert_files/nbconvert_137_0.png "Age vs Salary Linear Regression")
 
 
 ``` python
@@ -1755,7 +1755,7 @@ plt.legend(loc='upper right')
 plt.title('Age vs Salary', fontsize=16);
 ```
 
-![REGRESSION3](./alex_wurm_nba_stats_analysis_nbconvert_files/alex_wurm_nba_stats_analysis.nbconvert_137_0.png "Age vs Salary Polynomial Regressions")
+![REGRESSION3](./nbconvert_files/nbconvert_137_0.png "Age vs Salary Polynomial Regressions")
 
 #### It is clear from the above that the degree of the polynomial to which we fit our data has a considerable impact on ouir predictions.
 
