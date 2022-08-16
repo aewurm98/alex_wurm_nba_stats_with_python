@@ -1,4 +1,4 @@
-# Data analytics in Python: Scraping and learning from NBA player statistics [TODO: Add outputs (incl. saved image files) in the README]
+# Data analytics in Python: Scraping and learning from NBA player statistics
 
 #### Alex Wurm
 
