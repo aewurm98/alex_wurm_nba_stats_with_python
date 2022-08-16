@@ -394,7 +394,7 @@ bkn.head(5)
 ```
 
 ``` output
-<bound method DataFrame.to_markdown of                                 Name POS Age      HT       WT     College  \
+ Name POS Age      HT       WT     College  \
 LaMarcus Aldridge  LaMarcus Aldridge   C  37  6' 11"  250 lbs       Texas   
 Nic Claxton              Nic Claxton  PF  23  6' 11"  215 lbs     Georgia   
 Seth Curry                Seth Curry  SG  31   6' 2"  185 lbs        Duke   
@@ -406,7 +406,7 @@ LaMarcus Aldridge   $1,669,178
 Nic Claxton         $1,782,621  
 Seth Curry          $8,207,518  
 David Duke Jr.              --  
-Kevin Durant       $42,018,900  >
+Kevin Durant       $42,018,900
 ```
 
 #### Similarly to how we created the all_players dict, we'll need to create a dataframe for each team and roll them all up into one master dataframe for analysis of all NBA players
@@ -431,7 +431,7 @@ all_players_df.head(5)
 ```
 
 ``` output
-<bound method DataFrame.to_markdown of                               Name POS  Age    HT     WT     College  \
+Name POS  Age    HT     WT     College  \
 Malcolm Brogdon    Malcolm Brogdon  PG   29  77.0  229.0    Virginia   
 Jaylen Brown          Jaylen Brown  SG   25  78.0  223.0  California   
 Bruno Caboclo        Bruno Caboclo   F   26  81.0  218.0          --   
@@ -459,7 +459,7 @@ Bruno Caboclo     30.8  83.6  2.6  0.7  0.6  0.3  1.3  0.7   4.2  1.000000
 JD Davison         NaN   NaN  NaN  NaN  NaN  NaN  NaN  NaN   NaN       NaN  
 Danilo Gallinari  38.2  87.7  4.8  1.9  0.4  0.7  1.8  1.2  15.6  1.583333  
 
-[5 rows x 24 columns]>
+[5 rows x 24 columns]
 ```
 
 #### At this point we have a complete dataset of basic player information -- we'll still want to add player performance statistics to this dataset to have something interesting to analyze, but for anyone who wants to play around with this initial dataset, you can export it to a csv file below
@@ -636,12 +636,12 @@ all_player_ids_df.head(5)
 ```
 
 ``` output
-<bound method DataFrame.to_markdown of                        id                                                url
+                    id                                                url
 Malcolm Brogdon   2566769  https://www.espn.com/nba/player/_/id/2566769/m...
 Jaylen Brown      3917376  https://www.espn.com/nba/player/_/id/3917376/j...
 Bruno Caboclo     3113297  https://www.espn.com/nba/player/_/id/3113297/b...
 JD Davison        4576085  https://www.espn.com/nba/player/_/id/4576085/j...
-Danilo Gallinari     3428  https://www.espn.com/nba/player/_/id/3428/dani...>
+Danilo Gallinari     3428  https://www.espn.com/nba/player/_/id/3428/dani...
 ```
 
 ``` python
@@ -660,7 +660,7 @@ all_players_df.head(5)
 ```
 
 ``` output
-<bound method DataFrame.to_markdown of                               Name POS  Age    HT     WT     College  \
+Name POS  Age    HT     WT     College  \
 Malcolm Brogdon    Malcolm Brogdon  PG   29  77.0  229.0    Virginia   
 Jaylen Brown          Jaylen Brown  SG   25  78.0  223.0  California   
 Bruno Caboclo        Bruno Caboclo   F   26  81.0  218.0          --   
@@ -688,7 +688,7 @@ Bruno Caboclo     30.8  83.6  2.6  0.7  0.6  0.3  1.3  0.7   4.2  1.000000
 JD Davison         NaN   NaN  NaN  NaN  NaN  NaN  NaN  NaN   NaN       NaN  
 Danilo Gallinari  38.2  87.7  4.8  1.9  0.4  0.7  1.8  1.2  15.6  1.583333  
 
-[5 rows x 24 columns]>
+[5 rows x 24 columns]
 ```
 
 #### Now that we finally have a complete dataframe with unique ids, we can go back and scrape all player pages for their career stats
@@ -884,7 +884,7 @@ Bruno Caboclo     30.8  83.6  2.6  0.7  0.6  0.3  1.3  0.7   4.2  1.000000
 JD Davison         NaN   NaN  NaN  NaN  NaN  NaN  NaN  NaN   NaN       NaN  
 Danilo Gallinari  38.2  87.7  4.8  1.9  0.4  0.7  1.8  1.2  15.6  1.583333  
 
-[5 rows x 24 columns]>
+[5 rows x 24 columns]
 ```
 
 ## We now have a complete dataset of biographical information and career stats for every player in the NBA!!!
@@ -1207,7 +1207,7 @@ atlanta-hawks       9.333333  1.746221
 boston-celtics      8.811765  1.962619  
 brooklyn-nets      12.720000  1.643913  
 charlotte-hornets   8.564706       NaN  
-chicago-bulls       9.633333  1.466584  >
+chicago-bulls       9.633333  1.466584  
 ```
 
 ``` python
@@ -1249,7 +1249,7 @@ sacramento-kings        19.5  157.3  28.076076
 san-antonio-spurs       11.4   99.7  26.146537  
 toronto-raptors         16.4  150.5  31.477291  
 utah-jazz               17.6  140.7        NaN  
-washington-wizards      16.4  149.3  28.538292  >
+washington-wizards      16.4  149.3  28.538292  
 ```
 
 #### I think the 'sum' view is more interesting than the 'mean' view for team-wide stats, so let's stick with this dataframe for a minute
@@ -1583,7 +1583,7 @@ Bruno Caboclo     30.8  83.6  2.6  0.7  0.6  0.3  1.3  0.7   4.2  1.000000
 JD Davison         NaN   NaN  NaN  NaN  NaN  NaN  NaN  NaN   NaN       NaN  
 Danilo Gallinari  38.2  87.7  4.8  1.9  0.4  0.7  1.8  1.2  15.6  1.583333  
 
-[5 rows x 24 columns]>
+[5 rows x 24 columns]
 ```
 
 ``` python
@@ -1648,7 +1648,7 @@ min      0.000000    0.000000    0.000000    0.000000    0.000000    0.000000
 25%      0.200000    0.400000    1.325000    0.600000    5.400000    1.153947  
 50%      0.300000    0.700000    1.800000    1.000000    8.250000    1.583333  
 75%      0.600000    0.900000    2.200000    1.500000   12.600000    2.088933  
-max      2.300000    2.100000    3.800000    4.100000   27.200000         inf  >
+max      2.300000    2.100000    3.800000    4.100000   27.200000         inf  
 ```
 
 #### For most stats, there are a wide range of values across the entire NBA
